@@ -10,6 +10,7 @@ Bank soal & materi persiapan CPNS (SKD: TWK, TIU, TKP) — latihan harian ala Du
 - `materi/` — paket materi SKD
 - `dokumen/` — checklist dokumen pendaftaran CPNS
 - `riset/` — riset formasi terbaik, kisi-kisi SKD vs sekolah kedinasan, info CPNS terbaru, dan metode belajar
+- `docs/` — dokumen desain aplikasi (brief pembangunan, riset algoritma FSRS/Elo/Birdbrain-lite, desain UI). Kode aplikasi tinggal di Muse (artifact) dan tidak bisa di-export; folder ini berisi desainnya agar bisa diteliti.
 
 ## Struktur SKD (KepmenPANRB 321/2024)
 
@@ -20,7 +21,7 @@ Bank soal & materi persiapan CPNS (SKD: TWK, TIU, TKP) — latihan harian ala Du
 ## Status
 
 - CPNS umum 2026 belum dibuka (per November 2026); pengumuman tahapan/formasi diperkirakan ~20 November 2026; portal resmi satu-satunya: sscasn.bkn.go.id
-- Aplikasi latihan interaktif (Duolingo CPNS) tinggal di Muse — repo ini berisi kontennya (soal, materi, riset).
+- Aplikasi latihan interaktif (Duolingo CPNS) tinggal di Muse — repo ini berisi kontennya (soal, materi, riset) dan dokumen desain aplikasinya.
 
 ## Cara pakai
 
