@@ -6,7 +6,7 @@ Bank soal & materi persiapan CPNS (SKD: TWK, TIU, TKP) — latihan harian ala Du
 
 ## Isi repo
 
-- `soal/` — sesi latihan harian (Hari 1–11) + simulasi penuh CAT SKD 110 soal / 100 menit
+- `soal/` — sesi latihan harian (Hari 1–12) + simulasi penuh CAT SKD 110 soal / 100 menit
 - `materi/` — paket materi SKD
 - `dokumen/` — checklist dokumen pendaftaran CPNS
 - `riset/` — riset formasi terbaik, kisi-kisi SKD vs sekolah kedinasan, info CPNS terbaru, dan metode belajar
