@@ -1,7 +1,7 @@
 # Latihan CPNS Hari 18 — Selasa, 24 November 2026
-**Fokus: TIU Verbal — Analogi & Silogisme + Penalaran Analitis (HARD) · 35 soal baru · Target: baru ≥24/30, ulangan 5/5 · Waktu soal: ~55 menit, total sesi ~2 jam termasuk pelajaran & koreksi**
+**Fokus: TIU Verbal — Silogisme + Penalaran Induktif + Analitis (HARD) · 35 soal · Target: Total ≥29/35 · Inti ≥21/27 · Pemanasan 8/8 · Waktu soal: ~60 menit, total sesi ~2 jam termasuk pelajaran & koreksi**
 
-*Sesuai rotasi mingguan: Selasa = TIU verbal (analogi & silogisme). Semua soal di bawah ini BARU — tidak mengulang satu pun soal Hari 1–17 maupun simulasi (dicek terhadap file Hari 1–17, simulasi 14 Nov, sesi HOTS, dan drill estimasi). Semua soal memakai 5 opsi (A–E) mengikuti format CAT BKN asli. Soal dibuat dari pola yang sama dengan soal SKD 2023–2024 (bukan soal resmi BKN — BKN tidak mempublikasikan soal SKD). Kerjakan di aplikasi (klik), jangan menulis jawaban manual.*
+*Sesuai rotasi mingguan: Selasa = TIU verbal (silogisme, penalaran induktif & analitis; analogi hanya pemanasan). Semua soal di bawah ini BARU — tidak mengulang satu pun soal Hari 1–17 maupun simulasi (dicek terhadap file Hari 1–17, simulasi 14 Nov, sesi HOTS, dan drill estimasi). Semua soal memakai 5 opsi (A–E) mengikuti format CAT BKN asli. Soal dibuat dari pola yang sama dengan soal SKD 2023–2024 (bukan soal resmi BKN — BKN tidak mempublikasikan soal SKD). Kerjakan di aplikasi (klik), jangan menulis jawaban manual.*
 
 > **Status dasbor (cek 24 Nov 09:55):** Sandi mengerjakan **Hari 10 (29/30, 145/150)** dan **Hari 11 (25/30, 125/150)** kemarin, Senin 23 Nov — skor Hari 11 di atas target ≥24. **Hari 15 belum dikerjakan**, jadi tidak ada soal salah Hari 15 untuk diulang hari ini; sebagai gantinya sesi ini membawa **5 soal ulangan variasi dari 5 kesalahan Hari 11** (No. 5, 10, 20, 26, 30) — semuanya tepat pada topik hari ini. Streak 1, XP 1.455, Elo 1.881. Buku kesalahan: 22 kartu aktif jatuh tempo hari ini — kerjakan lewat mode FSRS di tab Buku setelah sesi ini. Hari 9, 12, 13, 14, 16, 17 masih menunggu dikerjakan. Skor Hari 10 (29/30) **tidak dipakai untuk kalibrasi** — sebagian terinflasi tell jawaban terpanjang yang sudah diperbaiki 23 Nov.
 
@@ -19,9 +19,17 @@ Sebelum materi baru, tulis satu kalimat untuk tiap pola yang salah kemarin (tanp
 
 ---
 
-## Pelajaran fundamental 1: Analogi HOTS — semua opsi tampak benar, pembeda = kata kerja & lapis ketiga
+## Pelajaran pemanasan: Analogi — drill pola relasi (bukan kuota inti)
 
-Pola HOTS Hari 13 (TKP) kini berlaku untuk TIU verbal: **pembeda hanya kelengkapan**. Di analogi, kelengkapan itu hidup di dua tempat:
+Pembeda soal analogi ada di kata kerja dan lapis ketiga relasinya — tentukan hubungannya dulu, lalu uji tiap opsi dengan hubungan dan arah yang sama persis. Delapan soal analogi di sesi ini berlabel PEMANASAN (drill pola relasi) dan tidak dihitung dalam kuota inti TIU Verbal 2026.
+
+## Pelajaran fundamental 1: Penalaran Induktif — generalisasi dari fakta terpisah
+
+- **Kelompokkan fakta** menurut jumlah faktor yang hadir (0→1→2).
+- **Kunci = generalisasi yang didukung SEMUA fakta**, bukan yang paling kuat di satu fakta.
+- **Waspadai empat jebakan:** variabel tunggal; perbandingan dua faktor yang salah arah; klaim yang dibantah satu fakta; kausalitas terbalik.
+- **Kata absolut di pengecoh** ("hanya/selalu/pasti") adalah tanda pengecoh, bukan tanda kunci — tetapi kunci yang benar di sini TIDAK memakai kata absolut, jadi jangan menebak dari kata absolut saja.
+
 
 1. **Kata kerja penghubung.** Dua pasangan bisa sama-sama "berhubungan", tapi kata kerjanya beda: *membuka* vs *menghubungkan* vs *menunjukkan* vs *menerangi* (Hari 11 No. 4). Sebelum memilih, ucapkan kata kerjanya: "X **melakukan apa** terhadap Y?"
 2. **Lapis ketiga (analogi 3 kata).** Dua lapis pertama cocok belum cukup — uji lapis ketiga dengan kata kerja yang sama: penerbit **menerbitkan** buku; galeri **memamerkan** lukisan (bukan menerbitkan). Kalau kata kerjanya berubah, opsi itu gugur.
@@ -49,93 +57,101 @@ Notasi yang dipakai di semua pembahasan hari ini (invarian QA 13):
 
 ## Soal (35 soal baru)
 
-### A. Analogi (soal 1–12)
+### A. Analogi — PEMANASAN (drill pola relasi, di luar kuota inti) (soal 1–4, 6, 11)
 
-**1. PENULIS : BUKU : PENERBIT = … : … : …**
+**1. 【PEMANASAN — Analogi (drill)】 PENULIS : BUKU : PENERBIT = … : … : …**
 A. Pelukis : Lukisan : Galeri
 B. Sutradara : Film : Bioskop
 C. Komposer : Simfoni : Orkestra
 D. Penari : Tari : Panggung
 E. Pencipta lagu : Lagu : Label rekaman
 
-**2. Sebagaimana gembok mengunci pintu agar orang tidak bisa masuk, maka …**
+**2. 【PEMANASAN — Analogi (drill)】 Sebagaimana gembok mengunci pintu agar orang tidak bisa masuk, maka …**
 A. kata sandi mengunci akun agar pengguna tidak bisa mengakses
 B. pagar membatasi halaman agar orang tidak masuk sembarangan
 C. kunci membuka brankas agar pemilik bisa mengambil isinya
 D. alarm mengawasi rumah agar pencuri tidak berani masuk
 E. pagar kawat menghalangi ternak agar tidak keluar
 
-**3. Sebagaimana akar menyerap air agar tumbuhan bisa tumbuh, maka …**
+**3. 【PEMANASAN — Analogi (drill)】 Sebagaimana akar menyerap air agar tumbuhan bisa tumbuh, maka …**
 A. batang menopang daun agar tumbuhan bisa berdiri tegak
 B. bunga menarik lebah agar penyerbukan bisa terjadi
 C. daun menyerap cahaya agar tumbuhan bisa berfotosintesis
 D. tanah menyimpan air agar akar bisa menyerapnya
 E. pupuk memberi nutrisi agar tanaman bisa tumbuh subur
 
-**4. RIANG : GEMBIRA = … : …**
+**4. 【PEMANASAN — Analogi (drill)】 RIANG : GEMBIRA = … : …**
 A. Marah : Kesal
 B. Marah : Membentak
 C. Marah : Merah
 D. Marah : Tenang
 E. Marah : Api
 
-**5. RINTIK : HUJAN = … : …**
-A. Hujan : Payung
-B. Hujan : Banjir
-C. Hujan : Awan
-D. Gerimis : Hujan
-E. Hujan : Becek
-
-**6. JARI : TANGAN = … : …**
+**6. 【PEMANASAN — Analogi (drill)】 JARI : TANGAN = … : …**
 A. Kaki : Badan
 B. Jari : Kuku
 C. Tangan : Sarung tangan
 D. Tangan : Jempol
 E. Lengan : Bahu
 
-**7. PRAJURIT : PASUKAN = … : …**
-A. Kelas : Sekolah
-B. Siswa : Buku
-C. Siswa : Meja
-D. Kelas : Ruang
-E. Siswa : Kelas
-
-**8. NGANTUK : TIDUR = … : …**
-A. Makan : Kenyang
-B. Tidur : Mimpi
-C. Ngantuk : Kopi
-D. Lapar : Makan
-E. Lapar : Perut
-
-**9. GULA : MANIS = … : …**
-A. Garam : Putih
-B. Cabai : Pedas
-C. Garam : Laut
-D. Garam : Masakan
-E. Garam : Kristal
-
-**10. BERAT : TIMBANGAN = … : …**
-A. Panas : Termometer
-B. Panas : Api
-C. Panas : Matahari
-D. Panas : Kipas
-E. Panas : Keringat
-
-**11. BENANG : KAIN = … : …**
+**11. 【PEMANASAN — Analogi (drill)】 BENANG : KAIN = … : …**
 A. Kain : Kapas
 B. Kain : Baju
 C. Kain : Jarum
 D. Kain : Warna
 E. Kain : Toko
 
-**12. PIANO : MEMAINKAN = … : …**
-A. Surat : Pos
-B. Surat : Amplop
-C. Surat : Menulis
-D. Surat : Kertas
-E. Surat : Prangko
+### B. Penalaran Induktif (soal 5, 7–10, 12)
 
-### B. Silogisme (soal 13–24)
+**5.** Enam gerai kopi mencatat kenaikan jumlah pelanggan dalam satu kuartal: 1. Gerai A: jam buka standar, menu tetap — naik 3%. 2. Gerai B: jam buka diperpanjang, menu tetap — naik 8%. 3. Gerai C: jam buka standar, menu musiman ditambah — naik 10%. 4. Gerai D: jam buka diperpanjang, menu musiman ditambah — naik 17%. 5. Gerai E: jam buka standar, menu tetap — naik 4%. 6. Gerai F: jam buka diperpanjang, menu musiman ditambah — naik 19%. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+
+A. Menu musiman menjadi penyebab utama kenaikan jumlah pelanggan di gerai kopi tersebut
+B. Gerai dengan jam buka standar mencatat kenaikan pelanggan lebih tinggi daripada gerai lain
+C. Kenaikan jumlah pelanggan mendorong gerai memperpanjang jam operasional dan menambah menu musiman
+D. Semakin panjang jam buka dan semakin beragam menu, semakin besar kenaikan jumlah pelanggan
+E. Perpanjangan jam operasional berpengaruh lebih besar daripada penambahan menu musiman terhadap pelanggan
+
+**7.** Enam tim layanan pelanggan mencatat skor kepuasan pelanggan (skala 0–100): 1. Tim A: pelatihan standar, basis pengetahuan terpisah — skor 68. 2. Tim B: pelatihan komunikasi khusus, basis pengetahuan terpisah — skor 76. 3. Tim C: pelatihan standar, basis pengetahuan terpadu — skor 78. 4. Tim D: pelatihan komunikasi khusus, basis pengetahuan terpadu — skor 86. 5. Tim E: pelatihan standar, basis pengetahuan terpisah — skor 70. 6. Tim F: pelatihan komunikasi khusus, basis pengetahuan terpadu — skor 88. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+
+A. Pelatihan komunikasi berpengaruh lebih besar daripada basis pengetahuan terpadu terhadap kepuasan pelanggan
+B. Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin tinggi skor kepuasan pelanggan layanan
+C. Pelatihan komunikasi menjadi faktor penentu utama skor kepuasan pelanggan di tim layanan
+D. Tim dengan skor kepuasan tertinggi bekerja dengan pelatihan standar dan basis terpisah
+E. Skor kepuasan pelanggan yang tinggi mendorong tim mengikuti pelatihan dan memadukan basis pengetahuan
+
+**8.** Enam gudang mencatat rata-rata waktu pencarian barang (menit): 1. Gudang A: label rak standar, jalur pengambilan lama — 14 menit. 2. Gudang B: label rak kode warna, jalur pengambilan lama — 11 menit. 3. Gudang C: label rak standar, jalur pengambilan ditata ulang — 10 menit. 4. Gudang D: label rak kode warna, jalur pengambilan ditata ulang — 7 menit. 5. Gudang E: label rak standar, jalur pengambilan lama — 15 menit. 6. Gudang F: label rak kode warna, jalur pengambilan ditata ulang — 6 menit. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+
+A. Jalur pengambilan yang ditata ulang menjadi penyebab utama singkatnya waktu pencarian barang gudang
+B. Label kode warna saja sudah cukup membuat waktu pencarian barang menjadi yang tercepat.
+C. Gudang dengan jalur lama mencatat waktu pencarian lebih singkat daripada gudang dengan jalur baru
+D. Waktu pencarian barang yang singkat mendorong gudang memberi label kode warna pada rak
+E. Semakin jelas label rak dan semakin tertata jalur pengambilan, semakin singkat waktu pencarian barang
+
+**9.** Enam kelas mencatat nilai rata-rata ujian akhir: 1. Kelas A: diskusi kelompok jarang, kuis singkat jarang — 62. 2. Kelas B: diskusi kelompok rutin, kuis singkat jarang — 71. 3. Kelas C: diskusi kelompok jarang, kuis singkat rutin — 73. 4. Kelas D: diskusi kelompok rutin, kuis singkat rutin — 82. 5. Kelas E: diskusi kelompok jarang, kuis singkat jarang — 64. 6. Kelas F: diskusi kelompok rutin, kuis singkat rutin — 84. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+
+A. Semakin rutin diskusi kelompok dan kuis singkat, semakin tinggi nilai rata-rata ujian kelas
+B. Kuis singkat tiap pekan menjadi faktor utama tingginya nilai rata-rata ujian di kelas
+C. Diskusi kelompok rutin berpengaruh lebih besar daripada kuis singkat terhadap nilai rata-rata ujian
+D. Kelas dengan diskusi jarang dan kuis jarang mencatat nilai rata-rata tertinggi di kelas
+E. Nilai rata-rata ujian yang tinggi mendorong kelas mengadakan diskusi kelompok dan kuis singkat
+
+**10.** Enam regu produksi mencatat jumlah produk cacat per 1.000 unit: 1. Regu A: kalibrasi mesin jarang, pemeriksaan bahan baku jarang — 38 cacat. 2. Regu B: kalibrasi mesin rutin, pemeriksaan bahan baku jarang — 27 cacat. 3. Regu C: kalibrasi mesin jarang, pemeriksaan bahan baku rutin — 25 cacat. 4. Regu D: kalibrasi mesin rutin, pemeriksaan bahan baku rutin — 14 cacat. 5. Regu E: kalibrasi mesin jarang, pemeriksaan bahan baku jarang — 40 cacat. 6. Regu F: kalibrasi mesin rutin, pemeriksaan bahan baku rutin — 12 cacat. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+
+A. Kalibrasi mesin rutin berpengaruh lebih besar daripada pemeriksaan bahan baku terhadap jumlah produk cacat
+B. Pemeriksaan bahan baku menjadi penyebab utama rendahnya jumlah produk cacat di regu produksi
+C. Regu dengan pemeriksaan jarang mencatat produk cacat lebih sedikit daripada regu dengan pemeriksaan rutin
+D. Semakin rutin kalibrasi mesin dan pemeriksaan bahan baku, semakin sedikit produk cacat regu
+E. Jumlah produk cacat yang rendah mendorong regu mengkalibrasi mesin dan memeriksa bahan baku
+
+**12.** Enam pasar tradisional mencatat jumlah pengunjung harian: 1. Pasar A: los dagang acak, area parkir sempit — 1.200 pengunjung. 2. Pasar B: los dagang tertata, area parkir sempit — 1.800 pengunjung. 3. Pasar C: los dagang acak, area parkir luas — 1.900 pengunjung. 4. Pasar D: los dagang tertata, area parkir luas — 2.700 pengunjung. 5. Pasar E: los dagang acak, area parkir sempit — 1.300 pengunjung. 6. Pasar F: los dagang tertata, area parkir luas — 2.900 pengunjung. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+
+A. Penataan los dagang berpengaruh lebih besar daripada perluasan parkir terhadap jumlah pengunjung pasar
+B. Perluasan area parkir menjadi faktor utama banyaknya pengunjung harian di pasar tradisional
+C. Semakin tertata los dagang dan semakin luas parkir, semakin banyak pengunjung harian pasar
+D. Pasar dengan los acak dan parkir sempit mencatat pengunjung lebih banyak daripada pasar lain
+E. Jumlah pengunjung harian yang banyak mendorong pasar menata los dagang dan memperluas parkir
+
+### C. Silogisme (soal 13–24)
 
 **13.** Premis 1: Semua mahasiswa penerima beasiswa prestasi lulus dengan IPK di atas 3,5.
 Premis 2: Sebagian mahasiswa penerima beasiswa prestasi adalah mahasiswa Fakultas Teknik.
@@ -252,7 +268,7 @@ C. Semua pegawai yang datang sebelum pukul 07.30 membawa bekal dari rumah
 D. Tidak dapat disimpulkan
 E. Dewi mendapat sarapan gratis
 
-### C. Penalaran analitis (soal 25–30)
+### D. Penalaran analitis (soal 25–30)
 
 **25.** Delapan orang — Intan, Jaya, Kartika, Lestari, Made, Nita, Oka, Putri — duduk melingkar menghadap pusat. Diketahui:
 (1) Intan duduk berhadapan dengan Made.
@@ -326,50 +342,37 @@ C. Putih
 D. Kuning
 E. Hijau
 
-### D. Ulangan variasi — 5 kesalahan Hari 11 (soal 31–35)
+### E. Ulangan variasi — 5 kesalahan Hari 11 (soal 31–35)
 
-**31. (Ulangan Hari 11 No. 5 — tempat koleksi)** MUSEUM : ARCA = … : …
+**31. 【PEMANASAN — Ulangan Hari 11】** MUSEUM : ARCA = … : …
 A. Perpustakaan : Buku
 B. Gudang : Barang
 C. Sekolah : Siswa
 D. Rumah sakit : Pasien
 E. Pasar : Pedagang
 
-**32. (Ulangan Hari 11 No. 10 — alat : benda yang dipotong)** PISAU : ROTI = … : …
+**32. 【PEMANASAN — Ulangan Hari 11】** PISAU : ROTI = … : …
 A. Palu : Paku
 B. Obeng : Sekrup
 C. Gunting : Kertas
 D. Kuas : Cat
 E. Kompor : Gas
 
-**33. (Ulangan Hari 11 No. 20 — rantai panjang 4 premis)** Premis 1: Semua surat yang sudah ditandatangani digital tersimpan di arsip elektronik.
-Premis 2: Semua surat yang tersimpan di arsip elektronik dapat dicari berdasarkan kata kunci.
-Premis 3: Sebagian surat yang dapat dicari berdasarkan kata kunci berstatus sangat rahasia.
-Premis 4: Surat S sudah ditandatangani digital.
-Kesimpulan yang PASTI benar adalah…
+**33. (Ulangan Hari 11 No. 20)** Premis 1: Semua surat yang sudah ditandatangani digital tersimpan di arsip elektronik. Premis 2: Semua surat yang tersimpan di arsip elektronik dapat dicari berdasarkan kata kunci. Premis 3: Sebagian surat yang dapat dicari berdasarkan kata kunci berstatus sangat rahasia. Premis 4: Surat S sudah ditandatangani digital. Kesimpulan yang PASTI benar adalah…
 A. Surat S berstatus sangat rahasia
 B. Surat S dapat dicari berdasarkan kata kunci
 C. Semua surat sangat rahasia sudah ditandatangani digital
 D. Surat S tidak dapat dicari berdasarkan kata kunci
 E. Tidak dapat disimpulkan
 
-**34. (Ulangan Hari 11 No. 26 — duduk melingkar 6 orang)** Enam orang — Rina, Sari, Tono, Udin, Vina, Wawan — duduk melingkar menghadap pusat. Diketahui:
-(1) Rina duduk di antara Sari dan Tono.
-(2) Udin duduk tepat di seberang Sari.
-(3) Vina duduk tepat di sebelah kiri Udin.
-Siapa yang duduk tepat di sebelah kanan Rina?
+**34. (Ulangan Hari 11 No. 26)** Enam orang — Rina, Sari, Tono, Udin, Vina, Wawan — duduk melingkar menghadap pusat. Diketahui: (1) Rina duduk di antara Sari dan Tono. (2) Udin duduk tepat di seberang Sari. (3) Vina duduk tepat di sebelah kiri Udin. Siapa yang duduk tepat di sebelah kanan Rina?
 A. Sari
 B. Tono
 C. Udin
 D. Vina
 E. Wawan
 
-**35. (Ulangan Hari 11 No. 30 — posisi linear)** Lima bendera — Ungu, Jingga, Biru, Kuning, Hijau — dipasang berjajar dari kiri ke kanan. Diketahui:
-(1) Bendera Ungu tepat di sebelah kiri bendera Jingga.
-(2) Bendera Biru berada di antara bendera Ungu dan bendera Kuning.
-(3) Bendera Hijau berada di ujung kanan.
-(4) Bendera Kuning berada di ujung kiri.
-Bendera mana yang berada di posisi ke-3 dari kiri?
+**35. (Ulangan Hari 11 No. 30)** Lima bendera — Ungu, Jingga, Biru, Kuning, Hijau — dipasang berjajar dari kiri ke kanan. Diketahui: (1) Bendera Ungu tepat di sebelah kiri bendera Jingga. (2) Bendera Biru berada di antara bendera Ungu dan bendera Kuning. (3) Bendera Hijau berada di ujung kanan. (4) Bendera Kuning berada di ujung kiri. Bendera mana yang berada di posisi ke-3 dari kiri?
 A. Kuning
 B. Biru
 C. Jingga
@@ -380,43 +383,53 @@ E. Ungu
 
 ## Kunci jawaban + pembahasan
 
-### Analogi
+### Analogi (pemanasan)
 
 **1. E — Pencipta lagu : Lagu : Label rekaman.** (1) E karena relasinya pencipta : karya : penyalur yang menerbitkan/mendistribusikan karya; (2) Langkah: 1. Tentukan kata kerja lapis ketiga: penerbit *menerbitkan* buku. 2. Uji tiap opsi dengan kata kerja yang sama. 3. Galeri *memamerkan*, bioskop *menayangkan*, orkestra *memainkan*, panggung tempat pentas — semuanya bukan menerbitkan; (3) Trik: dua lapis pertama yang cocok belum cukup — jebakan selalu dipasang di lapis ketiga.
 **Jebakan:** Opsi A–D semuanya benar di lapis 1–2 (pencipta : karya); yang membedakan hanya kata kerja lapis ketiga.
 
-**2. A — Kata sandi mengunci akun agar pengguna tidak bisa mengakses.** (1) A karena kata kerjanya sama persis: *mengunci* penghalang agar akses ditolak; (2) Langkah: 1. Garis bawahi kata kerjanya: mengunci. 2. Coret opsi yang kata kerjanya beda: membatasi, membuka, mengawasi, menghalangi; (3) Trik: di analogi kalimat, cari kata kerja penghubungnya dulu — struktur kalimat yang mirip bukan jaminan.
+**2. A — kata sandi mengunci akun agar pengguna tidak bisa mengakses.** (1) A karena kata kerjanya sama persis: *mengunci* penghalang agar akses ditolak. (2) Langkah: 1. Garis bawahi kata kerjanya: mengunci. 2. Coret opsi yang kata kerjanya beda: membatasi, membuka, mengawasi, menghalangi. (3) Trik: di analogi kalimat, cari kata kerja penghubungnya dulu — struktur kalimat yang mirip bukan jaminan.
+
 **Jebakan:** Opsi B dan E memakai penghalang yang mirip (pagar) tapi kata kerjanya beda; opsi C memakai kata kerja yang berlawanan (membuka).
 
-**3. C — Daun menyerap cahaya agar tumbuhan bisa berfotosintesis.** (1) C karena relasinya bagian tumbuhan : *menyerap* : zat : proses hidup; (2) Langkah: 1. Kata kerjanya: menyerap. 2. Coret menopang, menarik, menyimpan, memberi; (3) Trik: tujuan yang sama ("agar tumbuh") bukan pembeda — kata kerjanya yang membedakan.
-**Jebakan:** Opsi E menggoda karena tujuannya sama persis ("agar tanaman bisa tumbuh subur"), tapi kata kerjanya *memberi*, bukan *menyerap*.
+**3. C — daun menyerap cahaya agar tumbuhan bisa berfotosintesis.** (1) C karena relasinya bagian tumbuhan : *menyerap* : zat : proses hidup. (2) Langkah: 1. Kata kerjanya: menyerap. 2. Coret menopang, menarik, menyimpan, memberi. (3) Trik: tujuan yang sama ('agar tumbuh') bukan pembeda — kata kerjanya yang membedakan.
+
+**Jebakan:** Opsi E menggoda karena tujuannya sama persis ('agar tanaman bisa tumbuh subur'), tapi kata kerjanya *memberi*, bukan *menyerap*.
 
 **4. A — Marah : Kesal.** (1) A karena relasinya sinonim: riang ≈ gembira, marah ≈ kesal; (2) Langkah: 1. Tentukan relasinya: dua kata sifat yang maknanya sama. 2. Coret pasangan yang relasinya lain: emosi:tindakan (membentak), emosi:warna muka (merah), antonim (tenang), emosi:kiasan (api); (3) Trik: opsi yang memasangkan kata dengan benda terkait (api, merah) bukan sinonim — sinonim harus sesama kata sifat yang maknanya sama.
 **Jebakan:** Opsi D (tenang) adalah antonim — jebakan arah relasi yang paling murah.
 
-**5. D — Gerimis : Hujan.** (1) D karena relasinya intensitas ringan : istilah umum: rintik adalah hujan ringan, gerimis adalah hujan ringan; (2) Langkah: 1. Tentukan relasinya: jenis ringan : nama umumnya. 2. Coret fenomena:pelindung (payung), sebab:akibat (banjir, becek), fenomena:sumber (awan); (3) Trik: opsi yang menyebut akibat hujan (banjir, becek) memang berhubungan dengan hujan, tapi relasinya bukan gradasi.
-**Jebakan:** Opsi B dan E sama-sama akibat hujan — keduanya salah arah relasi, bukan salah fakta.
-
 **6. A — Kaki : Badan.** (1) A karena relasinya bagian : keseluruhan: jari bagian dari tangan, kaki bagian dari badan; (2) Langkah: 1. Tentukan arahnya: bagian → keseluruhan. 2. Coret bagian:sub-bagian (kuku bagian dari jari), benda:pelindung (sarung tangan), keseluruhan:bagian (jempol), bagian:bagian bersebelahan (bahu); (3) Trik: selalu tandai arah relasi — opsi yang membalik arah (D) adalah jebakan klasik.
 **Jebakan:** Opsi D (Tangan : Jempol) membalik arah relasi; opsi B (Jari : Kuku) turun satu tingkat terlalu dalam.
-
-**7. E — Siswa : Kelas.** (1) E karena relasinya anggota : kelompok: prajurit anggota pasukan, siswa anggota kelas; (2) Langkah: 1. Tentukan relasinya: anggota → kelompoknya. 2. Coret kelompok:kelompok yang lebih besar (kelas:sekolah), anggota:alat (buku), anggota:perabot (meja), kelompok:tempat (ruang); (3) Trik: "kelas : sekolah" tampak seperti anggota:kelompok, tapi kelas adalah kelompok itu sendiri, bukan anggotanya.
-**Jebakan:** Opsi A adalah jebakan tingkat: kelompok : kelompok yang lebih besar, bukan anggota : kelompok.
-
-**8. D — Lapar : Makan.** (1) D karena relasinya sebab (kondisi tubuh) : tindakan untuk mengatasinya: ngantuk → tidur, lapar → makan; (2) Langkah: 1. Tentukan arahnya: kondisi → respons. 2. Coret tindakan:akibat (makan → kenyang, arah terbalik), tindakan:yang dialami (tidur → mimpi), sebab:penawar (kopi), sebab:tempat (perut); (3) Trik: opsi yang membalik sebab-akibat (A) selalu tampak masuk akal karena kedua katanya memang berhubungan.
-**Jebakan:** Opsi A (Makan : Kenyang) membalik arah: kenyang adalah akibat makan, bukan respons terhadap lapar.
-
-**9. B — Cabai : Pedas.** (1) B karena relasinya benda : rasa khasnya: gula manis, cabai pedas; (2) Langkah: 1. Tentukan relasinya: rasa. 2. Coret benda:warna (putih), benda:asal (laut), benda:kegunaan (masakan), benda:bentuk (kristal) — semuanya sifat garam yang benar, tapi bukan rasa; (3) Trik: pengecoh yang benar faktanya tapi salah relasinya adalah jebakan tersulit — yang diuji relasinya, bukan faktanya.
-**Jebakan:** Opsi A, C, D, E semuanya benar sebagai fakta tentang garam — tapi tidak satu pun tentang rasa.
-
-**10. A — Panas : Termometer.** (1) A karena relasinya yang diukur : alat ukurnya: berat diukur timbangan, panas diukur termometer; (2) Langkah: 1. Tentukan relasinya: alat ukur. 2. Coret yang diukur:sumber (api), akibat:sebab (matahari), yang diukur:penawar (kipas), sebab:akibat (keringat); (3) Trik: sumber dari yang diukur (api, matahari) bukan alat ukurnya.
-**Jebakan:** Opsi B (api) menggoda karena api memang berhubungan erat dengan panas — tapi api bukan alat ukur.
 
 **11. B — Kain : Baju.** (1) B karena relasinya bahan : produk yang dibuat darinya: benang → kain, kain → baju; (2) Langkah: 1. Tentukan arahnya: bahan → produk. 2. Coret produk:bahan (kapas — arah terbalik), bahan:alat (jarum), bahan:sifat (warna), bahan:tempat jual (toko); (3) Trik: opsi yang membalik arah (B) selalu memakai kata yang sama dengan stem, hanya urutannya dibalik.
 **Jebakan:** Opsi A (Kain : Kapas) membalik arah: kapas adalah bahan pembuat kain, bukan produk dari kain.
 
-**12. C — Surat : Menulis.** (1) C karena relasinya benda : kegiatan khas yang dilakukan terhadap benda itu: piano dimainkan, surat ditulis; (2) Langkah: 1. Tentukan relasinya: kegiatan. 2. Coret benda:pengirim (pos), benda:wadah (amplop), benda:bahan (kertas), benda:pelengkap (prangko); (3) Trik: pasangan benda dengan hal terkaitnya (amplop, prangko, kertas) semuanya benar faktanya — yang dicari adalah kegiatan.
-**Jebakan:** Opsi A, B, D, E memasangkan surat dengan benda yang memang melekat padanya — tapi relasinya bukan kegiatan.
+### Penalaran Induktif
+
+**5. D — Semakin panjang jam buka dan semakin beragam menu, semakin besar kenaikan jumlah pelanggan.** (1) D karena kedua faktor bergerak searah dengan hasil pada semua gerai: 0 intervensi → 3–4%, 1 intervensi → 8–10%, 2 intervensi → 17–19%. (2) Langkah: 1. Kelompokkan gerai menurut jumlah intervensi: A dan E = 0; B dan C = 1; D dan F = 2. 2. Bandingkan hasil tiap kelompok: 3–4% < 8–10% < 17–19%. 3. Kenaikan mengikuti jumlah intervensi, bukan satu faktor saja. (3) Trik: pada soal induktif, kelompokkan dulu fakta menurut jumlah faktor yang hadir — pola gradasi 0→1→2 adalah tanda generalisasi dua faktor.
+
+**Jebakan:** Opsi A hanya melihat gerai C (menu saja 10%) dan mengabaikan gerai B (jam saja 8%) — satu faktor tidak menjelaskan kenaikan terbesar; opsi B dibantah gerai D dan F (17–19% mengalahkan 10% tertinggi gerai standar); opsi C membalik arah sebab-akibat — data tidak menunjukkan pelanggan menyebabkan perubahan jam dan menu; opsi E dibantah pasangan B vs C (menu saja 10% mengalahkan jam saja 8%).
+
+**7. B — Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin tinggi skor kepuasan pelanggan layanan.** (1) B karena gradasi dua faktor utuh: 0 intervensi → 68–70, 1 intervensi → 76–78, 2 intervensi → 86–88. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Skor naik seiring jumlah intervensi pada tiap kelompok. 3. Skor tertinggi hanya muncul saat kedua faktor hadir. (3) Trik: bila dua kelompok faktor-tunggal sama-sama menengah, generalisasi yang benar menyebut kedua faktor — bukan memilih satu sebagai pemenang.
+
+**Jebakan:** Opsi A dibantah pasangan B vs C (basis saja 78 mengalahkan pelatihan saja 76); opsi C dibantah tim C (78 dengan pelatihan standar); opsi D dibantah tim D dan F (86 dan 88 justru memakai pelatihan khusus dan basis terpadu); opsi E membalik arah sebab-akibat.
+
+**8. E — Semakin jelas label rak dan semakin tertata jalur pengambilan, semakin singkat waktu pencarian barang.** (1) E karena waktu menyusut seiring jumlah intervensi: 0 → 14–15 menit, 1 → 10–11 menit, 2 → 6–7 menit. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Urutkan waktu tiap kelompok: 14–15 > 10–11 > 6–7. 3. Waktu tersingkat hanya muncul saat kedua faktor hadir. (3) Trik: bila hasil yang diinginkan adalah "semakin kecil", balik arah baca gradasi — kelompok 2 intervensi harus memegang nilai terkecil.
+
+**Jebakan:** Opsi A dibantah gudang B (label saja memangkas 14–15 menjadi 11 menit); opsi B dibantah gudang C (10 menit dengan label standar mengalahkan gudang B yang 11 menit dengan label kode warna) — label saja tidak cukup membuat waktu tercepat; waktu tersingkat (6–7 menit) hanya muncul saat kedua faktor hadir; opsi C dibantah gudang A dan E (14–15 menit adalah yang terlambat); opsi D membalik arah sebab-akibat.
+
+**9. A — Semakin rutin diskusi kelompok dan kuis singkat, semakin tinggi nilai rata-rata ujian kelas.** (1) A karena gradasi dua faktor utuh: 0 → 62–64, 1 → 71–73, 2 → 82–84. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Nilai naik seiring jumlah intervensi pada tiap kelompok. 3. Nilai tertinggi hanya muncul saat kedua kegiatan rutin. (3) Trik: dua kelompok faktor-tunggal yang nilainya berdekatan (71 dan 73) menandakan kedua faktor sama-sama berkontribusi — jangan memilih satu sebagai "faktor utama".
+
+**Jebakan:** Opsi B dibantah kelas B (diskusi saja menaikkan 62–64 menjadi 71); opsi C dibantah pasangan B vs C (kuis saja 73 mengalahkan diskusi saja 71); opsi D dibantah kelas A dan E (62 dan 64 adalah yang terendah, bukan tertinggi); opsi E membalik arah sebab-akibat.
+
+**10. D — Semakin rutin kalibrasi mesin dan pemeriksaan bahan baku, semakin sedikit produk cacat regu.** (1) D karena cacat menyusut seiring jumlah intervensi: 0 → 38–40, 1 → 25–27, 2 → 12–14. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Urutkan cacat tiap kelompok: 38–40 > 25–27 > 12–14. 3. Cacat terendah hanya muncul saat kedua pemeriksaan rutin. (3) Trik: bila kedua kelompok faktor-tunggal sama-sama menengah (25 dan 27), generalisasi dua faktor lebih kuat daripada klaim satu faktor — periksa pasangan faktor-tunggal sebelum memilih.
+
+**Jebakan:** Opsi A dibantah pasangan B vs C (pemeriksaan saja 25 mengalahkan kalibrasi saja 27); opsi B dibantah regu B (kalibrasi saja memangkas 38–40 menjadi 27); opsi C dibantah regu A dan B (38 dan 27 melebihi 25, 14, dan 12); opsi E membalik arah sebab-akibat.
+
+**12. C — Semakin tertata los dagang dan semakin luas parkir, semakin banyak pengunjung harian pasar.** (1) C karena gradasi dua faktor utuh: 0 → 1.200–1.300, 1 → 1.800–1.900, 2 → 2.700–2.900. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Pengunjung naik seiring jumlah intervensi pada tiap kelompok. 3. Pengunjung terbanyak hanya muncul saat kedua faktor hadir. (3) Trik: angka yang berdekatan di kelompok faktor-tunggal (1.800 dan 1.900) adalah sinyal kedua faktor sebanding — generalisasi yang benar memuat keduanya.
+
+**Jebakan:** Opsi A dibantah pasangan B vs C (parkir saja 1.900 mengalahkan los saja 1.800); opsi B dibantah pasar B (los saja menaikkan 1.200–1.300 menjadi 1.800); opsi D dibantah pasar A dan E (1.200 dan 1.300 adalah yang tersedikit); opsi E membalik arah sebab-akibat.
 
 ### Silogisme
 
@@ -497,8 +510,8 @@ E. Ungu
 
 ## Setelah mengerjakan
 
-- **Skor sesi ini:** ___ / 35 (baru ___ / 30, ulangan ___ / 5). Target: baru ≥24/30, ulangan 5/5.
-- **Konteks skor TIU:** SKD TIU berisi 35 soal, tiap benar = 5 poin (maks 175). Passing grade TIU 2024: **80 (16 benar)**. Target aman: **110+ (22 benar dari 35)**. Sesi 30 soal baru hari ini setara ~86% satu subtes TIU — skor 24/30 di sini ≈ 120 poin TIU.
+- **Skor sesi ini:** ___ / 35 (inti ___ / 27, pemanasan ___ / 8). Target: Total ≥29/35 · Inti ≥21/27 · Pemanasan 8/8.
+- **Konteks skor TIU:** SKD TIU berisi 35 soal, tiap benar = 5 poin (maks 175). Passing grade TIU 2024: **80 (16 benar)**. Target aman: **110+ (22 benar dari 35)**. Sesi 27 soal inti hari ini setara ~77% satu subtes TIU — target inti 21/27 (≈78%) plus pemanasan 8/8; total 29/35 = 145 poin TIU.
 - **Distribusi kunci sesi ini (terverifikasi): A7 / B7 / C7 / D7 / E7 — tidak ada posisi yang memuat >40% kunci** (pelajaran cacat Hari 7 diterapkan: kunci diacak dan distribusi diperiksa sebelum diterbitkan).
 - **Buku kesalahan:** soal yang salah di sesi ini diulang **Jumat, 27 Nov 2026** (3 hari kemudian, spaced repetition 1–3–7–14–30). Soal salah Hari 10 No. 14 (TWK narasi) diulang di sesi TWK berikutnya; soal salah Hari 11 sudah diulang sebagai variasi di sesi ini (No. 31–35).
 - **Besok (Rabu, 25 Nov):** TIU numerik — deret & soal cerita, sesuai rotasi. Soal salah Hari 16 diulang besok bila sudah dijawab.

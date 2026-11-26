@@ -20,7 +20,8 @@ Satu panel bisa membawa dua atau tiga pola sekaligus: bentuk bergantian + jumlah
 - **Putaran 45° punya 8 arah** — tuliskan derajatnya (0, 45, 90, … 315) agar ↙ (225°) tidak tertukar dengan ↖ (315°).
 - **Isi berubah tiap dua langkah** (penuh, penuh, kosong, kosong) — kelompokkan panel berpasangan sebelum menyimpulkan.
 
-### 3. Ketidaksamaan: HITUNG, jangan tebak bentuk
+### 3. Ketidaksamaan (item resmi 2024, drill — BUKAN penalaran matriks 2026): HITUNG, jangan tebak bentuk
+Ketidaksamaan adalah item resmi KepmenPANRB 321/2024; di KepmenPANRB 674/2026 slotnya digantikan penalaran matriks (grid 3×3, 1 sel kosong, analisis multi-perspektif) — keenam soal ketidaksamaan di sesi ini (No. 19–24) adalah drill tipe 2024, BUKAN soal penalaran matriks, dan tidak boleh dihitung sebagai matriks.
 Tiga gambar mengikuti satu aturan, satu melanggar. Aturan tersembunyi yang paling sering keluar: (a) jumlah titik = jumlah sisi; (b) jumlah sisi genap/ganjil; (c) kedua bangun bersisi sama; (d) posisi (hitam selalu di kiri); (e) semua bangun berbeda. Jangan pilih gambar yang "paling berbeda bentuknya" — pilih yang MELANGGAR ATURANNYA. Bila bentuknya terlihat acak, jumlahkan sisinya atau hitung titiknya.
 
 ### 4. Analogi gambar: transformasi GANDA (pola lemah simulasi!)
@@ -121,7 +122,7 @@ D. ⬟ + 3 titik
 A. ○▲
 B. ▲□
 C. □○
-D. ○□
+D. ▲○
 
 **9.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi beberapa bangun yang sama. Isi yang tepat untuk kotak bertanda ? adalah…
 
@@ -129,9 +130,9 @@ D. ○□
 ●●● | ■ | ▲▲
 ■■ | ▲▲▲ | ?*
 
-A. ■ (1 buah)
+A. ● (1 buah)
 B. ▲ (1 buah)
-C. ● (1 buah)
+C. ■ (1 buah)
 D. ●● (2 buah)
 
 **10.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi satu persegi dengan satu titik kecil di salah satu sudutnya. Posisi titik yang tepat untuk kotak bertanda ? adalah…
@@ -407,9 +408,9 @@ D. □
 **Jebakan:** Menjawab ⬟ + 3 titik karena titiknya dikira naik terus — titiknya berotasi 1–2–3, bukan naik tanpa henti; setelah 3 kembali ke 1.
 
 **8. C — □○.** (1) C karena per baris berlaku XOR: bentuk yang muncul di kedua kotak pertama dihapus, sisanya dipertahankan. Baris 3: □▲ dan ▲○ — ▲ muncul dua kali (dihapus), tersisa □○. (2) Uji baris 1: ○□ dan □▲ → □ terhapus, tersisa ○▲, cocok dengan kotak ketiga; baris 2 pun cocok: ▲○ dan ○□ → ▲□. (3) Trik: XOR = 'yang kembar hilang'. Hitung kemunculan tiap bentuk: muncul 2 kali berarti hilang, muncul 1 kali berarti lolos.
-**Jebakan:** Menjawab ○□ karena menggabungkan semua bentuk tanpa menghapus yang kembar — gabungan mentah menghasilkan tiga bentuk, padahal jawabannya selalu dua bentuk.
+**Jebakan:** Menjawab ▲○ karena menyalin kotak kedua baris 3 — jawaban harus hasil XOR dua kotak pertama, bukan salinan salah satunya.
 
-**9. C — ● (1 buah).** (1) C karena tiap baris jumlah elemennya selalu 6 (baris 3: 2 + 3 + 1) dan tiap baris memuat ketiga bentuk — yang belum muncul di baris 3 adalah lingkaran, jadi jawabannya 1 lingkaran. (2) Uji baris 1: 1 + 2 + 3 = 6 dengan bentuk ▲, ●, ■; baris 2: 3 + 1 + 2 = 6 dengan bentuk yang sama. (3) Trik: bila kotaknya berisi banyak bangun yang sama, hitung JUMLAHNYA dulu — jumlah adalah pola yang paling sering disembunyikan.
+**9. A — ● (1 buah).** (1) A karena tiap baris jumlah elemennya selalu 6 (baris 3: 2 + 3 + 1) dan tiap baris memuat ketiga bentuk — yang belum muncul di baris 3 adalah lingkaran, jadi jawabannya 1 lingkaran. (2) Uji baris 1: 1 + 2 + 3 = 6 dengan bentuk ▲, ●, ■; baris 2: 3 + 1 + 2 = 6 dengan bentuk yang sama. (3) Trik: bila kotaknya berisi banyak bangun yang sama, hitung JUMLAHNYA dulu — jumlah adalah pola yang paling sering disembunyikan.
 **Jebakan:** Menjawab ●● karena mengira jumlahnya mengikuti kolom — jumlah 6 berlaku per BARIS; kolom 3 adalah 3, 2, 1 yang justru mengonfirmasi jawaban 1.
 
 **10. D — Titik di kiri atas.** (1) D karena titik kecil bergerak searah jarum jam mengelilingi sudut persegi: baris 3 adalah kanan bawah → kiri bawah → kiri atas. (2) Uji kolom 1 ke bawah: kiri atas → kanan atas → kanan bawah, gerakannya sama searah jarum jam. (3) Trik: soal posisi — jangan hafal gambarnya, hafal URUTAN posisinya (kiri atas → kanan atas → kanan bawah → kiri bawah → kembali).
@@ -486,6 +487,13 @@ D. □
 
 ## Catatan verifikasi (untuk Mommy, sebelum sesi diterbitkan di aplikasi)
 
-- **Distribusi kunci final (30 soal): A 8, B 8, C 8, D 6.** Perincian: A = No. 3, 6, 11, 17, 20, 24, 28, 30; B = No. 2, 5, 12, 15, 19, 22, 25, 29; C = No. 1, 4, 7, 8, 9, 14, 18, 27; D = No. 10, 13, 16, 21, 23, 26. Tiap posisi ≤26,7% — tidak ada posisi >40%. (Dihitung otomatis dari file sesi JSON.)
+- **Distribusi kunci final (30 soal): A 9, B 8, C 7, D 6.** Perincian: A = No. 3, 6, 9, 11, 17, 20, 24, 28, 30; B = No. 2, 5, 12, 15, 19, 22, 25, 29; C = No. 1, 4, 7, 8, 14, 18, 27; D = No. 10, 13, 16, 21, 23, 26. Tiap posisi ≤30% — tidak ada posisi >40%. (Dihitung otomatis dari file sesi JSON; diperbarui 25 Nov 2026 — arsip lama menulis A8/C8 karena kunci No. 9 masih C sebelum reorder 03:20; live: No. 9 = A.)
+- **Verifikasi Butir 9 (25 Nov 2026, live via getsession):** 30/30 kunci benar; kategori matriks 10 / serial 8 / ketidaksamaan 6 / analogi 6; judul + intro aplikasi diperbarui (ketidaksamaan = drill tipe 2024, bukan penalaran matriks); trik Q19–Q24 diperbaiki di server (sebelumnya menampilkan trik serial).
 - **Tidak mengulang soal:** dicek terhadap file Hari 1–13 + simulasi + set HOTS — pola XOR, rotasi 45° matriks, jumlah sisi kolom 15, analogi cermin, dan ketidaksamaan genap/ganjil semuanya susunan BARU (aturan yang sama dengan Sim 56/59/62 dipakai sebagai variasi, bukan soal identik).
 - **Semua soal figural memakai figureJson** (diagram SVG di aplikasi): matriks 10, serial 8, ketidaksamaan 6 (groups), analogi 6 — tanpa satu pun soal figural tanpa gambar.
+
+## Anomali arsip (dicatat 25 Nov 2026, Butir 9 — baca ini sebelum memakai arsip sebagai acuan)
+
+- **Blok "Bagian B: Serial gambar (Soal 11–18)" berisi duplikat:** entri **2.**–**10.** di blok itu adalah salinan persis soal matriks Bagian A (No. 2–10), bukan soal serial. Soal serial yang benar di blok itu hanya **11.** (dan **12.**–**18.**, yang salah label berada di "Bagian C"). Penomoran bagian arsip ini bergeser: "Bagian C" memuat serial 12–18 + ketidaksamaan 19; "Bagian D" memuat ketidaksamaan 20–24 + analogi 25. Penomoran yang benar menurut aplikasi (live): matriks 1–10, serial 11–18, ketidaksamaan 19–24, analogi 25–30.
+- **Stem soal No. 26–30 (analogi gambar) TIDAK ADA di arsip ini** — hanya kunci + pembahasan No. 26–30 yang tercatat di atas. Stem lengkap hanya ada di aplikasi (live, terverifikasi via getsession 25 Nov 2026).
+- **Kunci No. 8/9 di arsip ini sudah disinkronkan ke live** (opsi D No. 8 = ▲○, No. 9 = A) — salinan duplikat di blok "Bagian B" MASIH memuat versi lama (opsi D No. 8 = ○□, No. 9 = C); abaikan blok duplikat itu.

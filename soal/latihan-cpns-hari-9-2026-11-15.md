@@ -73,10 +73,11 @@ C. Dewan Perwakilan Rakyat
 D. Mahkamah Agung
 
 **2. (TWK — Bahasa Indonesia)** Bacalah teks berikut: *"Digitalisasi pelayanan publik bukan sekadar memindahkan antrean ke layar ponsel. Keberhasilannya ditentukan oleh kesiapan infrastruktur, literasi digital warga, dan kemauan birokrasi mengubah proses kerja — bukan hanya membeli aplikasi baru. Tanpa ketiganya, layanan digital hanya memindahkan antrean lama ke tempat baru."* Ide pokok teks tersebut adalah…
-A. Layanan digital memindahkan antrean warga ke ponsel
-B. Membeli aplikasi baru adalah langkah utama digitalisasi pelayanan
-C. Keberhasilan digitalisasi pelayanan publik ditentukan oleh infrastruktur, literasi warga, dan perubahan proses kerja
-D. Warga harus belajar memakai layanan digital agar antrean berkurang
+A. Layanan digital hanya memindahkan antrean warga dari loket fisik ke layar ponsel mereka masing-masing
+B. Membeli aplikasi baru adalah langkah utama dalam digitalisasi pelayanan publik di daerah
+C. Keberhasilan digitalisasi ditentukan infrastruktur dan literasi warga serta perubahan proses kerja
+D. Warga harus mempelajari layanan digital agar antrean panjang di loket fisik cepat berkurang
+E. Digitalisasi berhasil bila warga bersedia mengantre lewat ponsel dan bukan lagi di loket fisik
 
 **3. (TIU verbal — analogi 3 kata)** GURU : SEKOLAH : MENGAJAR = …
 A. KOKI : RESTORAN : MEMASAK
@@ -175,17 +176,19 @@ D. 12
 
 *Soal 16–17 mengulang pola salah Hari 7 (TKP ketegasan prosedural). Soal 18–21 mengulang pola salah Hari 6 (deret kuadrat−1, soal cerita pekerja-hari, rata-rata gabungan, jumlah–selisih). Skenario dan angkanya BARU — yang diuji polanya, bukan hafalan jawabannya.*
 
-**16. (Ulangan Hari 7 No. 22 — TKP profesionalisme)** Seorang rekan meminta kunci jawaban ujian sertifikasi internal yang kamu susun. Sikap terbaikmu adalah…
-A. Menolak dengan tegas dan mengingatkan bahwa membocorkan soal melanggar integritas
-B. Memberikan kisi-kisi umum yang sudah dipublikasikan secara resmi
-C. Mengabaikan permintaan itu tanpa jawaban
-D. Memberikan beberapa soal yang menurutmu mudah saja
+**16. (Ulangan buku kesalahan — TKP integritas)** Anda duduk di panitia seleksi beasiswa pelatihan yang akan mengumumkan hasilnya besok pagi. Seorang rekan panitia berbisik meminta Anda memberitahukan skor seorang kandidat yang dikenalnya, dengan alasan ia hanya ingin tahu peluangnya. Sikap terbaik Anda adalah…
+A. Memberitahukan skor kandidat itu secara lisan, karena informasi lisan lebih sulit dilacak daripada dokumen tertulis.
+B. Menolak memberitahukan skor itu dan mengarahkan rekan itu menunggu pengumuman resmi besok pagi di kantor.
+C. Memberitahukan kisaran skor kandidat itu secara umum, agar rekan itu mendapat gambaran peluangnya sambil tetap menjaga kerahasiaan angka pastinya.
+D. Menolak memberitahukan skor itu, menjelaskan bahwa hasil seleksi bersifat rahasia sampai diumumkan, dan menegaskan pengumuman resmi besok pagi.
+E. Menunda menjawab permintaan itu dengan mengatakan Anda akan memeriksa dulu, sambil berharap rekan itu lupa dan tidak bertanya lagi.
 
-**17. (Ulangan Hari 7 No. 28 — TKP anti radikalisme)** Seorang rekan menolak memakai seragam dinas dengan alasan keyakinan pribadinya. Sikap terbaikmu adalah…
-A. Membiarkannya karena itu hak pribadi
-B. Melaporkan langsung ke atasan tanpa mengingatkannya dulu
-C. Mengingatkannya bahwa seragam adalah kewajiban ASN dan melaporkan bila ia tetap menolak
-D. Mengajaknya berdiskusi tentang keyakinan yang dianutnya
+**17. (Ulangan buku kesalahan — TKP profesionalisme)** Anda menjadi panitia upacara bendera Hari Kemerdekaan yang akan digelar besok pagi di kantor. Seorang rekan panitia memberi tahu Anda bahwa pengeras suara utama rusak dan suaranya tidak terdengar jelas. Petugas sound system sedang berada di luar kota dan baru kembali sore ini. Sikap terbaik Anda adalah…
+A. Segera memperbaiki sendiri pengeras suara itu dan memastikan suara terdengar jelas saat upacara dimulai.
+B. Meminta petugas sound system untuk memperbaikinya dan menunggu di samping panggung sampai selesai.
+C. Memakai pengeras suara cadangan yang suaranya lebih kecil sambil menunggu petugas datang.
+D. Meminta MC untuk berbicara lebih keras agar suaranya tetap terdengar oleh peserta upacara.
+E. Membiarkan pengeras suara itu rusak dan berharap tidak ada peserta yang memperhatikan.
 
 **18. (Ulangan Hari 6 No. 15 — deret)** 3, 8, 15, 24, 35, …
 A. 46
@@ -219,7 +222,7 @@ D. 50
 
 **1. D — Mahkamah Agung (Pasal 24A ayat 1).** MA berwenang menguji peraturan perundang-undangan di bawah UU terhadap UU. Jebakan: MK (A) menguji UU terhadap UUD — arahnya berlawanan. Ingat: "MA = peraturan DI BAWAH UU, MK = UU terhadap UUD."
 
-**2. C.** Ide pokok = kalimat yang dirangkum seluruh isi teks: keberhasilan digitalisasi ditentukan tiga hal (infrastruktur, literasi, perubahan proses). A terlalu sempit (hanya kalimat pertama), B bertentangan dengan teks ("bukan hanya membeli aplikasi baru"), D hanya sebagian.
+**2. C.** Ide pokok = kalimat yang merangkum seluruh isi teks: keberhasilan digitalisasi ditentukan tiga hal sekaligus — infrastruktur, literasi warga, dan perubahan proses kerja. A terlalu sempit (hanya memindahkan antrean — justru yang dikritik teks), B bertentangan dengan teks (membeli aplikasi disebut bukan langkah utama), D hanya satu penentu (literasi saja tidak cukup), E mengantre lewat ponsel tetap antrean lama di tempat baru. Jebakan: B terdengar masuk akal karena membeli aplikasi memang bagian dari digitalisasi — padahal teks menegaskan aplikasi baru saja tidak cukup tanpa ketiga penentu itu.
 
 **3. A — KOKI : RESTORAN : MEMASAK.** Relasi soal: profesi : tempat kerja : aktivitas khas. Hanya A yang cocok di ketiga unsur. B: mobil adalah alat, bukan tempat kerja. C: padi adalah hasil, bukan tempat. D: kanvas adalah media, bukan tempat kerja.
 
@@ -251,11 +254,11 @@ D. 50
 
 ### Bagian C — Ulangan buku kesalahan
 
-**16. A (5) — B (4), C (3), D (2).** Menolak tegas + ingatkan integritas = jawaban 5 poin (pola yang sama dengan Hari 7 No. 22: kunci jawaban tes internal). B boleh (kisi resmi yang dipublikasikan) tapi bukan respons terhadap permintaan bocoran. C pasif — pelanggaran tidak ditegur. D memberi bocoran sebagian — tetap pelanggaran.
-**Jebakan:** B terasa "membantu dan aman" — tapi jawaban 5 poin selalu *menegakkan* aturan dulu, bukan mengalihkan ke materi lain.
+**16. D (5) — A (1), B (4), C (2), E (3).** Hasil seleksi yang belum diumumkan adalah informasi rahasia panitia; membocorkannya — lisan maupun tertulis — melanggar integritas dan kepercayaan publik. D paling tepat (skor 5): menolak membocorkan, menjelaskan alasan kerahasiaan, dan memberi kepastian waktu pengumuman resmi. B baik tetapi hanya mengarahkan menunggu tanpa menjelaskan alasan (skor 4). E menunda tanpa kejelasan dan membiarkan rekan menggantung (skor 3). C membocorkan kisaran — tetap membocorkan (skor 2). A paling buruk (skor 1): membocorkan secara lisan justru menambah pelanggaran karena sulit dilacak.
+**Jebakan:** A terdengar aman karena "lisan lebih sulit dilacak" — padahal justru itulah yang membuatnya paling buruk.
 
-**17. C (5) — B (4), D (3), A (2).** Ingatkan kewajiban + laporkan bila tetap menolak = jawaban 5 poin (pola yang sama dengan Hari 7 No. 28: kewajiban ASN tidak bisa dinegosiasikan keyakinan pribadi). B langsung lapor tanpa mengingatkan dulu — melompati pembinaan. D mengajak diskusi ideologi — bukan ranahmu. A membiarkan pelanggaran.
-**Jebakan:** D terasa "terbuka dan dialogis" — tapi kewajiban ASN diingatkan, bukan didiskusikan.
+**17. A (5) — B (4), C (3), D (2), E (1).** Masalah teknis upacara harus diselesaikan sebelum acara, bukan dibiarkan atau dipindah bebannya. A paling tepat (skor 5): segera memperbaiki sendiri pengeras suara itu dan memastikan suara terdengar jelas saat upacara dimulai. B baik tetapi menunda penyelesaian ke petugas dan berisiko tidak selesai tepat waktu (skor 4). C hanya solusi sementara tanpa memperbaiki sumber masalah (skor 3). D memindah beban ke MC tanpa menyelesaikan kerusakan (skor 2). E paling buruk (skor 1): membiarkan kerusakan dan berharap tidak ada yang memperhatikan.
+**Jebakan:** B terdengar profesional karena melibatkan petugas — padahal menunda perbaikan justru berisiko upacara terganggu.
 
 **18. D — 48.** Pola n²−1: 2²−1=3, 3²−1=8, 4²−1=15, 5²−1=24, 6²−1=35, 7²−1=**48**. Ini pola Hari 6 No. 15 (deret yang sama, angka lanjutannya berbeda). Jebakan: C (49) adalah 7² tanpa dikurangi 1.
 
@@ -272,7 +275,7 @@ D. 50
 - **Skor review (Soal 1–10):** ___ / 10. Target: ≥8. Di bawah 8 → buka kembali pelajaran fundamental 1 dan kerjakan Bank Latihan topik yang salah.
 - **Skor SKB (Soal 11–15):** ___ / 5. Target: ≥4. Soal 11 sekaligus menutup soal tes SKB "/26 = 62 host usable" dari 7 Nov.
 - **Skor ulangan (Soal 16–21):** ___ / 6. Target: 6/6 — soal yang pernah salah tidak boleh salah dua kali. Kalau No. 16/17 masih di bawah 5 poin, drill lagi rumus jawaban 5 poin TKP (Hari 7) sebelum sesi berikutnya.
-- **Distribusi kunci sesi ini (diperiksa sebelum diterbitkan):** A5 / B4 / C6 / D6 — tidak ada posisi di atas 40% (pelajaran cacat Hari 7).
+- **Distribusi kunci sesi ini (diperiksa sebelum diterbitkan):** A5 / B4 / C5 / D7 — tidak ada posisi di atas 40% (pelajaran cacat Hari 7).
 - **Buku kesalahan:** soal yang salah di sesi ini masuk buku kesalahan aplikasi (jadwal FSRS 1–3–7–14–30 hari).
 - **Besok (Senin, 16 Nov):** TWK — 1 topik + soal (lanjutan rotasi: TWK narasi panjang + Bahasa Indonesia, atau pasal yang belum keluar).
 - **Tertunda — jangan lupa:** simulasi penuh 14 Nov (110 soal / 100 menit) BELUM dikerjakan; Hari 1, 2b, dan 8 juga masih menunggu. Kerjakan simulasi secepatnya — prediksi skor jujur hanya bisa dibuat setelah ada data waktu nyata.

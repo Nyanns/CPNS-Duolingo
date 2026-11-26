@@ -1,9 +1,9 @@
 # Latihan CPNS Hari 13 — Kamis, 19 November 2026
-**Fokus: TKP HOTS — Semua Opsi Tampak Benar (studi kasus) · 30 soal baru · Target: ≥135/150 (rata-rata ≥4,5/soal) · Waktu: ~45 menit soal, total sesi ~2 jam**
+**Fokus: TKP HOTS — Semua Opsi Tampak Benar (studi kasus) · 30 soal baru · Target: PG ≈111/150 · Target aman ≈124/150 (rata-rata ≥4,1/soal) · Waktu: ~45 menit soal, total sesi ~2 jam**
 
 *Sesuai rotasi mingguan: Kamis = TKP. Semua soal di bawah ini BARU — tidak mengulang satu pun soal Hari 1–12, simulasi 14 Nov, maupun Bedah HOTS (dicek terhadap file Hari 7, Hari 9, dan simulasi: skenario antrean, pungli viral, bocoran soal, data bocor, migrasi sistem, vendor, OTP, dan semua 45 TKP simulasi sudah dihindari). Soal dibuat berpola sama dengan SKD 2023–2024, bukan soal resmi BKN — BKN tidak mempublikasikan soal SKD. Tingkat kesulitan HARD (di atas SKD asli, perintah Sandi 12 Nov): narasi panjang, semua opsi tampak benar, pembeda hanya pada kelengkapan — aktif, konkret, prosedural, libatkan pihak tepat, ada jejak tertulis. Kerjakan dulu tanpa melihat kunci, baru cek jawaban.*
 
-*Catatan status: Hari 9, 10, 11, dan 12 belum dikerjakan di aplikasi (cek dasbor 19 Nov 09:57 WIB) — jadi TIDAK ada ulangan soal salah Hari 10 hari ini (ulangan itu batal karena Hari 10 belum dijawab; digeser ke hari setelah Hari 10 dikerjakan). Ulangan soal salah berjalan lewat mode FSRS di tab Buku — 16 item jatuh tempo hari ini, termasuk Sim No. 72 (TKP pelayanan publik). Soal salah Hari 12 + simulasi diulang Sabtu, 21 Nov (tryout mini + review kesalahan).*
+*Catatan status (REGENERASI BUTIR 10, 26 Nov 2026): bank soal sesi ini DIGANTI TOTAL — 30 soal TKP baru 5 opsi (A–E) standar Butir 10 (Elo 1550), menggantikan bank lama 19 Nov yang terbukti cacat pola (4 opsi, 7 soal tanpa skor 4, virus 'melewatkan' 20×, 28/30 kunci bertemplat checklist). Attempt 150/150 Sandi atas bank lama (25 Nov 2026, 13 menit) TERCATAT sebagai skor terinflasi di riwayat Profil dan TIDAK dihitung — kerjakan ulang sesi ini untuk skor yang sah. Soal di bawah ini disinkronkan dari live aplikasi pada 26 Nov 2026.*
 
 ---
 
@@ -53,307 +53,426 @@ Sejak perbaikan v14, opsi 5 poin sengaja dibuat TIDAK selalu terpanjang (korelas
 
 ---
 
-## Soal (30 soal baru — 5 per aspek)
+## Soal (30 soal baru — 5 per aspek) — REGENERASI BUTIR 10, 26 Nov 2026
 
-### Aspek 1 — Pelayanan publik (Soal 1–5)
+### Aspek — Pelayanan publik (Soal 1–5)
 
-**1.** Seorang warga datang lima menit sebelum loket tutup. Setelah kamu periksa, satu syarat dokumennya kurang, sementara antrean di belakangnya masih panjang. Tindakan terbaikmu adalah…
-A. Menolaknya karena loket hampir tutup dan memintanya kembali besok.
-B. Melayaninya hari itu sebisanya, menjelaskan dokumen yang kurang, dan memintanya kembali besok membawa dokumen itu.
-C. Melayaninya, menjelaskan dokumen yang kurang, membantu melengkapi yang bisa dilengkapi hari itu, dan memberi kepastian kapan ia bisa kembali dengan dokumen lengkap.
-D. Melayaninya sebagian, lalu memintanya kembali tanpa menjelaskan apa yang kurang.
+**1.** Seorang warga tunanetra datang mengurus surat keterangan domisili satu jam sebelum loket tutup. Formulir layanan di meja Anda hanya tersedia dalam format cetak biasa, sementara antrean di belakangnya masih panjang. Anda tahu petugas pendamping sedang bertugas di lapangan dan baru kembali besok pagi.
 
-**2.** Seorang ibu hamil trimester akhir datang mengurus dokumen dan antreannya masih panjang. Tindakan terbaikmu adalah…
-A. Mendahulukannya sesuai prioritas layanan bagi ibu hamil, sambil menjelaskan kepada antrean lain alasannya.
-B. Mendahulukannya tanpa menjelaskan apa pun kepada antrean lain.
-C. Memintanya menunggu seperti warga lain demi keadilan antrean.
-D. Menyuruhnya pulang dan kembali saat loket sepi.
+A. Meminta warga itu kembali besok pagi, saat petugas pendamping sudah bertugas kembali di loket bersama-sama sepenuhnya.
+B. Membacakan formulir itu dengan suara jelas dan meminta warga menandatangani tiap halaman satu demi satu di hadapan Anda.
+C. Membacakan formulir dengan jelas dan mengisi jawaban sesuai arahan warga, mencatat layanan sebagai pendampingan khusus.
+D. Mengarahkan warga itu ke antrean prioritas dan meminta ia mengisi formulir dengan bantuan keluarganya di rumah hari ini.
+E. Mencatat kebutuhan pendampingan warga itu dan menyampaikannya untuk dibahas di forum layanan, bersama tim Anda.
 
-**3.** Di luar jam kerja, seorang warga mengirim keluhan lewat DM akun Instagram resmi instansimu. Tindakan terbaikmu adalah…
-A. Mendiamkannya sampai Senin karena sudah di luar jam kerja.
-B. Membalas bahwa DM bukan kanal pengaduan resmi, lalu menutup percakapan.
-C. Membalas dengan permintaan maaf dan berjanji menindaklanjuti, tanpa mencatat aduannya.
-D. Membalas singkat bahwa aduannya diterima beserta nomor tiketnya, mencatatnya, dan menindaklanjutinya pada jam kerja.
+**2.** Seorang warga datang membawa seluruh berkas yang diminta, tetapi sistem verifikasi pusat sedang dalam pemeliharaan sampai sore hari. Warga itu harus berangkat kerja shift malam dan baru bisa kembali tiga hari lagi. Petugas verifikasi manual sedang cuti, sementara atasan Anda sedang rapat di luar kantor.
 
-**4.** Sistem antrean online sedang down. Seorang warga datang dengan bukti pendaftaran online-nya dan meminta dilayani. Tindakan terbaikmu adalah…
-A. Memintanya mendaftar ulang di mesin antrean seperti warga lain.
-B. Memverifikasi bukti pendaftarannya, melayaninya secara manual, dan mencatat gangguan itu untuk tim teknis.
-C. Melayaninya secara manual tanpa mencatat gangguan yang terjadi.
-D. Memintanya pulang dan mendaftar lagi besok saat sistem pulih.
+A. Meminta warga itu datang kembali tiga hari lagi, saat sistem verifikasi di loket sudah pulih hari ini.
+B. Menerima berkas warga itu dan menyimpannya di loket agar diproses begitu sistem verifikasi sudah pulih kembali.
+C. Menerima berkas warga itu dan memberikan tanda terima resmi, memprosesnya begitu sistem verifikasi pulih kembali.
+D. Menerima berkas warga itu dan memberi tanda terima resmi, memprosesnya saat sistem pulih dan menghubunginya segera.
+E. Menyimpan nama warga itu dalam agenda loket dan segera menghubunginya begitu sistem verifikasi sudah pulih kembali.
 
-**5.** Seorang warga lanjut usia ditolak layanannya karena foto dokumennya tidak sesuai ketentuan, dan ia tidak paham cara mengambil foto ulang. Tindakan terbaikmu adalah…
-A. Membantunya mengambil foto ulang di tempat sesuai ketentuan, memeriksanya, lalu memproses layanannya.
-B. Menjelaskan syarat foto yang benar dan memintanya kembali setelah foto ulang.
-C. Memintanya meminta tolong keluarganya untuk foto ulang.
-D. Menolaknya mentah-mentah karena syarat memang tidak terpenuhi.
+**3.** Seorang warga datang dengan nada tinggi karena berkasnya ditolak petugas shift sebelumnya, dan ia membawa surat penolakan yang alasannya sulit dipahami. Antrean di belakangnya mulai gelisah karena pelayanan terhenti cukup lama. Anda memegang berkas itu dan melihat ada satu syarat yang sebenarnya bisa dilengkapi di tempat.
 
-### Aspek 2 — Jejaring kerja (Soal 6–10)
+A. Menjelaskan penolakan itu dan membantu melengkapi syarat di tempat, mencatat kejadian itu untuk evaluasi bersama-sama.
+B. Menjelaskan alasan penolakan itu dengan tenang, membantu melengkapi syarat yang bisa dilengkapi di tempat sepenuhnya.
+C. Meminta warga itu tenang dan melayani berkasnya seperti warga lain yang menunggu di antrean panjang di loket.
+D. Mengarahkan warga itu kembali ke petugas shift sebelumnya, dan meminta penolakan dijelaskan langsung oleh yang bersangkutan.
+E. Mencatat keluhan warga itu di buku pengaduan, dan segera melayani warga berikutnya yang menunggu di antrean loket.
 
-**6.** Seorang rekan dari unit lain memintamu membantunya menyelesaikan tugas unitnya yang tenggatnya malam ini, padahal itu di luar jam kerjamu. Sikap terbaikmu adalah…
-A. Menolaknya karena tugas itu bukan tanggung jawabmu.
-B. Membantu semuanya sampai selesai meski melewati jam kerja.
-C. Membantu bagian yang paling mendesak, menyepakati batas waktunya, dan mengoordinasikannya dengan atasanmu.
-D. Berjanji membantunya, tetapi sebenarnya tidak kamu kerjakan.
+**4.** Di loket Anda, seorang warga membawa bayi, seorang warga lanjut usia, dan seorang ibu hamil menunggu bersamaan, sementara hanya ada satu kursi prioritas yang kosong. Ketiganya datang lebih dulu daripada warga lain yang sudah antre sejak pagi. Aturan layanan menyebut kelompok rentan mendapat prioritas, tetapi urutan di antara mereka tidak diatur rinci.
 
-**7.** Atasanmu berhalangan hadir dan memintamu menggantikannya sebagai narasumber dalam sebuah forum, padahal kamu baru diberi tahu satu jam sebelumnya. Sikap terbaikmu adalah…
-A. Menolaknya karena kamu bukan bidang yang dibahas dan waktunya terlalu mepet.
-B. Menerimanya, lalu menyerahkannya diam-diam kepada rekan lain tanpa memberi kabar.
-C. Menerimanya dan menyampaikan apa adanya sesuai yang kamu ketahui.
-D. Menerimanya, menyiapkan materi singkat dari bahan yang ada, menyampaikannya sesuai kapasitasmu, dan melaporkan hasilnya kepada atasan.
+A. Mempersilakan warga yang datang paling awal di antara ketiganya dan memintanya memakai kursi prioritas itu sepenuhnya hari ini.
+B. Mempersilakan ibu hamil memakai kursi prioritas dan meminta dua warga lain menunggu di antrean biasa sepenuhnya.
+C. Mempersilakan ketiganya maju bergantian sesuai kondisi masing-masing dan menjelaskan alasannya kepada antrean lain di belakang.
+D. Mencatat benturan prioritas itu dan menyampaikannya ke atasan, untuk ditindaklanjuti minggu depan bersama tim layanan Anda.
+E. Mempersilakan mereka maju bergantian sesuai kondisi dan menjelaskan alasan, mengajukan usul pengaturan prioritas ke atasan.
 
-**8.** Seorang anggota tim lintas unit hampir tidak pernah hadir dalam rapat, tetapi dalam laporan ia mengklaim ikut berkontribusi besar. Sikap terbaikmu adalah…
-A. Mengajaknya bicara berdua dengan data kehadiran, menyepakati pembagian tugas tertulis, dan melaporkannya ke koordinator bila sikap itu berulang.
-B. Menegurnya langsung di depan seluruh anggota tim.
-C. Membiarkannya karena itu bukan urusanmu.
-D. Melaporkannya langsung ke atasan tanpa pernah berbicara dengannya.
+**5.** Seorang warga datang untuk ketiga kalinya karena permohonannya selalu ditolak sistem akibat NIK ganda, padahal data di KTP-nya benar. Kesalahan itu berasal dari data pusat yang hanya bisa diperbaiki lewat permohonan resmi berjenjang. Warga itu membawa seluruh bukti pendukung dan meminta kepastian hari ini, sementara Anda memegang berkasnya di loket.
 
-**9.** Seorang rekan senior memintamu mengerjakan laporannya karena ia sedang sibuk, padahal laporan itu menjadi tanggung jawabnya. Sikap terbaikmu adalah…
-A. Menolaknya mentah-mentah karena itu bukan tugasmu.
-B. Membantu bagian yang bisa kamu kerjakan, menyepakati tenggatnya, dan memintanya tetap memeriksa serta menandatangani laporan itu sebagai penanggung jawab.
-C. Mengerjakannya seluruhnya, lalu menyerahkannya kembali kepadanya.
-D. Menerimanya, lalu mengerjakannya asal-asalan agar cepat selesai.
+A. Memeriksa seluruh bukti pendukung warga itu dan mengajukan permohonan perbaikan data ke pusat atas namanya segera bersama-sama.
+B. Memeriksa bukti warga itu dan mengajukan permohonan perbaikan data, serta memberi salinan pengajuan dan mencatat tenggatnya.
+C. Memberikan formulir permohonan perbaikan data, dan meminta warga itu mengisi serta mengumpulkannya sendiri ke pusat hari ini.
+D. Menjelaskan bahwa kesalahan data pusat berada di luar kewenangan loket Anda, dan memintanya bersabar menunggu hari ini.
+E. Meneruskan keluhan warga itu kepada koordinator serta memintanya membahasnya pada kesempatan berikutnya, bersama tim layanan Anda.
 
-**10.** Dua atasan memberimu tugas yang bertentangan dan keduanya harus selesai hari ini. Sikap terbaikmu adalah…
-A. Memilih salah satu diam-diam dan mengerjakan tugas itu saja.
-B. Mengerjakan keduanya setengah-setengah agar keduanya merasa dilayani.
-C. Menyampaikan kepada kedua atasan bahwa tugas itu bertentangan, mengusulkan urutan prioritas, dan mengerjakan sesuai kesepakatan mereka.
-D. Mengerjakan tugas dari atasan yang jabatannya lebih tinggi tanpa memberi kabar kepada atasan yang lain.
 
-### Aspek 3 — Sosial budaya (Soal 11–15)
+### Aspek — Jejaring kerja (Soal 6–10)
 
-**11.** Seorang warga memintamu melayaninya sepenuhnya dalam bahasa daerahnya, padahal kamu hanya memahami bahasa itu sebagian. Tindakan terbaikmu adalah…
-A. Memintanya membawa penerjemah pada kunjungan berikutnya.
-B. Menyuruhnya belajar bahasa Indonesia terlebih dahulu.
-C. Melayaninya dengan bahasa Indonesia tanpa memeriksa apakah ia memahami penjelasanmu.
-D. Melayaninya dengan sabar memakai bahasa Indonesia sederhana, meminta bantuan rekan yang fasih bila perlu, dan memastikan ia memahami setiap langkah layanan.
+**6.** Rekan satu tim Anda jatuh sakit mendadak pada pagi hari presentasi ke pimpinan, dan Anda diminta menggantikannya membawakan materi yang belum Anda kuasai. Presentasi dijadwalkan satu jam lagi, dan bahan presentasi ada di laptop rekan itu yang terkunci. Koordinator tim menunggu kepastian dari Anda.
 
-**12.** Seorang rekan baru dari daerah lain membawa bekal makan siang yang baunya mengganggu beberapa rekan di ruangan. Sikap terbaikmu adalah…
-A. Berbicara dengannya berdua dengan sopan, mencari solusi bersama seperti makan di ruang khusus, dan menjaga agar tidak ada yang tersinggung.
-B. Menegurnya langsung di depan rekan-rekan lain agar ia segera sadar.
-C. Membiarkannya, toh lama-lama rekan lain akan terbiasa.
-D. Melaporkannya ke atasan sebagai pelanggaran ketertiban kantor.
+A. Meminta akses bahan kepada rekan sakit dan menyiapkan ringkasan, membawakan presentasi dan melaporkannya ke koordinator.
+B. Menghubungi rekan yang sakit untuk meminta akses bahan dan membawakan presentasi itu sesuai kapasitas Anda sendiri di kantor.
+C. Membawakan presentasi itu dengan bahan seadanya, yang Anda ingat dari persiapan kemarin pagi saja di kantor hari ini.
+D. Meminta koordinator menggeser presentasi itu, sampai rekan Anda pulih dan bisa membawakannya sendiri besok pagi di kantor.
+E. Mencatat permintaan pengganti itu dan menyampaikannya ke koordinator, untuk dibahas di forum minggu depan bersama tim Anda.
 
-**13.** Seorang rekan menolak duduk satu meja dengan rekan yang berbeda agama dengannya saat kerja kelompok. Sikap terbaikmu adalah…
-A. Membiarkannya karena itu hak pribadinya.
-B. Mengajaknya bicara, menegaskan aturan kebersamaan di tempat kerja, dan melibatkan atasan atau pembina bila sikap itu berlanjut.
-C. Memindahkan mejanya diam-diam agar tidak terjadi konflik.
-D. Menegurnya dengan keras di depan semua rekan.
+**7.** Unit lain meminta data yang Anda kelola untuk laporan mendesak mereka yang tenggatnya sore ini, tetapi data itu masih dalam tahap validasi dan ada dua angka yang belum terkonfirmasi. Kepala unit itu menelepon Anda langsung dan menekankan bahwa pimpinan sudah menunggu laporan tersebut. Anda tahu data yang belum tervalidasi bisa menyesatkan keputusan.
 
-**14.** Seorang warga perempuan meminta dilayani petugas perempuan karena pengaduannya bersifat sensitif dan ia merasa tidak nyaman bercerita kepada petugas laki-laki. Tindakan terbaikmu adalah…
-A. Memintanya kembali saat petugas perempuan sedang bertugas.
-B. Menolak permintaannya karena semua petugas sama saja.
-C. Menyediakan petugas perempuan, melayaninya di ruang tertutup, dan menjaga kerahasiaan identitas serta isi pengaduannya.
-D. Melayaninya dengan petugas yang ada, tanpa ruang khusus dan tanpa jaminan kerahasiaan.
+A. Mengirimkan data itu apa adanya kepada unit lain, agar laporan mendesak mereka selesai tepat waktu sore ini bersama-sama.
+B. Mengirimkan data itu dengan catatan lisan, dan menyebut dua angka yang masih perlu dikonfirmasi ulang segera hari ini.
+C. Mengirimkan data dengan catatan tertulis tentang angka yang perlu dikonfirmasi dan meminta unit lain menunggu hasil validasi.
+D. Mencatat permintaan data itu dan menyampaikannya ke atasan, untuk ditindaklanjuti minggu depan bersama tim terkait.
+E. Mengirim data dengan catatan tertulis angka belum terkonfirmasi dan mempercepat validasi, memberi tahu hasil ke unit lain.
 
-**15.** Beberapa rekan berbeda pendapat soal hari libur keagamaan minoritas yang tidak tercantum dalam kalender kegiatan kantor. Sikap terbaikmu adalah…
-A. Mengusulkan kalender yang mengakomodasi semua hari besar resmi, mendiskusikannya di forum internal, dan mengajukannya kepada atasan.
-B. Menambahkannya diam-diam ke kalender tanpa berdiskusi dengan siapa pun.
-C. Mengabaikannya karena kalender yang ada sudah resmi.
-D. Menghapus hari libur minoritas dari kalender agar semuanya seragam.
+**8.** Seorang rekan baru salah memasukkan dua puluh data warga ke sistem bersama, dan kesalahan itu baru ketahuan saat laporan hampir dikirim ke pimpinan. Anda melihat rekan itu panik dan mengaku belum memahami panduan input yang baru dibagikan minggu lalu. Tenggat pengiriman laporan tinggal dua jam, dan data yang salah itu memengaruhi tiga tabel sekaligus.
 
-### Aspek 4 — Teknologi informasi dan komunikasi (Soal 16–20)
+A. Meminta rekan baru itu memperbaiki seluruh data yang salah sendirian, sebelum tenggat pengiriman laporan sore ini di kantor.
+B. Membantu rekan itu memperbaiki data yang salah dan memeriksa ulang tiga tabel yang terpengaruh sebelum laporan dikirim ke pimpinan.
+C. Membantu rekan memperbaiki data yang salah dan memeriksa tabel yang terpengaruh, menjelaskan panduan input itu dan mencatat.
+D. Memperbaiki sendiri data yang salah itu dan memastikan laporan tetap terkirim tepat waktu ke pimpinan sore ini di kantor.
+E. Mencatat kesalahan input itu di buku evaluasi dan menyampaikannya ke koordinator, untuk dibahas di forum tim bulan depan.
 
-**16.** Kamu menerima email berisi lampiran "undangan rapat" dari alamat yang mirip domain resmi instansimu, tetapi ada satu huruf yang berbeda. Tindakan terbaikmu adalah…
-A. Membuka lampirannya karena pengirimnya terlihat resmi.
-B. Meneruskannya ke rekan-rekan agar mereka juga waspada, tanpa memeriksa kebenarannya.
-C. Menghapus email itu tanpa melaporkannya ke siapa pun.
-D. Tidak membuka lampirannya, memverifikasi ke pengirim lewat kanal resmi, dan melaporkan email itu ke tim keamanan.
+**9.** Dua rekan Anda berselisih soal pembagian tugas proyek dan keduanya meminta Anda menjadi penengah, padahal tenggat proyek tinggal dua hari. Masing-masing merasa porsinya lebih berat, dan suasana tim mulai tegang. Koordinator proyek sedang dinas luar kota dan baru kembali setelah tenggat.
 
-**17.** Seorang rekan memintamu memasang aplikasi tidak resmi di komputer dinasmu agar pekerjaanmu lebih cepat selesai. Sikap terbaikmu adalah…
-A. Memasangnya karena memang mempercepat pekerjaanmu.
-B. Menolaknya, tetap memakai aplikasi resmi, dan mengusulkan pengadaan atau penambahan fitur itu lewat jalur resmi bila memang dibutuhkan.
-C. Memasangnya hanya untuk tugas itu saja, lalu menghapusnya setelah selesai.
-D. Menolaknya, tetapi tidak mengusulkan alternatif apa pun.
+A. Mendengarkan keluhan kedua rekan itu, dan mengusulkan pembagian tugas baru yang menurut Anda adil untuk keduanya hari ini.
+B. Meminta kedua rekan itu menyelesaikan selisih mereka sendiri, agar Anda bisa fokus pada bagian Anda sepenuhnya bersama-sama.
+C. Mendengarkan kedua rekan itu dan mengusulkan pembagian tugas, menyepakati pembagian itu secara tertulis di antara ketiganya.
+D. Mendengarkan kedua rekan itu dan mengusulkan pembagian tugas dan menyepakatinya secara tertulis, menyampaikannya ke koordinator.
+E. Menunggu koordinator kembali dari dinas luar kota, dan menunda langkah soal selisih itu di tim Anda untuk sementara.
 
-**18.** Kamu melihat seorang rekan mengakses sistem internal instansi lewat WiFi publik di sebuah kafe. Sikap terbaikmu adalah…
-A. Membiarkannya karena itu tanggung jawabnya sendiri.
-B. Ikut memakai WiFi yang sama agar pekerjaanmu juga cepat selesai.
-C. Mengingatkannya tentang risiko penyadapan, memintanya memakai jaringan kantor atau VPN resmi, dan melaporkannya ke tim TI bila data sensitif sempat diakses.
-D. Mengingatkannya saja tentang risiko itu, tanpa tindak lanjut lain.
+**10.** Atasan Anda meminta Anda mendampingi tim lain dalam kunjungan lapangan mendadak hari ini, padahal laporan Anda sendiri tenggatnya sore ini dan masih setengah jalan. Tim lain sudah menunggu di lobi dan kunjungan itu melibatkan mitra eksternal. Anda belum sempat memberi kabar kepada siapa pun tentang benturan jadwal ini.
 
-**19.** Seorang warga meminta salinan seluruh data pribadinya yang tersimpan di sistem instansimu, dalam format digital. Tindakan terbaikmu adalah…
-A. Memverifikasi identitasnya, memberikan salinan itu lewat kanal resmi yang aman, dan mencatat penyerahannya.
-B. Memberikan salinannya lewat WhatsApp pribadinya agar cepat.
-C. Menolaknya karena data itu milik instansi.
-D. Memberikan salinannya tanpa memverifikasi identitasnya.
+A. Mendampingi tim lain ke lapangan dan menyelesaikan laporan Anda setelah kunjungan lapangan itu selesai sore ini di kantor.
+B. Memberi tahu atasan soal benturan jadwal itu dan mengajukan usul rekan pengganti, menyelesaikan laporan sesuai tenggat.
+C. Menyampaikan benturan jadwal itu kepada atasan dan mendampingi tim lain sambil membawa laporan untuk diselesaikan sore ini.
+D. Meminta tim lain mencari pendamping sendiri, karena laporan Anda tenggatnya sore ini dan masih setengah jalan di kantor.
+E. Mencatat benturan jadwal itu dan menyampaikannya ke atasan, untuk dibahas di forum soal beban kerja minggu depan.
 
-**20.** Seorang rekan memintamu menghapus riwayat chat dinas kalian sebelum audit internal dimulai. Sikap terbaikmu adalah…
-A. Menghapus sebagian riwayat yang kamu anggap tidak penting.
-B. Menghapus semuanya karena ia yang memintanya.
-C. Memindahkan riwayat itu ke HP pribadimu, lalu menghapusnya dari HP dinas.
-D. Menolaknya, menyimpan riwayat itu sesuai masa retensi, dan menyampaikan bahwa penghapusan sebelum audit melanggar aturan.
 
-### Aspek 5 — Profesionalisme (Soal 21–25)
+### Aspek — Sosial budaya (Soal 11–15)
 
-**21.** Seorang warga menawarkan uang kepadamu agar berkasnya didahulukan dari antrean. Sikap terbaikmu adalah…
-A. Mendahulukan berkasnya tanpa menerima uang itu.
-B. Menolaknya dengan sopan dan tegas, melayaninya sesuai antrean, dan melaporkannya bila ia terus memaksa.
-C. Menolak uangnya, tetapi tidak mencatat atau melaporkannya.
-D. Menerima uang itu karena ia memberikannya dengan sukarela.
+**11.** Seorang warga dari daerah terpencil datang membawa surat keterangan adat sebagai pengganti dokumen resmi yang hilang saat banjir. Aturan layanan mensyaratkan dokumen pengganti dari instansi berwenang, tetapi warga itu harus menempuh perjalanan sehari penuh untuk mengurusnya. Anda menerima surat itu di loket dan melihat cap kepala adat tercantum jelas di sana.
 
-**22.** Kamu menemukan kesalahan perhitungan anggaran yang ternyata menguntungkan unitmu — selisihnya cukup besar. Sikap terbaikmu adalah…
-A. Membiarkannya karena kesalahan itu menguntungkan unitmu.
-B. Memanfaatkan selisih itu untuk kegiatan lain di unitmu.
-C. Melaporkannya kepada atasan dan bagian keuangan, mengusulkan koreksi, dan mencatat perbaikannya.
-D. Memperbaikinya diam-diam tanpa melaporkannya kepada siapa pun.
+A. Mengarahkan warga itu mengurus dokumen pengganti ke instansi berwenang, sesuai aturan yang berlaku di loket.
+B. Menerima surat keterangan adat itu sebagai bukti sementara dan memproses layanan warga itu di loket Anda.
+C. Menerima surat adat itu dan memverifikasi keasliannya lewat kepala adat, memproses layanan warga itu hari ini juga.
+D. Menerima surat adat dan memeriksa keasliannya lewat kepala adat, memprosesnya dan mencatat kasus sebagai usulan aturan.
+E. Mencatat kasus surat keterangan adat itu dan menyampaikannya ke atasan, untuk ditindaklanjuti pada bulan depan.
 
-**23.** Seorang rekan menawarkan "jalan pintas" untuk mempercepat pengadaan barang dengan melompati beberapa prosedur. Sikap terbaikmu adalah…
-A. Menolaknya, menjalankan pengadaan sesuai prosedur, dan menawarkan cara sah yang lebih cepat bila memang ada.
-B. Mengikutinya karena semua rekan juga melakukannya.
-C. Menolaknya, tetapi tidak memberi alternatif apa pun.
-D. Melaporkan rekan itu ke atasan tanpa menolak tawarannya terlebih dahulu.
+**12.** Seorang rekan berbeda keyakinan meminta jadwal shiftnya disesuaikan pada hari besar keagamaannya yang jatuh minggu depan, tetapi jadwal sudah disusun dan disetujui seluruh tim. Dua rekan lain keberatan karena penyesuaian itu mengubah giliran mereka. Anda menjadi penyusun jadwal dan diminta memutuskan hari ini.
 
-**24.** Atasanmu memintamu memenangkan vendor tertentu dalam sebuah tender, tanpa melalui proses penilaian yang semestinya. Sikap terbaikmu adalah…
-A. Mengikuti perintah atasan karena ia yang bertanggung jawab.
-B. Mengundurkan diri dari panitia tanpa memberikan penjelasan.
-C. Menjalankan tender sebagai formalitas, dengan pemenang yang sudah ditentukan.
-D. Menolaknya dengan sopan, menjalankan tender sesuai prosedur, dan menyampaikan risikonya kepada atasan secara tertulis.
+A. Menyesuaikan jadwal rekan itu dan meminta dua rekan lain memahami keputusan penyesuaian jadwal itu di kantor juga.
+B. Mengajak rekan berdiskusi dan menyusun pertukaran shift yang disepakati, lalu mencatat kesepakatan dalam jadwal resmi itu.
+C. Mengajak ketiga rekan itu berdiskusi dan menyusun pertukaran shift yang disepakati bersama, pada sore hari ini di kantor.
+D. Meminta rekan itu menukar shiftnya sendiri dengan rekan lain yang bersedia, di tim Anda bersama-sama sepenuhnya.
+E. Mencatat permintaan penyesuaian jadwal itu dan menyampaikannya ke tim Anda, untuk dibahas pada penyusunan jadwal berikutnya.
 
-**25.** Tenggat laporanmu sudah dekat, tetapi kualitasnya belum maksimal karena datanya baru lengkap kemarin. Sikap terbaikmu adalah…
-A. Mengirimkannya apa adanya tanpa memberi kabar kepada atasan.
-B. Menyampaikan kondisinya kepada atasan, mengajukan perpanjangan singkat dengan rencana penyelesaian, dan menyerahkan versi terbaik yang bisa dipertanggungjawabkan.
-C. Meminta rekan menyelesaikan sisanya tanpa sepengetahuan atasan.
-D. Mengubah tanggal laporan agar terlihat selesai tepat waktu.
+**13.** Seorang warga menyampaikan keluhannya dengan dialek yang sulit Anda pahami, dan ia mulai frustrasi karena merasa tidak didengar. Antrean di belakangnya mulai gelisah karena pelayanan berjalan lambat. Anda hanya memahami sebagian ucapannya, tetapi isi keluhannya menyangkut berkas yang sudah ia urus dua kali.
 
-### Aspek 6 — Anti radikalisme (Soal 26–30)
+A. Meminta warga itu menuliskan keluhannya di kertas, lalu membacanya kembali dengan tenang di loket juga bersama-sama.
+B. Mendengarkan warga itu dengan sabar sampai ia selesai bercerita dan melayani berkasnya seperti warga lainnya hari ini.
+C. Mendengarkan warga itu dengan sabar dan mengulang kembali inti keluhannya, memeriksa status berkasnya di sistem loket.
+D. Menyimpan keluhan warga itu dalam arsip pengaduan dan menyampaikannya ke tim Anda untuk evaluasi layanan bulan berikutnya.
+E. Mendengarkan warga itu dan mengulang inti keluhannya, serta memeriksa berkasnya dibantu rekan yang paham dialeknya.
 
-**26.** Seorang warga meminta izin memakai aula kantormu untuk acara kelompoknya yang secara terbuka menolak Pancasila sebagai dasar negara. Sikap terbaikmu adalah…
-A. Mengizinkannya dengan syarat mereka tidak membawa atribut kelompoknya.
-B. Mengizinkannya karena aula memang boleh dipakai masyarakat umum.
-C. Menolak izin itu sesuai aturan pemakaian fasilitas, menjelaskan alasannya, dan melaporkan permintaan itu kepada atasan.
-D. Menolaknya tanpa memberikan penjelasan apa pun.
+**14.** Tim Anda merencanakan makan bersama akhir tahun, dan rekan yang mengusulkan menu hanya memilih hidangan yang tidak bisa dinikmati sebagian rekan karena pantangan keyakinan dan alergi. Beberapa rekan sudah menyampaikan keberatan secara halus, tetapi usul itu tetap berjalan. Anda diminta memberi pendapat pada rapat persiapan sore ini.
 
-**27.** Di media sosial, seorang tokoh yang kamu ikuti mengajak para ASN menolak membayar pajak sebagai bentuk protes terhadap pemerintah yang sah. Sikap terbaikmu adalah…
-A. Menolak ajakan itu, mengingat bahwa ASN wajib taat pada hukum dan aturan yang berlaku, dan melaporkannya bila konten itu menyebar di lingkungan kerjamu.
-B. Mengabaikannya karena itu hanya konten media sosial.
-C. Mengikutinya karena menolak pajak adalah bentuk kebebasan berpendapat.
-D. Menyebarkan ajakan itu ke rekan-rekan agar mereka ikut memprotes.
+A. Mengusulkan menu tambahan untuk dibahas bersama tim sambil mencatat kesepakatan dalam rencana kegiatan hari ini.
+B. Mengusulkan menu tambahan yang bisa dinikmati semua rekan dan membahasnya bersama tim pada rapat persiapan sore ini.
+C. Membawa bekal sendiri untuk rekan yang berpantangan dan memastikan mereka tetap bisa ikut makan bersama tim.
+D. Meminta rekan yang berpantangan membawa bekal sendiri dari rumah masing-masing, pada hari acara nanti di kantor.
+E. Mencatat keberatan soal menu itu dan menyampaikannya ke tim Anda untuk dibahas pada evaluasi kegiatan akhir tahun.
 
-**28.** Seorang anak magang bertanya dengan penasaran mengapa ada ideologi yang menolak Pancasila, dan apakah ideologi itu juga bagus. Sikap terbaikmu adalah…
-A. Menjawabnya dengan singkat: "Jangan tanya yang begitu."
-B. Membiarkannya mencari sendiri jawabannya di internet.
-C. Memarahinya karena pertanyaannya berbahaya.
-D. Menjelaskannya dengan tenang mengapa Pancasila menjadi dasar negara, mengarahkannya ke sumber belajar resmi, dan mengajaknya berdiskusi dengan sehat.
+**15.** Seorang warga tunarungu datang mengurus dokumen dan berkomunikasi memakai bahasa isyarat, tetapi tidak ada petugas di loket yang menguasainya. Ia sudah menunggu hampir satu jam dan terlihat cemas karena tenggat pengurusan hari ini. Petugas lain menyarankan Anda memakai aplikasi penerjemah di ponsel, tetapi hasilnya sering keliru.
 
-**29.** Seorang rekan mengajakmu ikut aksi unjuk rasa menolak kebijakan pemerintah yang sah, dan aksinya berlangsung saat jam kerja. Sikap terbaikmu adalah…
-A. Mengikutinya karena menyampaikan pendapat adalah hak setiap warga.
-B. Menolaknya, mengingatkannya tentang netralitas ASN dan kewajiban jam kerja, dan melaporkannya bila ajakan itu berulang atau menekan.
-C. Menolak ikut saat jam kerja, tetapi ikut setelah pulang kerja.
-D. Diam saja tanpa menolak atau menanggapi ajakan itu.
+A. Mengarahkan warga itu ke layanan daring yang menyediakan penerjemah bahasa isyarat dan menghubunginya lewat panggilan video resmi.
+B. Melayani warga itu memakai aplikasi penerjemah di ponsel dan memeriksa pemahamannya lewat isyarat sederhana tiap langkah.
+C. Melayani warga dengan aplikasi penerjemah dan memeriksa pemahamannya, menghubungi penerjemah resmi dan mencatat kebutuhan itu.
+D. Melayani warga itu dengan aplikasi penerjemah dan memeriksa pemahamannya tiap langkah, sampai layanan selesai sepenuhnya.
+E. Mengamati kebutuhan penerjemah bahasa isyarat itu dan mencatatnya selama beberapa hari ke depan, sebelum mengambil langkah apa pun.
 
-**30.** Seorang rekan bercanda dengan ujaran yang merendahkan suku tertentu, di depan warga yang sedang kamu layani. Sikap terbaikmu adalah…
-A. Tertawa saja agar suasana tetap cair.
-B. Melaporkannya langsung ke atasan tanpa pernah menegurnya.
-C. Menegurnya dengan sopan saat itu juga, meminta maaf kepada warga yang mendengarnya, dan melaporkannya ke atasan bila ujaran itu berulang.
-D. Menegurnya setelah warga itu pulang, tanpa meminta maaf kepada warga.
 
----
+### Aspek — Teknologi informasi dan komunikasi (Soal 16–20)
+
+**16.** Sistem layanan mendadak tidak merespons saat Anda melayani seorang warga, dan data yang sudah Anda masukkan setengah jalan belum tersimpan. Warga itu sudah menunggu tiga puluh menit dan harus segera kembali bekerja. Tim teknis sedang menangani gangguan di unit lain dan belum bisa dihubungi.
+
+A. Melayani warga itu secara manual dengan formulir kertas dan memintanya kembali saat sistem sudah pulih sepenuhnya di loket.
+B. Melayani warga manual dengan formulir kertas dan menyimpan salinannya, menginput ulang dan mengonfirmasi saat sistem pulih.
+C. Melayani warga itu secara manual dengan formulir kertas dan menginput ulang datanya saat sistem sudah pulih sepenuhnya.
+D. Meminta warga itu menunggu di loket, sampai tim teknis memperbaiki sistem layanan yang sedang gangguan sepenuhnya di kantor.
+E. Mengamati gangguan sistem itu dan mencatatnya selama beberapa hari ke depan, sebelum melaporkannya kepada tim teknis kantor Anda.
+
+**17.** Seorang rekan mengirimkan berkas kerja berisi data warga lewat aplikasi pesan pribadi karena surel kantor lambat, dan ia meminta Anda membalas dengan cara yang sama agar cepat. Berkas itu berisi nomor identitas warga yang seharusnya hanya beredar di kanal resmi. Tenggat pengolahan berkas itu tinggal satu jam.
+
+A. Membalas berkas itu lewat aplikasi pesan pribadi dan menyelesaikan pengolahan sebelum tenggat satu jam ini di kantor.
+B. Mengolah berkas itu dan mengingatkan rekan Anda agar lain kali memakai surel kantor yang resmi untuk tugas.
+C. Mengolah berkas itu lewat kanal resmi dan mengingatkan rekan Anda memakai kanal resmi, melapor ke tim keamanan data.
+D. Mengolah berkas itu lewat kanal resmi dan mengingatkan rekan Anda, agar memakai kanal resmi pada tugas berikutnya.
+E. Mencatat pengiriman data lewat kanal pribadi itu dan menyampaikannya ke tim Anda, untuk ditindaklanjuti bulan depan.
+
+**18.** Anda menemukan tautan mencurigakan di grup kerja resmi yang dikirim dari akun rekan Anda, dan Anda menduga akun itu diretas karena gaya pesannya berbeda dari biasanya. Beberapa rekan sudah mengklik tautan itu dan bertanya apakah tautan itu aman. Rekan pemilik akun sedang cuti dan sulit dihubungi.
+
+A. Memberi tahu semua anggota grup mengenai tautan itu dan menghubungi pemilik akun, melapor ke tim keamanan.
+B. Mengingatkan semua anggota grup mengenai tautan itu dan menghubungi rekan pemilik akun, lewat nomor pribadinya hari ini.
+C. Mengingatkan anggota grup yang sudah mengklik tautan itu dan meminta mereka segera mengganti kata sandi masing-masing.
+D. Menyarankan anggota grup melanjutkan pekerjaan seperti biasa dan menunggu pemilik akun kembali dari cutinya besok.
+E. Mencatat tautan mencurigakan itu dan menyerahkannya ke tim keamanan, saat rekan pemilik akun kembali dari cuti besok.
+
+**19.** Seorang warga mengirimi Anda pesan di nomor pribadi pada malam hari untuk menanyakan status permohonannya, dan ia mengaku mendapat nomor Anda dari rekan Anda. Warga itu khawatir permohonannya ditolak karena sudah seminggu belum ada kabar. Anda tahu status permohonan hanya boleh disampaikan lewat kanal resmi instansi.
+
+A. Membalas pesan warga itu dengan status permohonannya, agar ia bisa segera tenang malam ini juga di rumahnya.
+B. Membalas pesan warga itu dengan arahan memakai kanal resmi dan memintanya menanyakan status permohonannya besok pagi.
+C. Membalas pesan warga itu dengan arahan memakai kanal resmi dan memeriksa status permohonannya di sistem besok pagi.
+D. Mencatat pesan warga itu dan menyampaikannya ke tim Anda, untuk dibahas pada evaluasi layanan minggu berikutnya.
+E. Membalas dengan arahan memakai kanal resmi dan memeriksa statusnya, menyampaikan hasil dan mencatat aduan warga.
+
+**20.** Aplikasi layanan versi baru membingungkan banyak warga lanjut usia, dan mereka mengantre di loket manual yang sebenarnya sudah dialihkan ke layanan daring. Anda bertugas di loket manual hari ini dan melihat antrean makin panjang, sementara panduan aplikasi hanya tersedia dalam format digital. Pimpinan meminta transisi digital tetap berjalan minggu ini.
+
+A. Mengarahkan warga lanjut usia itu memakai aplikasi layanan, dengan panduan digital yang tersedia di loket sepenuhnya.
+B. Membantu warga lanjut usia itu memakai aplikasi layanan satu per satu dan mendampingi mereka, sampai selesai mengurus dokumen.
+C. Membantu warga lanjut usia itu memakai aplikasi layanan dan mencatat kesulitan mereka untuk tim pengembang aplikasi hari ini.
+D. Membantu warga lanjut usia memakai aplikasi dan menyusun panduan cetak yang bergambar untuk diserahkan ke tim pengembang.
+E. Mencatat keluhan warga lanjut usia itu dan meneruskannya ke tim Anda untuk evaluasi transisi digital bulan depan.
+
+
+### Aspek — Profesionalisme (Soal 21–25)
+
+**21.** Anda melihat seorang rekan memfotokopi dokumen identitas warga untuk arsip pribadinya, dan ia beralasan salinan itu berguna bila warga itu kembali mengurus layanan. Dokumen itu berisi nomor identitas dan alamat lengkap warga. Rekan itu sudah bekerja lebih lama daripada Anda dan meminta Anda merahasiakannya.
+
+A. Meminta rekan menyimpan salinan dokumen itu di laci terkunci dan menjauhkannya dari jangkauan orang lain di kantor.
+B. Mengingatkan rekan itu bahwa dokumen warga hanya boleh disalin, dan hanya untuk keperluan dinas yang resmi saja.
+C. Mengingatkan rekan itu bahwa dokumen warga hanya boleh disalin untuk keperluan dinas, dan memintanya memusnahkan salinan itu.
+D. Mencatat kejadian penyalinan dokumen itu secara rinci, dan menyampaikannya ke atasan Anda sebagai bahan evaluasi.
+E. Memberi tahu rekan aturan penyalinan dokumen warga serta memintanya memusnahkan salinannya dan melaporkannya ke atasan.
+
+**22.** Anggaran kegiatan unit Anda tersisa sedikit, dan seorang rekan mengusulkan sisa itu dipakai untuk acara perpisahan atasan yang pindah tugas minggu depan. Acara itu belum ada dalam rencana anggaran, tetapi sebagian rekan sudah setuju dan mulai mengumpulkan iuran tambahan. Anda memegang laporan anggaran dan tahu sisa itu sebenarnya dialokasikan untuk pelatihan internal.
+
+A. Memberi tahu tim soal alokasi sisa anggaran dan mengusulkan iuran sukarela lalu mencatat keputusan dalam berita acara.
+B. Menyampaikan alokasi awal sisa anggaran itu kepada tim dan mengusulkan acara perpisahan memakai iuran sukarela bersama tim.
+C. Menyetujui pemakaian sisa anggaran itu untuk acara perpisahan, dan mengikuti sebagian besar rekan di unit yang sudah setuju.
+D. Meminta rekan pengusul acara itu mencari dana sendiri dari luar anggaran unit Anda dan tidak memakainya untuk acara itu.
+E. Mengumpulkan usulan pemakaian sisa anggaran itu dari tim, dan mencatatnya sebagai bahan evaluasi anggaran akhir tahun.
+
+**23.** Anda diminta menilai kinerja seorang rekan yang juga sahabat dekat Anda, dan penilaian itu memengaruhi promosi jabatan rekan tersebut. Rekan itu berharap Anda memberinya nilai tinggi, sementara catatan kinerjanya menunjukkan dua target yang belum tercapai. Atasan Anda menunggu hasil penilaian itu besok pagi.
+
+A. Memberi rekan itu nilai tinggi karena persahabatan Anda sudah terjalin lama, dan ia berjanji memperbaiki kinerjanya.
+B. Memberi rekan itu nilai sesuai catatan kinerja dan menjelaskannya kepadanya secara pribadi setelah penilaian diserahkan.
+C. Memberi rekan nilai sesuai catatan kinerja dan mendiskusikannya dengannya sebelum diserahkan, dan mencatat perbaikannya.
+D. Memberi rekan itu nilai sesuai catatan kinerja dan mendiskusikan hasil itu dengannya sebelum penilaian diserahkan.
+E. Menunggu arahan atasan sebelum mengambil langkah apa pun, dan menunda penilaian kinerja rekan itu sampai arahan datang.
+
+**24.** Seorang vendor mengirimkan parsel buah ke meja Anda saat proses pengadaan masih berjalan, dan vendor itu termasuk peserta yang sedang dinilai. Rekan Anda menganggap parsel itu sekadar tanda terima kasih dan menyarankan Anda menerimanya. Aturan pengadaan melarang gratifikasi dalam bentuk apa pun selama proses penilaian berlangsung.
+
+A. Mengembalikan parsel itu kepada vendor setelah proses pengadaan selesai dan mengutamakan hubungan baik dengannya ke depan.
+B. Mengembalikan parsel itu dengan penjelasan tertulis bahwa proses pengadaan masih berjalan dan melapor kepada panitia.
+C. Mengembalikan parsel itu kepada vendor dengan penjelasan dan menyampaikan bahwa proses pengadaan masih berjalan minggu ini.
+D. Mengembalikan parsel itu kepada vendor melalui rekan Anda, serta menitipkan pengembaliannya kepadanya sebagai perantara.
+E. Mencatat kiriman parsel itu secara rinci, dan menyampaikannya ke ketua panitia sebagai bahan evaluasi pengadaan minggu ini.
+
+**25.** Laporan yang Anda kirim ke atasan kemarin ternyata mengandung angka yang keliru, dan atasan Anda sudah meneruskannya ke pimpinan untuk rapat pagi ini. Data yang benar baru Anda temukan pagi ini setelah memeriksa ulang arsip, dan selisih angkanya cukup memengaruhi kesimpulan laporan. Rapat pimpinan dimulai satu jam lagi dan Anda belum memberi kabar apa pun.
+
+A. Mengirimkan laporan perbaikan kepada atasan dengan catatan singkat dan menyampaikan bahwa ada angka yang diperbarui kemarin.
+B. Menunggu rapat selesai dan menyampaikan koreksi angka itu kepada atasan setelah pimpinan membaca laporan awal itu.
+C. Menyampaikan kesalahan angka itu kepada atasan sebelum rapat, dan mengirimkan laporan perbaikan yang sudah diperiksa ulang.
+D. Memberi tahu atasan soal angka keliru sebelum rapat dan mengirimkan laporan perbaikan dan mencatat koreksinya.
+E. Mencatat kesalahan angka itu secara rinci, dan menyampaikannya ke atasan Anda sebagai bahan evaluasi penyusunan laporan.
+
+
+### Aspek — Anti radikalisme (Soal 26–30)
+
+**26.** Seorang warga membagikan selebaran di area tunggu layanan yang berisi ajakan menolak pemilihan umum, dan beberapa warga lain mulai membaca selebaran itu. Petugas keamanan meminta arahan dari Anda karena warga itu mengaku hanya menyampaikan pendapat. Area tunggu itu berada di dalam gedung instansi dan jam layanan masih berlangsung.
+
+A. Mempersilakan warga itu membagikan selebaran di luar gedung, dan menjaga layanan di dalam gedung tetap berjalan seperti biasa.
+B. Meminta warga itu menghentikan pembagian selebaran di area tunggu, kemudian menjelaskan singkat aturan pemakaian area itu.
+C. Menjelaskan aturan area layanan itu dan meminta warga menghentikan pembagian selebaran dan melapor kepada atasan.
+D. Menjelaskan bahwa area layanan hanya dipakai untuk keperluan layanan resmi dan meminta warga menghentikan pembagian selebaran.
+E. Mencatat pembagian selebaran itu secara rinci, dan menyampaikannya kepada petugas keamanan sebagai bahan evaluasi gedung.
+
+**27.** Seorang rekan membagikan video provokatif di grup kerja resmi yang mempertentangkan dua kelompok agama, dan beberapa rekan mulai menanggapinya dengan komentar yang memanas. Grup itu dipakai untuk koordinasi tugas harian dan atasan Anda juga menjadi anggotanya. Rekan pengirim video itu beralasan video itu hanya bahan diskusi.
+
+A. Memberi tahu seluruh anggota grup soal fungsi grup kerja dan meminta pengirim menghapus video itu dan melaporkannya ke atasan.
+B. Mengingatkan seluruh anggota grup bahwa grup kerja hanya dipakai untuk koordinasi tugas, dan meminta pengirim menghapus video itu.
+C. Mengirimkan pesan penyeimbang di grup kerja itu serta menenangkan diskusi yang memanas agar berjalan tenang kembali.
+D. Membalas video itu dengan komentar yang menenangkan dan meredakan suasana grup yang memanas setelah video itu dibagikan.
+E. Mencatat video provokatif itu secara rinci, dan menyampaikannya kepada atasan Anda sebagai bahan pembinaan pegawai bulan ini.
+
+**28.** Seorang siswa magang di unit Anda memasang gambar simbol kelompok ekstrem sebagai latar laptopnya, dan rekan lain mulai memperhatikannya saat magang itu bekerja di ruang bersama. Magang itu mengaku tidak tahu arti simbol tersebut dan hanya menganggapnya keren. Pembimbing magang sedang cuti dan Anda diminta mengawasi magang itu minggu ini.
+
+A. Meminta magang itu mengganti latar laptopnya saat bekerja di ruang bersama dan tidak menampilkannya di hadapan rekan lain.
+B. Menjelaskan arti simbol itu kepada magang itu, lalu memintanya mengganti latar laptopnya saat bekerja di ruang bersama.
+C. Menjelaskan arti simbol itu kepada magang itu dan mengarahkannya ke sumber belajar resmi, memintanya mengganti latar laptopnya.
+D. Menjelaskan simbol dan mengarahkan ke sumber belajar resmi dan meminta ganti latar laptop dan menyampaikan kejadian ke pembimbing.
+E. Mencatat simbol di laptop magang itu, dan menyampaikannya kepada pembimbing sebagai bahan evaluasi program magang bulan ini.
+
+**29.** Seorang warga meminta Anda mencetak spanduk bertuliskan seruan mengganti dasar negara memakai printer kantor, dan ia bersedia membayar biaya cetaknya. Warga itu mengaku spanduk itu untuk acara komunitasnya akhir pekan ini. Printer itu berada di ruang layanan dan atasan Anda sedang rapat di luar kantor.
+
+A. Mencetak spanduk itu karena warga itu bersedia membayar biaya cetak dan tintanya di loket kantor Anda hari ini.
+B. Menjelaskan aturan pemakaian fasilitas kantor dan mengarahkan warga itu ke percetakan umum dan melapor kepada atasan.
+C. Menjelaskan bahwa fasilitas kantor hanya dipakai untuk keperluan dinas dan mengarahkan warga ke percetakan umum terdekat.
+D. Meminta warga itu mencetak spanduknya di percetakan umum dan menjelaskan bahwa printer kantor sedang dipakai hari ini.
+E. Mencatat permintaan pencetakan spanduk itu, dan menyampaikannya kepada atasan Anda sebagai bahan evaluasi pemakaian fasilitas.
+
+**30.** Seorang rekan mengajak Anda menandatangani petisi menolak kebijakan pemerintah yang sah, dan ajakan itu dikirim lewat grup kantor pada jam kerja. Beberapa rekan sudah menandatanganinya dan menandai Anda agar segera ikut. Anda tahu ASN wajib menjaga netralitas, tetapi Anda juga tidak ingin dianggap tidak peduli pada rekan Anda.
+
+A. Menandatangani petisi itu di luar jam kerja dan menjaga netralitas Anda saat bertugas agar tetap terjaga seperti biasa.
+B. Membalas ajakan itu dengan ucapan terima kasih dan melanjutkan pekerjaan Anda seperti biasa sesuai jadwal tugas.
+C. Menyampaikan kepada rekan itu bahwa Anda tetap menjalankan tugas sesuai jadwal dan menjaga netralitas ASN sebagai pegawai.
+D. Mencatat ajakan petisi itu secara rinci, dan menyampaikannya kepada atasan Anda sebagai bahan pembinaan pegawai.
+E. Menyampaikan bahwa Anda menjalankan tugas dan menjaga netralitas ASN sebagai pegawai dan melapor bila ajakan berulang.
 
 ## Kunci jawaban + pembahasan
 
-*Format pembahasan per soal: (1) jawaban + alasan, (2) langkah, (3) trik & tips, (4) jebakan. Skor tiap opsi tercantum — jawaban 5 poin adalah kunci.*
+**1. Kunci: C (5).** A=2, B=4, C=5, D=3, E=1.
+(1) C adalah kunci karena warga dilayani hari itu juga meski pendamping absen — dibacakan, diisi sesuai arahannya, dan layanan itu tercatat sebagai pendampingan khusus sehingga ada jejak bila warga kembali. (2) Langkah & skor: A=2, B=4, C=5, D=3, E=1. Langkah: bacakan formulir dengan jelas → isi sesuai arahan warga → catat sebagai pendampingan khusus. (3) Trik: hambatan aksesibilitas diselesaikan di tempat dengan cara yang bisa diperiksa, bukan ditunda ke petugas lain. (4) Jebakan: B terasa lengkap karena membacakan, tapi warga menandatangani halaman yang isinya belum tentu sesuai arahannya.
 
-**1. Kunci: C (5).** A=2, B=4, C=5, D=3.
-(1) C karena warga dilayani hari itu, tahu persis kekurangannya, dan pulang dengan kepastian kapan kembali. (2) Periksa syarat → jelaskan yang kurang → lengkapi yang bisa → beri kepastian waktu kembali. (3) Trik: jawaban 5 poin selalu menutup dengan kepastian — warga tidak pulang dengan tanda tanya. (4) Jebakan: B terasa cukup karena sudah melayani, tapi tanpa kepastian waktu warga bisa datang lagi dengan dokumen yang masih salah.
+**Jebakan:** B terasa lengkap karena membacakan, tapi warga menandatangani halaman yang isinya belum tentu sesuai arahannya.
 
-**2. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena kelompok rentan berhak didahulukan dan penjelasan ke antrean lain mencegah kecemburuan. (2) Kenali prioritas → dahulukan → jelaskan alasannya ke antrean. (3) Trik: pelayanan ramah kelompok rentan + komunikasi ke antrean lain adalah satu paket lengkap. (4) Jebakan: C terdengar adil, tapi "adil" di pelayanan publik berarti mendahulukan yang paling membutuhkan, bukan menyamakan semua.
+**2. Kunci: D (5).** A=2, B=3, C=4, D=5, E=1.
+(1) D adalah kunci karena berkas diterima hari ini dengan tanda terima resmi, diproses begitu sistem pulih, dan warga dihubungi hasilnya — warga tidak pulang dengan tanda tanya. (2) Langkah & skor: A=2, B=3, C=4, D=5, E=1. Langkah: terima berkas → beri tanda terima resmi → proses saat sistem pulih → hubungi warga. (3) Trik: saat sistem gagal, jawaban 5 poin selalu punya dua lapis — layani warga sekarang, selesaikan sisanya dengan jejak yang bisa dilacak. (4) Jebakan: C sudah memberi tanda terima, tapi warga harus menebak sendiri kapan hasilnya keluar.
 
-**3. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena warga mendapat kepastian instan (nomor tiket) dan aduan tercatat untuk ditindaklanjuti. (2) Balas singkat → beri nomor tiket → catat → tindaklanjuti jam kerja. (3) Trik: kanal boleh tidak resmi, tapi respons harus tetap tercatat dan punya nomor tiket. (4) Jebakan: C sudah minta maaf, tapi tanpa pencatatan aduan bisa hilang begitu saja.
+**Jebakan:** C sudah memberi tanda terima, tapi warga harus menebak sendiri kapan hasilnya keluar.
 
-**4. Kunci: B (5).** A=3, B=5, C=4, D=2.
-(1) B karena warga yang sudah mendaftar tidak boleh dirugikan oleh gangguan sistem, dan gangguan harus tercatat. (2) Verifikasi bukti → layani manual → catat gangguan → teruskan ke tim teknis. (3) Trik: saat sistem gagal, jawaban 5 poin selalu punya dua lapis — layani warga sekarang, perbaiki sistemnya sesudahnya. (4) Jebakan: C melayani dengan benar, tapi tanpa pencatatan gangguan yang sama akan terulang besok.
+**3. Kunci: A (5).** A=5, B=4, C=3, D=2, E=1.
+(1) A adalah kunci karena emosi warga diredakan dengan penjelasan, syarat yang bisa dilengkapi diselesaikan hari itu, dan kejadian itu tercatat agar surat penolakan yang membingungkan tidak terulang di shift berikutnya. (2) Langkah & skor: A=5, B=4, C=3, D=2, E=1. Langkah: jelaskan alasan dengan tenang → lengkapi syarat yang bisa dilengkapi → catat untuk evaluasi shift. (3) Trik: keluhan soal penolakan sebelumnya diselesaikan dengan memperbaiki substansinya, bukan sekadar menenangkan nadanya. (4) Jebakan: D terdengar adil karena yang menolak yang menjelaskan, tapi warga dilempar kembali ke orang yang sudah membuatnya kecewa.
 
-**5. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena hambatan warga (tidak paham teknologi) diselesaikan di tempat, bukan dilempar kembali. (2) Kenali hambatannya → bantu foto ulang → periksa → proses. (3) Trik: untuk lansia, "bantu sampai selesai" selalu mengalahkan "jelaskan lalu suruh kembali". (4) Jebakan: B terdengar membantu, tapi warga yang tidak paham cara foto ulang akan kembali dengan foto yang tetap salah.
+**Jebakan:** D terdengar adil karena yang menolak yang menjelaskan, tapi warga dilempar kembali ke orang yang sudah membuatnya kecewa.
 
-**6. Kunci: C (5).** A=3, B=4, C=5, D=2.
-(1) C karena membantu tanpa mengorbankan batas diri: bagian mendesak dibantu, waktunya disepakati, atasan tahu. (2) Nilai mendesaknya → bantu bagian kritis → sepakati batas → kabari atasan. (3) Trik: jawaban 5 poin soal bantuan selalu punya batas — membantu bukan berarti mengerjakan semuanya. (4) Jebakan: B terlihat paling peduli, tapi mengerjakan semuanya sampai larut mengorbankan tugasmu sendiri esok hari.
+**4. Kunci: E (5).** A=2, B=3, C=4, D=1, E=5.
+(1) E adalah kunci karena ketiganya dilayani bergantian sesuai kondisi, antrean lain diberi penjelasan, dan kekosongan aturan diusulkan perbaikannya ke atasan agar benturan yang sama tidak terulang. (2) Langkah & skor: A=2, B=3, C=4, D=1, E=5. Langkah: layani bergantian sesuai kondisi → jelaskan ke antrean → usulkan pengaturan urutan prioritas. (3) Trik: saat aturan tidak mengatur rinci, jawaban 5 poin melayani hari itu sekaligus mengusulkan aturan yang lebih rinci. (4) Jebakan: B membantu satu kelompok rentan, tapi dua kelompok rentan lain dibiarkan menunggu seperti warga biasa.
 
-**7. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena tanggung jawab dadakan diterima dengan persiapan seadanya dan pertanggungjawaban sesudahnya. (2) Terima → siapkan materi singkat → sampaikan sesuai kapasitas → laporkan hasilnya. (3) Trik: jawaban 5 poin tidak pernah hanya "terima" — selalu ada persiapan dan laporan penutup. (4) Jebakan: C sudah berani menerima, tapi tanpa persiapan dan laporan, forum itu berjalan tanpa arah dan atasan tidak tahu hasilnya.
+**Jebakan:** B membantu satu kelompok rentan, tapi dua kelompok rentan lain dibiarkan menunggu seperti warga biasa.
 
-**8. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena masalah diselesaikan dari yang paling ringan (bicara berdua) ke yang formal (laporan), dengan bukti dan kesepakatan tertulis. (2) Kumpulkan data → bicara berdua → sepakati tugas tertulis → laporkan bila berulang. (3) Trik: urutan "bicara dulu, laporkan belakangan" adalah ciri jawaban 5 poin untuk konflik internal. (4) Jebakan: D melompat ke atasan tanpa bicara dulu — terlihat tegas, tapi merusak kerja sama tim.
+**5. Kunci: B (5).** A=4, B=5, C=3, D=2, E=1.
+(1) B adalah kunci karena bukti diperiksa, permohonan diajukan atas nama warga, warga memegang salinan pengajuan, dan tenggat tindak lanjut tercatat — warga yang sudah datang tiga kali akhirnya punya kepastian. (2) Langkah & skor: A=4, B=5, C=3, D=2, E=1. Langkah: periksa bukti → ajukan permohonan ke pusat → beri salinan pengajuan → catat tenggat tindak lanjut. (3) Trik: kesalahan data yang berulang diselesaikan dengan mengambil alih pengajuannya, bukan menyerahkan formulir kosong kepada warga. (4) Jebakan: A sudah mengajukan permohonan, tapi warga pulang tanpa salinan dan tanpa tahu kapan ada kabar.
 
-**9. Kunci: B (5).** A=3, B=5, C=4, D=2.
-(1) B karena membantu tanpa mengambil alih tanggung jawab: ia tetap memeriksa dan menandatangani sebagai pemilik laporan. (2) Bantu bagian yang bisa → sepakati tenggat → ia memeriksa → ia menandatangani. (3) Trik: bantuan 5 poin selalu menjaga garis tanggung jawab — yang menandatangani tetap pemilik tugas. (4) Jebakan: C terlihat paling membantu, tapi laporan yang kamu kerjakan penuh lalu ditandatangani orang lain adalah pengalihan tanggung jawab.
+**Jebakan:** A sudah mengajukan permohonan, tapi warga pulang tanpa salinan dan tanpa tahu kapan ada kabar.
 
-**10. Kunci: C (5).** A=3, B=2, C=5, D=4.
-(1) C karena benturan diselesaikan di sumbernya — kedua pemberi tugas tahu dan menyepakati urutan, bukan kamu yang memutuskan diam-diam. (2) Sampaikan benturannya → usulkan prioritas → kerjakan sesuai kesepakatan. (3) Trik: konflik perintah tidak pernah diselesaikan sendirian; jawaban 5 poin selalu melibatkan kedua pemberi perintah. (4) Jebakan: D memakai hierarki sebagai jalan pintas, tapi atasan yang diabaikan tetap menunggu hasil yang tidak pernah datang.
+**6. Kunci: A (5).** A=5, B=4, C=3, D=2, E=1.
+(1) A adalah kunci karena tanggung jawab dadakan diterima dengan persiapan — akses bahan diminta, ringkasan disiapkan, presentasi dibawakan sesuai kapasitas, dan hasilnya dilaporkan ke koordinator. (2) Langkah & skor: A=5, B=4, C=3, D=2, E=1. Langkah: hubungi rekan yang sakit → siapkan ringkasan → bawakan sesuai kapasitas → laporkan hasilnya. (3) Trik: menggantikan orang lain selalu punya tiga lapis — persiapan, pelaksanaan sesuai kapasitas, dan laporan penutup. (4) Jebakan: C terlihat berani, tapi presentasi dari ingatan tanpa bahan berisiko menyampaikan angka yang keliru ke pimpinan.
 
-**11. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena layanan tetap berjalan hari itu juga dengan cara yang dipahami warga, dan pemahamannya diperiksa tiap langkah. (2) Layani dengan bahasa sederhana → libatkan rekan fasih bila perlu → periksa pemahaman tiap langkah. (3) Trik: hambatan bahasa diselesaikan dengan kesabaran + bantuan, bukan dengan menunda layanan. (4) Jebakan: A menunda layanan ke kunjungan berikut — warga yang jauh harus datang dua kali untuk satu urusan.
+**Jebakan:** C terlihat berani, tapi presentasi dari ingatan tanpa bahan berisiko menyampaikan angka yang keliru ke pimpinan.
 
-**12. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena perbedaan kebiasaan diselesaikan dengan empati dan solusi bersama, bukan teguran atau laporan. (2) Bicara berdua → cari solusi bersama → jaga perasaan semua pihak. (3) Trik: soal perbedaan budaya, jawaban 5 poin selalu "bicara berdua + solusi bersama", bukan teguran di depan umum. (4) Jebakan: B menyelesaikan bau makanannya, tapi mempermalukan rekan baru di depan umum — masalah budaya jadi masalah hubungan.
+**7. Kunci: E (5).** A=2, B=3, C=4, D=1, E=5.
+(1) E adalah kunci karena laporan mendesak tetap terbantu, risiko angka yang belum terkonfirmasi tertulis jelas, validasinya dipercepat, dan hasilnya dikonfirmasi kembali ke unit lain. (2) Langkah & skor: A=2, B=3, C=4, D=1, E=5. Langkah: kirim dengan catatan tertulis → percepat validasi → konfirmasi hasilnya ke unit lain. (3) Trik: data yang belum tervalidasi boleh dibagikan untuk tenggat mendesak, asal statusnya tertulis dan ada tindak lanjut konfirmasi. (4) Jebakan: B sudah memberi catatan, tapi catatan lisan hilang begitu telepon ditutup dan tidak ada yang mengonfirmasi hasilnya.
 
-**13. Kunci: B (5).** A=3, B=5, C=4, D=2.
-(1) B karena penolakan berbasis agama tidak boleh dibiarkan, tetapi diselesaikan bertahap: bicara, tegaskan aturan, libatkan atasan bila berlanjut. (2) Bicara → tegaskan aturan kebersamaan → libatkan atasan bila berulang. (3) Trik: jawaban 5 poin tidak pernah "membiarkan" diskriminasi, dan tidak pernah langsung menghukum — ada tangga penyelesaiannya. (4) Jebakan: C menghindari konflik dengan memindahkan meja, tapi sikap diskriminatifnya tetap hidup dan menular.
+**Jebakan:** B sudah memberi catatan, tapi catatan lisan hilang begitu telepon ditutup dan tidak ada yang mengonfirmasi hasilnya.
 
-**14. Kunci: C (5).** A=3, B=2, C=5, D=4.
-(1) C karena kenyamanan dan kerahasiaan pengadu sensitif dijaga penuh — petugas yang tepat, ruang tertutup, identitas terlindungi. (2) Sediakan petugas perempuan → layani di ruang tertutup → jaga kerahasiaan. (3) Trik: pengaduan sensitif selalu punya tiga unsur 5 poin — orang yang tepat, tempat yang aman, kerahasiaan terjaga. (4) Jebakan: D sudah melayani, tapi tanpa ruang tertutup dan jaminan kerahasiaan, warga sensitif tidak akan bercerita jujur.
+**8. Kunci: C (5).** A=2, B=4, C=5, D=3, E=1.
+(1) C adalah kunci karena laporan diselamatkan bersama — data diperbaiki, tiga tabel diperiksa ulang, panduan yang benar dijelaskan agar kesalahan tidak terulang, dan kejadian itu tercatat untuk pembinaan berikutnya. (2) Langkah & skor: A=2, B=4, C=5, D=3, E=1. Langkah: bantu perbaiki data → periksa tabel yang terpengaruh → jelaskan panduan input → catat untuk pembinaan. (3) Trik: kesalahan rekan baru diselesaikan dengan memperbaiki hasil sekaligus mengajari caranya, bukan sekadar mengambil alih pekerjaannya. (4) Jebakan: D membuat laporan terkirim tepat waktu, tapi rekan baru itu tetap tidak memahami panduannya dan akan mengulang kesalahan yang sama.
 
-**15. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena keberatan diselesaikan lewat usulan, diskusi, dan jalur resmi — bukan diam-diam atau dihapus. (2) Usulkan kalender inklusif → diskusikan di forum → ajukan ke atasan. (3) Trik: soal keberagaman di tempat kerja, jawaban 5 poin selalu lewat forum + jalur resmi, bukan keputusan sepihak. (4) Jebakan: B niatnya baik, tapi mengubah kalender diam-diam tanpa diskusi justru memicu kecurigaan baru.
+**Jebakan:** D membuat laporan terkirim tepat waktu, tapi rekan baru itu tetap tidak memahami panduannya dan akan mengulang kesalahan yang sama.
 
-**16. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena tiga lapis perlindungan sekaligus: tidak membuka lampiran, verifikasi lewat kanal resmi, laporkan ke tim keamanan. (2) Jangan buka → verifikasi lewat kanal resmi → laporkan ke tim keamanan. (3) Trik: domain yang "hampir sama" adalah ciri khas phishing — satu huruf berbeda sudah cukup untuk curiga. (4) Jebakan: C sudah menghapus, tapi tanpa laporan tim keamanan tidak tahu ada serangan yang mengincar instansi.
+**9. Kunci: D (5).** A=3, B=2, C=4, D=5, E=1.
+(1) D adalah kunci karena selisih diselesaikan di antara ketiganya — didengarkan, diusulkan pembagian baru, disepakati tertulis, dan koordinator diberi kabar agar keputusan itu tercatat meski ia sedang dinas. (2) Langkah & skor: A=3, B=2, C=4, D=5, E=1. Langkah: dengarkan keduanya → usulkan pembagian baru → sepakati tertulis → sampaikan ke koordinator. (3) Trik: penengah yang baik menutup dengan kesepakatan tertulis yang diketahui koordinator, bukan sekadar usul lisan yang disetujui sambil lalu. (4) Jebakan: C sudah menyepakatinya tertulis, tapi koordinator kembali setelah tenggat dan tidak tahu pembagian itu berubah.
 
-**17. Kunci: B (5).** A=2, B=5, C=3, D=4.
-(1) B karena menolak risiko keamanan sekaligus menawarkan jalan keluar yang sah — pengadaan lewat jalur resmi. (2) Tolak → pakai aplikasi resmi → usulkan pengadaan lewat jalur resmi. (3) Trik: jawaban 5 poin soal teknologi tidak pernah berhenti di "tolak" — selalu ada alternatif resmi yang ditawarkan. (4) Jebakan: D sudah menolak, tapi tanpa alternatif, rekanmu akan mencari jalan pintas lain yang sama berbahayanya.
+**Jebakan:** C sudah menyepakatinya tertulis, tapi koordinator kembali setelah tenggat dan tidak tahu pembagian itu berubah.
 
-**18. Kunci: C (5).** A=3, B=2, C=5, D=4.
-(1) C karena risiko dijelaskan, solusi aman ditawarkan, dan tim TI dilibatkan bila data sensitif sudah sempat diakses. (2) Ingatkan risikonya → arahkan ke jaringan/VPN resmi → laporkan ke tim TI bila perlu. (3) Trik: WiFi publik + sistem internal = kombinasi berbahaya; jawaban 5 poin selalu menutup dengan pelibatan tim TI. (4) Jebakan: D sudah mengingatkan, tapi tanpa arahan ke VPN resmi dan tanpa laporan, rekanmu bisa mengulanginya besok.
+**10. Kunci: B (5).** A=3, B=5, C=4, D=2, E=1.
+(1) B adalah kunci karena benturan disampaikan ke sumbernya — atasan tahu, pengganti diusulkan sehingga kunjungan tetap berjalan, dan laporan Anda selesai sesuai tenggat. (2) Langkah & skor: A=3, B=5, C=4, D=2, E=1. Langkah: sampaikan benturan ke atasan → usulkan rekan pengganti → selesaikan laporan sesuai tenggat. (3) Trik: benturan jadwal tidak pernah diselesaikan sendirian; jawaban 5 poin selalu melibatkan pemberi tugas dan menawarkan pengganti. (4) Jebakan: C sudah memberi kabar ke atasan, tapi mendampingi sambil mengerjakan laporan membuat keduanya dikerjakan setengah-setengah.
 
-**19. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena hak warga atas datanya dipenuhi dengan cara yang aman: identitas diverifikasi, kanal resmi, penyerahan tercatat. (2) Verifikasi identitas → berikan lewat kanal resmi → catat penyerahan. (3) Trik: data pribadi hanya boleh diserahkan kepada pemiliknya yang terverifikasi, lewat kanal yang aman dan tercatat. (4) Jebakan: B sudah memberikan datanya, tapi WhatsApp pribadi bukan kanal resmi — salinan itu bisa jatuh ke tangan yang salah tanpa jejak.
+**Jebakan:** C sudah memberi kabar ke atasan, tapi mendampingi sambil mengerjakan laporan membuat keduanya dikerjakan setengah-setengah.
 
-**20. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena menolak penghapusan bukti audit dengan tegas, disertai alasan aturan yang jelas. (2) Tolak → simpan sesuai retensi → sampaikan aturan yang dilanggar. (3) Trik: permintaan menghapus jejak sebelum audit adalah tanda bahaya — jawaban 5 poin selalu menolak + menyebut aturannya. (4) Jebakan: C terasa cerdik karena "tidak hilang, hanya dipindah" — tapi memindahkan bukti audit ke HP pribadi sama saja menyembunyikannya.
+**11. Kunci: D (5).** A=2, B=3, C=4, D=5, E=1.
+(1) D adalah kunci karena layanan tetap berjalan hari itu dengan verifikasi yang sah — keaslian surat diperiksa lewat kepala adat — dan kasus itu tercatat sebagai usulan penyesuaian aturan agar warga terpencil tidak selalu terbentur syarat yang sama. (2) Langkah & skor: A=2, B=3, C=4, D=5, E=1. Langkah: terima surat adat → verifikasi lewat kepala adat → proses layanan hari ini → catat sebagai usulan penyesuaian aturan. (3) Trik: bukti non-formal yang sah diselesaikan dengan verifikasi ke sumbernya, bukan diterima begitu saja atau ditolak begitu saja. (4) Jebakan: B terlihat ramah karena melayani hari itu, tapi surat yang belum diverifikasi bisa menjadi preseden buruk bila ternyata palsu.
 
-**21. Kunci: B (5).** A=3, B=5, C=4, D=2.
-(1) B karena gratifikasi ditolak tegas, pelayanan tetap adil sesuai antrean, dan ada laporan bila pemaksaan berlanjut. (2) Tolak dengan tegas → layani sesuai antrean → laporkan bila memaksa. (3) Trik: "sukarela" tidak mengubah gratifikasi menjadi hadiah — yang dinilai adalah niat mendahulukan layanan. (4) Jebakan: A tidak menerima uang, tapi mendahulukan berkasnya tetap melanggar keadilan antrean — suap yang dibayar dengan perlakuan istimewa.
+**Jebakan:** B terlihat ramah karena melayani hari itu, tapi surat yang belum diverifikasi bisa menjadi preseden buruk bila ternyata palsu.
 
-**22. Kunci: C (5).** A=3, B=2, C=5, D=4.
-(1) C karena kesalahan anggaran — apalagi yang menguntungkan — harus dilaporkan dan dikoreksi lewat jalur resmi, bukan disembunyikan. (2) Laporkan ke atasan + keuangan → usulkan koreksi → catat perbaikan. (3) Trik: kesalahan yang menguntungkan adalah ujian integritas yang paling berat — jawaban 5 poin tidak pernah "membiarkan". (4) Jebakan: D sudah memperbaiki angkanya, tapi tanpa laporan, kesalahan yang sama bisa terulang dan tidak ada yang belajar darinya.
+**12. Kunci: B (5).** A=3, B=5, C=4, D=2, E=1.
+(1) B adalah kunci karena keberatan diselesaikan lewat diskusi bersama — pertukaran shift disepakati ketiga pihak dan kesepakatan itu tercatat dalam jadwal resmi, bukan sekadar janji lisan. (2) Langkah & skor: A=3, B=5, C=4, D=2, E=1. Langkah: ajak ketiganya berdiskusi → susun pertukaran shift bersama → catat dalam jadwal resmi. (3) Trik: soal keberagaman di tempat kerja, jawaban 5 poin selalu lewat forum bersama dan ditutup pencatatan resmi. (4) Jebakan: C sudah mencapai kesepakatan bersama, tapi kesepakatan lisan bisa berubah dan tidak ada yang bisa merujuknya minggu depan.
 
-**23. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena prosedur dijaga dan jalan keluar yang sah tetap ditawarkan — cepat tidak boleh mengalahkan benar. (2) Tolak → jalankan sesuai prosedur → tawarkan cara sah yang lebih cepat. (3) Trik: "semua orang melakukannya" bukan pembenaran — jawaban 5 poin selalu kembali ke prosedur. (4) Jebakan: B terdengar praktis, tapi pengadaan tanpa prosedur adalah pintu masuk korupsi, secepat apa pun hasilnya.
+**Jebakan:** C sudah mencapai kesepakatan bersama, tapi kesepakatan lisan bisa berubah dan tidak ada yang bisa merujuknya minggu depan.
 
-**24. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena menolak perintah yang melanggar prosedur, menjalankan tender yang benar, dan risikonya disampaikan tertulis agar tercatat. (2) Tolak dengan sopan → jalankan tender sesuai prosedur → sampaikan risiko tertulis. (3) Trik: penolakan terhadap atasan harus sopan, prosedural, dan tertulis — tiga lapis itu yang membuat jawaban ini 5 poin. (4) Jebakan: C menjalankan tender "pura-pura" — formalitas yang pemenangnya sudah ditentukan adalah pelanggaran yang dibungkus prosedur.
+**13. Kunci: E (5).** A=2, B=3, C=4, D=1, E=5.
+(1) E adalah kunci karena warga didengarkan sampai dipahami — intinya diulang — berkasnya diperiksa, dan rekan yang memahami dialeknya dimintai bantuan. (2) Langkah & skor: A=2, B=3, C=4, D=1, E=5. Langkah: dengarkan dengan sabar → ulang intinya → periksa berkas → libatkan rekan yang memahami dialeknya. (3) Trik: hambatan bahasa diselesaikan dengan memeriksa pemahaman di tiap langkah, bukan dengan mendengarkan saja lalu menebak maksudnya. (4) Jebakan: B sudah sabar mendengarkan, tapi melayani berkas seperti biasa tanpa memastikan keluhannya justru mengulang penolakan yang sama untuk ketiga kalinya.
 
-**25. Kunci: B (5).** A=3, B=5, C=4, D=2.
-(1) B karena keterlambatan dikomunikasikan jujur, perpanjangan diajukan dengan rencana, dan yang diserahkan tetap bisa dipertanggungjawabkan. (2) Sampaikan kondisi → ajukan perpanjangan + rencana → serahkan versi terbaik. (3) Trik: masalah tenggat selalu diselesaikan dengan komunikasi + rencana, bukan dengan menyembunyikan. (4) Jebakan: A mengirim apa adanya — atasan baru tahu kualitasnya buruk saat laporan itu sudah dipakai.
+**Jebakan:** B sudah sabar mendengarkan, tapi melayani berkas seperti biasa tanpa memastikan keluhannya justru mengulang penolakan yang sama untuk ketiga kalinya.
 
-**26. Kunci: C (5).** A=3, B=2, C=5, D=4.
-(1) C karena fasilitas negara tidak boleh dipakai kegiatan anti-Pancasila, penolakan dijelaskan, dan atasan diberitahu. (2) Tolak sesuai aturan → jelaskan alasan → laporkan ke atasan. (3) Trik: penolakan 5 poin selalu menyebut aturan + alasan + laporan — bukan sekadar "tidak boleh". (4) Jebakan: A terlihat toleran, tapi memberi panggung kepada kelompok anti-Pancasila di fasilitas negara adalah bentuk dukungan.
+**14. Kunci: A (5).** A=5, B=4, C=3, D=2, E=1.
+(1) A adalah kunci karena keberatan diselesaikan di forumnya — menu tambahan diusulkan, dibahas bersama tim, dan kesepakatannya tercatat dalam rencana kegiatan sehingga panitia berikutnya punya rujukan. (2) Langkah & skor: A=5, B=4, C=3, D=2, E=1. Langkah: usulkan menu tambahan → bahas bersama tim → catat kesepakatan dalam rencana kegiatan. (3) Trik: soal inklusi di acara bersama, jawaban 5 poin mengubah rencananya lewat forum, bukan menambal dengan solusi perorangan. (4) Jebakan: C terlihat peduli karena membawa bekal, tapi rekan yang berpantangan tetap makan terpisah dari hidangan bersama.
 
-**27. Kunci: A (5).** A=5, B=4, C=3, D=2.
-(1) A karena ASN tidak boleh mengikuti ajakan melanggar hukum, dan penyebaran di lingkungan kerja harus dilaporkan. (2) Tolak ajakan → ingat kewajiban taat hukum → laporkan bila menyebar di kantor. (3) Trik: protes yang sah tidak pernah berbentuk ajakan melanggar hukum — apalagi dari ASN. (4) Jebakan: B mengabaikan konten itu, tapi diam terhadap ajakan anti-negara di sekitar ASN adalah pembiaran.
+**Jebakan:** C terlihat peduli karena membawa bekal, tapi rekan yang berpantangan tetap makan terpisah dari hidangan bersama.
 
-**28. Kunci: D (5).** A=3, B=2, C=4, D=5.
-(1) D karena rasa penasaran dijawab dengan penjelasan, bukan hukuman — dan arah diskusinya dijaga ke sumber resmi. (2) Jelaskan dengan tenang → arahkan ke sumber resmi → ajak diskusi sehat. (3) Trik: pertanyaan penasaran dari anak magang adalah kesempatan mengajar — jawaban 5 poin selalu menjelaskan, bukan memarahi. (4) Jebakan: C memarahi — rasa penasaran yang dimarahi tidak hilang, ia hanya pindah mencari jawaban ke tempat yang salah.
+**15. Kunci: C (5).** A=2, B=3, C=5, D=4, E=1.
+(1) C adalah kunci karena warga dilayani hari itu juga dengan pemeriksaan pemahaman tiap langkah, layanan penerjemah resmi dihubungi, dan kebutuhan itu tercatat untuk pengadaan berikutnya agar warga tunarungu berikutnya tidak menunggu selama ini. (2) Langkah & skor: A=2, B=3, C=5, D=4, E=1. Langkah: layani dengan aplikasi penerjemah → periksa pemahamannya → hubungi penerjemah resmi → catat kebutuhan. (3) Trik: alat bantu yang tidak andal boleh dipakai darurat, asal pemahamannya diperiksa tiap langkah dan ada tindak lanjut ke layanan resmi. (4) Jebakan: D sudah melayani dengan hati-hati, tapi kebutuhan penerjemah resmi tidak pernah sampai ke pengadaan dan warga berikutnya mengulang antrean yang sama.
 
-**29. Kunci: B (5).** A=3, B=5, C=4, D=2.
-(1) B karena netralitas ASN dan kewajiban jam kerja ditegakkan, dan ajakan yang berulang dilaporkan. (2) Tolak → ingatkan netralitas + jam kerja → laporkan bila berulang/menekan. (3) Trik: ASN boleh berpendapat sebagai warga, tetapi tidak dengan mengorbankan netralitas dan jam kerja. (4) Jebakan: C terdengar kompromi, tapi ikut aksi menolak kebijakan pemerintah yang sah tetap melanggar netralitas ASN, jam kerja atau bukan.
+**Jebakan:** D sudah melayani dengan hati-hati, tapi kebutuhan penerjemah resmi tidak pernah sampai ke pengadaan dan warga berikutnya mengulang antrean yang sama.
 
-**30. Kunci: C (5).** A=3, B=2, C=5, D=4.
-(1) C karena ujaran SARA dihentikan saat itu juga, warga yang mendengar mendapat permintaan maaf, dan pengulangan dilaporkan. (2) Tegur sopan saat itu juga → minta maaf ke warga → laporkan bila berulang. (3) Trik: ujaran kebencian di depan warga merusak kepercayaan pada layanan — jawaban 5 poin selalu memperbaiki saat itu juga, bukan nanti. (4) Jebakan: D menegur setelah warga pulang — warga sudah pergi dengan kesan bahwa kantor mentolerir ujaran itu.
+**16. Kunci: B (5).** A=3, B=5, C=4, D=2, E=1.
+(1) B adalah kunci karena warga dilayani hari itu juga secara manual, salinan formulir disimpan sebagai arsip sementara, data diinput ulang saat sistem pulih, dan hasilnya dikonfirmasi kepada warga. (2) Langkah & skor: A=3, B=5, C=4, D=2, E=1. Langkah: layani manual dengan formulir kertas → simpan salinan sebagai arsip → input ulang saat sistem pulih → konfirmasi ke warga. (3) Trik: saat sistem gagal, jawaban 5 poin selalu punya dua lapis — layani warga sekarang, rapikan datanya sesudahnya dengan jejak. (4) Jebakan: C sudah menginput ulang, tapi tanpa salinan arsip dan tanpa konfirmasi, warga tidak tahu apakah datanya benar-benar masuk.
 
----
+**Jebakan:** C sudah menginput ulang, tapi tanpa salinan arsip dan tanpa konfirmasi, warga tidak tahu apakah datanya benar-benar masuk.
+
+**17. Kunci: C (5).** A=2, B=3, C=5, D=4, E=1.
+(1) C adalah kunci karena tenggat tetap terpenuhi lewat kanal yang benar, rekan diingatkan memakai kanal resmi, dan tim keamanan data dilibatkan agar kebocoran lewat kanal pribadi tidak terulang. (2) Langkah & skor: A=2, B=3, C=5, D=4, E=1. Langkah: olah lewat kanal resmi → ingatkan rekan memakai kanal resmi → laporkan ke tim keamanan data. (3) Trik: data warga yang sudah terlanjur beredar di kanal pribadi diselesaikan dengan memindahkan pengolahannya ke kanal resmi plus laporan keamanan. (4) Jebakan: D sudah memakai kanal resmi, tapi tanpa laporan, tim keamanan tidak tahu ada data warga yang sempat beredar di luar kendali.
+
+**Jebakan:** D sudah memakai kanal resmi, tapi tanpa laporan, tim keamanan tidak tahu ada data warga yang sempat beredar di luar kendali.
+
+**18. Kunci: A (5).** A=5, B=4, C=3, D=2, E=1.
+(1) A adalah kunci karena tiga lapis perlindungan sekaligus — seluruh grup diperingatkan, pemilik akun dihubungi lewat nomor pribadinya, dan tim keamanan dilibatkan untuk menangani akun yang diduga diretas. (2) Langkah & skor: A=5, B=4, C=3, D=2, E=1. Langkah: peringatkan seluruh grup → hubungi pemilik akun → laporkan ke tim keamanan. (3) Trik: tautan mencurigakan dari akun rekan sendiri adalah ciri peretasan — yang diperingatkan adalah seluruh grup, bukan hanya yang sudah mengklik. (4) Jebakan: C sudah membantu yang mengklik, tapi anggota grup lain masih bisa mengklik tautan itu karena tidak ada peringatan menyeluruh.
+
+**Jebakan:** C sudah membantu yang mengklik, tapi anggota grup lain masih bisa mengklik tautan itu karena tidak ada peringatan menyeluruh.
+
+**19. Kunci: E (5).** A=2, B=3, C=4, D=1, E=5.
+(1) E adalah kunci karena batas kanal resmi dijaga — warga diarahkan ke kanal resmi — statusnya diperiksa keesokan pagi, hasilnya disampaikan lewat kanal resmi, dan aduannya tercatat. (2) Langkah & skor: A=2, B=3, C=4, D=1, E=5. Langkah: arahkan ke kanal resmi → periksa status keesokan pagi → sampaikan hasil lewat kanal resmi → catat aduan. (3) Trik: pesan warga di nomor pribadi tidak pernah dibalas dengan substansi — yang dibalas adalah arahannya, lalu substansinya disampaikan lewat kanal resmi. (4) Jebakan: C sudah memeriksa statusnya, tapi warga harus menebak sendiri hasilnya karena tidak ada yang menyampaikannya lewat kanal resmi.
+
+**Jebakan:** C sudah memeriksa statusnya, tapi warga harus menebak sendiri hasilnya karena tidak ada yang menyampaikannya lewat kanal resmi.
+
+**20. Kunci: D (5).** A=2, B=3, C=4, D=5, E=1.
+(1) D adalah kunci karena warga dibantu hari itu juga, kesulitan mereka diubah menjadi panduan cetak bergambar, dan panduan itu diserahkan ke tim pengembang agar aplikasinya diperbaiki. (2) Langkah & skor: A=2, B=3, C=4, D=5, E=1. Langkah: bantu memakai aplikasi → susun panduan cetak bergambar → serahkan ke tim pengembang. (3) Trik: transisi digital yang membingungkan diselesaikan dengan membantu hari itu sekaligus memperbaiki alatnya — bukan dengan memaksa warga beradaptasi sendiri. (4) Jebakan: C sudah mencatat kesulitannya, tapi warga berikutnya tetap mengantre di loket manual karena tidak ada panduan yang bisa mereka pegang.
+
+**Jebakan:** C sudah mencatat kesulitannya, tapi warga berikutnya tetap mengantre di loket manual karena tidak ada panduan yang bisa mereka pegang.
+
+**21. Kunci: E (5).** A=2, B=3, C=4, D=1, E=5.
+(1) E adalah kunci karena salinan liar itu dihentikan di sumbernya — rekan diingatkan aturannya, salinan dimusnahkan, dan atasan diberi tahu agar arsip pribadi seperti itu tidak terulang. (2) Langkah & skor: A=2, B=3, C=4, D=1, E=5. Langkah: ingatkan aturan penyalinan → minta salinan dimusnahkan → laporkan ke atasan. (3) Trik: permintaan merahasiakan pelanggaran tidak pernah dipenuhi — yang dijaga adalah data warga, bukan perasaan pelakunya. (4) Jebakan: C sudah memusnahkan salinannya, tapi atasan tidak tahu dan rekan itu bisa menyalin dokumen warga lain besok.
+
+**Jebakan:** C sudah memusnahkan salinannya, tapi atasan tidak tahu dan rekan itu bisa menyalin dokumen warga lain besok.
+
+**22. Kunci: A (5).** A=5, B=4, C=3, D=2, E=1.
+(1) A adalah kunci karena alokasi awal dijelaskan ke tim, acara perpisahan tetap bisa berjalan dari iuran sukarela, dan keputusan itu tercatat dalam berita acara sehingga pelatihan internal tidak kehilangan dananya diam-diam. (2) Langkah & skor: A=5, B=4, C=3, D=2, E=1. Langkah: sampaikan alokasi awal → usulkan iuran sukarela → catat keputusan dalam berita acara. (3) Trik: anggaran yang sudah dialokasikan tidak pernah digeser oleh suara terbanyak — yang digeser adalah sumber dana acaranya. (4) Jebakan: C terdengar demokratis karena mengikuti sebagian besar rekan, tapi pelatihan internal yang sudah direncanakan kehilangan dananya.
+
+**Jebakan:** C terdengar demokratis karena mengikuti sebagian besar rekan, tapi pelatihan internal yang sudah direncanakan kehilangan dananya.
+
+**23. Kunci: C (5).** A=2, B=3, C=5, D=4, E=1.
+(1) C adalah kunci karena penilaian objektif sesuai catatan, hasil didiskusikan dengan rekan itu sebelum diserahkan, dan rencana perbaikannya tercatat untuk periode berikutnya — sahabat tetap dibantu, lewat jalur yang benar. (2) Langkah & skor: A=2, B=3, C=5, D=4, E=1. Langkah: nilai sesuai catatan → diskusikan sebelum diserahkan → catat rencana perbaikan. (3) Trik: menilai sahabat berarti memisahkan hubungan dari catatan — dan menutupnya dengan rencana perbaikan, bukan sekadar angka. (4) Jebakan: B sudah objektif, tapi rekan itu baru tahu hasilnya setelah penilaian diserahkan dan tidak sempat memperbaiki apa pun.
+
+**Jebakan:** B sudah objektif, tapi rekan itu baru tahu hasilnya setelah penilaian diserahkan dan tidak sempat memperbaiki apa pun.
+
+**24. Kunci: B (5).** A=2, B=5, C=4, D=3, E=1.
+(1) B adalah kunci karena parsel dikembalikan segera dengan penjelasan tertulis, dan panitia diberi tahu sehingga penilaian terhadap vendor itu tercatat bersih dari gratifikasi. (2) Langkah & skor: A=2, B=5, C=4, D=3, E=1. Langkah: kembalikan parsel segera → beri penjelasan tertulis → laporkan ke panitia. (3) Trik: gratifikasi sekecil apa pun dikembalikan segera dan tertulis — menundanya sampai proses selesai justru membuatnya terlihat diterima. (4) Jebakan: A terdengar sopan karena menjaga perasaan vendor, tapi parsel itu tetap berada di meja Anda selama penilaian berlangsung.
+
+**Jebakan:** A terdengar sopan karena menjaga perasaan vendor, tapi parsel itu tetap berada di meja Anda selama penilaian berlangsung.
+
+**25. Kunci: D (5).** A=2, B=3, C=4, D=5, E=1.
+(1) D adalah kunci karena kesalahan diakui sebelum rapat — atasan diberi tahu, laporan perbaikan dikirim, dan koreksi itu tercatat dalam arsip laporan. (2) Langkah & skor: A=2, B=3, C=4, D=5, E=1. Langkah: sampaikan kesalahan sebelum rapat → kirim laporan perbaikan → catat koreksi dalam arsip. (3) Trik: kesalahan laporan selalu diselesaikan sebelum dipakai mengambil keputusan — pengakuan yang terlambat sama buruknya dengan angka yang keliru. (4) Jebakan: B menunggu rapat selesai agar tidak mengganggu, tapi pimpinan sudah mengambil kesimpulan dari angka yang keliru.
+
+**Jebakan:** B menunggu rapat selesai agar tidak mengganggu, tapi pimpinan sudah mengambil kesimpulan dari angka yang keliru.
+
+**26. Kunci: C (5).** A=2, B=3, C=5, D=4, E=1.
+(1) C adalah kunci karena fasilitas negara dijaga — aturannya dijelaskan, pembagian dihentikan, dan atasan diberi tahu agar kejadian itu tercatat. (2) Langkah & skor: A=2, B=3, C=5, D=4, E=1. Langkah: jelaskan aturan pemakaian area → minta hentikan pembagian → laporkan ke atasan. (3) Trik: penolakan 5 poin selalu menyebut aturan, alasan, dan laporan — bukan sekadar mengusir warga itu keluar gedung. (4) Jebakan: A terlihat toleran karena memindahkan kegiatannya ke luar, tapi ajakan menolak pemilu tetap disebarkan dari halaman gedung instansi.
+
+**Jebakan:** A terlihat toleran karena memindahkan kegiatannya ke luar, tapi ajakan menolak pemilu tetap disebarkan dari halaman gedung instansi.
+
+**27. Kunci: A (5).** A=5, B=4, C=3, D=2, E=1.
+(1) A adalah kunci karena grup kerja dikembalikan ke fungsinya — seluruh anggota diingatkan, video diminta dihapus, dan atasan diberi tahu agar penyebaran konten provokatif itu tercatat. (2) Langkah & skor: A=5, B=4, C=3, D=2, E=1. Langkah: ingatkan seluruh grup → minta video dihapus → laporkan ke atasan. (3) Trik: konten provokatif di grup kerja diselesaikan dengan menghapus sumbernya dan mengembalikan fungsi grup, bukan dengan menimpanya dengan pesan lain. (4) Jebakan: C terlihat bijak karena menyeimbangkan diskusi, tapi videonya tetap ada dan bisa dibagikan ulang oleh anggota grup lain.
+
+**Jebakan:** C terlihat bijak karena menyeimbangkan diskusi, tapi videonya tetap ada dan bisa dibagikan ulang oleh anggota grup lain.
+
+**28. Kunci: D (5).** A=2, B=3, C=4, D=5, E=1.
+(1) D adalah kunci karena rasa penasaran magang dijawab dengan penjelasan, arah diskusinya dijaga ke sumber belajar resmi, latar laptop diganti, dan pembimbing magang diberi tahu saat kembali dari cuti. (2) Langkah & skor: A=2, B=3, C=4, D=5, E=1. Langkah: jelaskan arti simbol → arahkan ke sumber resmi → minta ganti latar laptop → sampaikan ke pembimbing. (3) Trik: pertanyaan dan ketidaktahuan magang adalah kesempatan mengajar — jawaban 5 poin selalu menjelaskan, bukan menghukum. (4) Jebakan: B sudah menjelaskan dan mengganti latarnya, tapi pembimbing magang tidak tahu dan tidak bisa melanjutkan pembinaan itu.
+
+**Jebakan:** B sudah menjelaskan dan mengganti latarnya, tapi pembimbing magang tidak tahu dan tidak bisa melanjutkan pembinaan itu.
+
+**29. Kunci: B (5).** A=2, B=5, C=4, D=3, E=1.
+(1) B adalah kunci karena fasilitas negara dijaga — aturannya dijelaskan, warga diarahkan ke percetakan umum, dan permintaan itu dilaporkan ke atasan. (2) Langkah & skor: A=2, B=5, C=4, D=3, E=1. Langkah: jelaskan aturan pemakaian fasilitas → arahkan ke percetakan umum → laporkan ke atasan. (3) Trik: pembayaran tidak mengubah sifat permintaan — fasilitas negara tetap tidak boleh dipakai untuk seruan mengganti dasar negara. (4) Jebakan: D mengarahkan warga ke percetakan umum, tapi alasannya hanya printer sedang dipakai, sehingga warga bisa kembali saat printer sedang menganggur.
+
+**Jebakan:** D mengarahkan warga ke percetakan umum, tapi alasannya hanya printer sedang dipakai, sehingga warga bisa kembali saat printer sedang menganggur.
+
+**30. Kunci: E (5).** A=2, B=3, C=4, D=1, E=5.
+(1) E adalah kunci karena netralitas ASN dan kewajiban jam kerja ditegakkan dengan sopan — ajakan ditolak dengan alasan yang jelas — dan ajakan yang berulang dilaporkan agar tidak menjadi tekanan. (2) Langkah & skor: A=2, B=3, C=4, D=1, E=5. Langkah: sampaikan penolakan dengan alasan netralitas → tetap jalankan tugas → laporkan bila ajakan berulang. (3) Trik: ASN boleh berpendapat sebagai warga, tetapi tidak dengan mengorbankan netralitas dan jam kerja — penolakan yang sopan plus laporan bila berulang adalah paket lengkapnya. (4) Jebakan: A terdengar kompromi karena menandatangani di luar jam kerja, tapi menolak kebijakan pemerintah yang sah tetap melanggar netralitas ASN, jam kerja atau bukan.
+
+**Jebakan:** A terdengar kompromi karena menandatangani di luar jam kerja, tapi menolak kebijakan pemerintah yang sah tetap melanggar netralitas ASN, jam kerja atau bukan.
 
 ## Distribusi kunci (verifikasi sebelum terbit)
 
-Posisi jawaban 5 poin: A=8 (No. 2, 5, 8, 12, 15, 19, 23, 27), B=7 (No. 4, 9, 13, 17, 21, 25, 29), C=8 (No. 1, 6, 10, 14, 18, 22, 26, 30), D=7 (No. 3, 7, 11, 16, 20, 24, 28). Maksimum 8/30 = 26,7% — di bawah batas 40% (pelajaran cacat Hari 7 diterapkan). Semua skor per opsi sudah ditetapkan 1–5 dengan benar (5 poin = kunci, 4 = benar sebagian, 3 = pasif/netral, 2 = melanggar aturan atau merugikan).
+Posisi jawaban 5 poin: A6/B6/C6/D6/E6 (masing-masing 6/30 = 20,0% — di bawah batas 40% Butir 10.3). Semua skor per opsi sudah ditetapkan 1–5 dengan benar (5 poin = kunci, 4 = benar sebagian, 3 = pasif/netral, 2 = melanggar aturan atau merugikan).
 
 ## Setelah mengerjakan
 
-- **Skor sesi ini:** ___ / 150. Target: ≥135 (rata-rata ≥4,5/soal). Kalau ada jawaban di bawah 5 poin, baca pembahasannya — soal itu masuk buku kesalahan dan akan diulang Sabtu, 21 Nov (3 hari kemudian).
+- **Skor sesi ini:** ___ / 150. Target: PG ≈111, target aman ≈124 (rata-rata ≥4,1/soal). Kalau ada jawaban di bawah 5 poin, baca pembahasannya — soal itu masuk buku kesalahan dan akan diulang.
 - **Jangan lupa:** 16 item FSRS jatuh tempo hari ini di tab Buku (termasuk Sim No. 72) — kerjakan 5 di antaranya untuk menyelesaikan Daily Quest FSRS (+15 XP).
 - **Besok — Jumat, 20 Nov 2026:** TIU figural + ulangan soal salah Hari 11 (bila Hari 11 sudah dikerjakan).
 - **Sabtu, 21 Nov 2026:** tryout mini 30 soal campuran + review kesalahan (ulangan soal salah Hari 12 + simulasi).
 
-*Label kejujuran: soal di atas adalah soal latihan model SKD (mengacu kisi-kisi KepmenPANRB 321/2024 + pola FR 2024), BUKAN soal resmi BKN.*
+*Label kejujuran: soal di atas adalah soal latihan model SKD (mengacu kisi-kisi KepmenPANRB 674/2026 + pola FR 2024), BUKAN soal resmi BKN.*

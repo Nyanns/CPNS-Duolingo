@@ -150,32 +150,36 @@ E. 101
 ### TIU Numerik — perbandingan kuantitatif (Soal 12–15)
 
 **12.** Diketahui a dan b adalah bilangan real tak nol yang memenuhi a³ > b³ dan 1/a > 1/b. Jika P = a dan Q = −1, manakah hubungan yang benar antara kuantitas P dan Q?
-A. P > Q
-B. P < Q
-C. P = Q
-D. P = 2Q
-E. Hubungan P dan Q tidak dapat ditentukan.
 
-**13.** Diketahui P = 4/9 × 180 dan Q = 5/6 × 150. Manakah hubungan yang benar antara kuantitas P dan Q?
 A. P > Q
 B. P < Q
 C. P = Q
 D. P = 2Q
-E. Hubungan P dan Q tidak dapat ditentukan.
+E. Hubungan P dan Q tidak dapat ditentukan
+
+**13.** Diketahui P = 3/8 × 160, Q = 45% dari 140, dan R = 0,62 × 100. Manakah hubungan yang benar antara kuantitas P, Q, dan R?
+
+A. P > R > Q
+B. Q > R > P
+C. R > Q > P
+D. Q = R > P
+E. Hubungan P, Q, dan R tidak dapat ditentukan.
 
 **14.** Diketahui P = 25% dari 240 dan Q = 40% dari 150. Manakah hubungan yang benar antara kuantitas P dan Q?
+
 A. P > Q
 B. P < Q
 C. P = Q
 D. P = 2Q
-E. Hubungan P dan Q tidak dapat ditentukan.
+E. Hubungan P dan Q tidak dapat ditentukan
 
 **15.** Diketahui P = 1 + 2 + 3 + … + 20 dan Q = 1 + 2 + 3 + … + 14. Manakah hubungan yang benar antara kuantitas P dan Q?
+
 A. P > Q
 B. P < Q
 C. P = Q
 D. P = 2Q
-E. Hubungan P dan Q tidak dapat ditentukan.
+E. Hubungan P dan Q tidak dapat ditentukan
 
 ### TIU Numerik — soal cerita multi-langkah (Soal 16–22)
 
@@ -325,7 +329,8 @@ E. Rp900.000
 **10. B — 604.** Operasi bergantian ×2+1, ×3+1: 2→5→16→33→100→201 → 201×3+1=604. Jebakan: 403 (mengulang ×2+1 padahal giliran ×3+1).
 **11. E — 101.** ×2−5: 8→11→17→29→53 → 53×2−5=101. Jebakan: 106 (lupa mengurangi 5).
 **12. A — P > Q.** a³ > b³ setara a > b. Uji tanda: sama-sama positif → 1/a > 1/b berarti b > a (bertentangan); sama-sama negatif → sama (bertentangan); a negatif & b positif → 1/a < 0 < 1/b (bertentangan). Tersisa a positif & b negatif → P = a > 0 > −1 = Q. Jebakan: E (menebak "tidak dapat ditentukan" karena a, b tampak bebas).
-**13. B — P < Q.** P = 4/9 × 180 = 80; Q = 5/6 × 150 = 125. Jebakan: mengalikan dulu (4 × 180) membuang waktu; menebak dari pecahannya saja lupa 180 > 150.
+**13. B — Q > R > P.** P = 3/8 × 160 = 60; Q = 45% × 140 = 63; R = 0,62 × 100 = 62. Jebakan: menebak dari persennya saja (62% > 45% lalu menyimpulkan R > Q — lupa pengalinya beda, 100 vs 140); mengira P terbesar karena 160 terbesar; membulatkan 62 ≈ 63 lalu memilih Q = R > P (opsi D).
+
 **14. C — P = Q.** P = 25% × 240 = 60; Q = 40% × 150 = 60. Jebakan: melihat 40% > 25% langsung menebak P < Q.
 **15. D — P = 2Q.** P = 20×21÷2 = 210; Q = 14×15÷2 = 105; 210 = 2 × 105. Jebakan: menjumlah satu per satu; salah rumus n(n−1)÷2.
 **16. B — 4 menit.** 1/10+1/15+1/20+1/30 = 15/60 = 1/4 → 1 ÷ 1/4 = 4 menit. Jebakan: merata-rata waktu (18,75 menit).
