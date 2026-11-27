@@ -103,49 +103,49 @@ E. Kain : Toko
 
 ### B. Penalaran Induktif (soal 5, 7–10, 12)
 
-**5.** Enam gerai kopi mencatat kenaikan jumlah pelanggan dalam satu kuartal: 1. Gerai A: jam buka standar, menu tetap — naik 3%. 2. Gerai B: jam buka diperpanjang, menu tetap — naik 8%. 3. Gerai C: jam buka standar, menu musiman ditambah — naik 10%. 4. Gerai D: jam buka diperpanjang, menu musiman ditambah — naik 17%. 5. Gerai E: jam buka standar, menu tetap — naik 4%. 6. Gerai F: jam buka diperpanjang, menu musiman ditambah — naik 19%. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+**5.** Enam gerai kopi mencatat kenaikan jumlah pelanggan dalam satu kuartal: 1. Gerai A: jam buka standar, menu tetap — naik 2%. 2. Gerai B: jam buka diperpanjang, menu tetap — naik 6%. 3. Gerai C: jam buka standar, menu musiman ditambah — naik 9%. 4. Gerai D: jam buka diperpanjang, menu musiman ditambah — naik 15%. 5. Gerai E: jam buka standar, menu tetap — naik 5%. 6. Gerai F: jam buka diperpanjang, menu musiman ditambah — naik 18%. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
 
-A. Menu musiman menjadi penyebab utama kenaikan jumlah pelanggan di gerai kopi tersebut
-B. Gerai dengan jam buka standar mencatat kenaikan pelanggan lebih tinggi daripada gerai lain
-C. Kenaikan jumlah pelanggan mendorong gerai memperpanjang jam operasional dan menambah menu musiman
-D. Semakin panjang jam buka dan semakin beragam menu, semakin besar kenaikan jumlah pelanggan
-E. Perpanjangan jam operasional berpengaruh lebih besar daripada penambahan menu musiman terhadap pelanggan
+A. Semakin panjang jam buka dan semakin beragam menu, semakin kecil kenaikan jumlah pelanggan
+B. Perpanjangan jam operasional berpengaruh lebih besar daripada penambahan menu musiman
+C. Pelanggan yang bertambah mendorong gerai memperpanjang jam operasional dan menambah menu musiman
+D. Kenaikan jumlah pelanggan mengikuti banyaknya perubahan yang diterapkan di tiap gerai
+E. Gerai dengan jam buka standar mencatat kenaikan pelanggan lebih tinggi daripada gerai lain
 
-**7.** Enam tim layanan pelanggan mencatat skor kepuasan pelanggan (skala 0–100): 1. Tim A: pelatihan standar, basis pengetahuan terpisah — skor 68. 2. Tim B: pelatihan komunikasi khusus, basis pengetahuan terpisah — skor 76. 3. Tim C: pelatihan standar, basis pengetahuan terpadu — skor 78. 4. Tim D: pelatihan komunikasi khusus, basis pengetahuan terpadu — skor 86. 5. Tim E: pelatihan standar, basis pengetahuan terpisah — skor 70. 6. Tim F: pelatihan komunikasi khusus, basis pengetahuan terpadu — skor 88. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+**7.** Enam tim layanan pelanggan mencatat skor kepuasan pelanggan (skala 0–100): 1. Tim A: pelatihan standar, basis pengetahuan terpisah — skor 66. 2. Tim B: pelatihan komunikasi khusus, basis pengetahuan terpisah — skor 74. 3. Tim C: pelatihan standar, basis pengetahuan terpadu — skor 79. 4. Tim D: pelatihan komunikasi khusus, basis pengetahuan terpadu — skor 85. 5. Tim E: pelatihan standar, basis pengetahuan terpisah — skor 69. 6. Tim F: pelatihan komunikasi khusus, basis pengetahuan terpadu — skor 89. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
 
 A. Pelatihan komunikasi berpengaruh lebih besar daripada basis pengetahuan terpadu terhadap kepuasan pelanggan
-B. Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin tinggi skor kepuasan pelanggan layanan
-C. Pelatihan komunikasi menjadi faktor penentu utama skor kepuasan pelanggan di tim layanan
-D. Tim dengan skor kepuasan tertinggi bekerja dengan pelatihan standar dan basis terpisah
+B. Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin tinggi skor kepuasan pelanggan
+C. Pelatihan komunikasi menjadi faktor penentu utama bagi skor kepuasan pelanggan di tim layanan
+D. Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin rendah skor kepuasan pelanggan
 E. Skor kepuasan pelanggan yang tinggi mendorong tim mengikuti pelatihan dan memadukan basis pengetahuan
 
-**8.** Enam gudang mencatat rata-rata waktu pencarian barang (menit): 1. Gudang A: label rak standar, jalur pengambilan lama — 14 menit. 2. Gudang B: label rak kode warna, jalur pengambilan lama — 11 menit. 3. Gudang C: label rak standar, jalur pengambilan ditata ulang — 10 menit. 4. Gudang D: label rak kode warna, jalur pengambilan ditata ulang — 7 menit. 5. Gudang E: label rak standar, jalur pengambilan lama — 15 menit. 6. Gudang F: label rak kode warna, jalur pengambilan ditata ulang — 6 menit. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+**8.** Enam gudang mencatat rata-rata waktu pencarian barang (menit): 1. Gudang A: label rak standar, jalur pengambilan lama — 13 menit. 2. Gudang B: label rak kode warna, jalur pengambilan lama — 12 menit. 3. Gudang C: label rak standar, jalur pengambilan ditata ulang — 9 menit. 4. Gudang D: label rak kode warna, jalur pengambilan ditata ulang — 8 menit. 5. Gudang E: label rak standar, jalur pengambilan lama — 16 menit. 6. Gudang F: label rak kode warna, jalur pengambilan ditata ulang — 5 menit. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
 
-A. Jalur pengambilan yang ditata ulang menjadi penyebab utama singkatnya waktu pencarian barang gudang
-B. Label kode warna saja sudah cukup membuat waktu pencarian barang menjadi yang tercepat.
+A. Semakin jelas label rak dan semakin tertata jalur pengambilan, semakin lama waktu pencarian barang
+B. Label kode warna saja sudah cukup membuat waktu pencarian barang menjadi yang tercepat
 C. Gudang dengan jalur lama mencatat waktu pencarian lebih singkat daripada gudang dengan jalur baru
-D. Waktu pencarian barang yang singkat mendorong gudang memberi label kode warna pada rak
-E. Semakin jelas label rak dan semakin tertata jalur pengambilan, semakin singkat waktu pencarian barang
+D. Jalur pengambilan yang ditata ulang menjadi penyebab utama singkatnya waktu pencarian barang gudang
+E. Waktu pencarian barang menyusut seiring banyaknya perbaikan yang diterapkan di gudang
 
-**9.** Enam kelas mencatat nilai rata-rata ujian akhir: 1. Kelas A: diskusi kelompok jarang, kuis singkat jarang — 62. 2. Kelas B: diskusi kelompok rutin, kuis singkat jarang — 71. 3. Kelas C: diskusi kelompok jarang, kuis singkat rutin — 73. 4. Kelas D: diskusi kelompok rutin, kuis singkat rutin — 82. 5. Kelas E: diskusi kelompok jarang, kuis singkat jarang — 64. 6. Kelas F: diskusi kelompok rutin, kuis singkat rutin — 84. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+**9.** Enam kelas mencatat nilai rata-rata ujian akhir: 1. Kelas A: diskusi kelompok jarang, kuis singkat jarang — 60. 2. Kelas B: diskusi kelompok rutin, kuis singkat jarang — 70. 3. Kelas C: diskusi kelompok jarang, kuis singkat rutin — 74. 4. Kelas D: diskusi kelompok rutin, kuis singkat rutin — 81. 5. Kelas E: diskusi kelompok jarang, kuis singkat jarang — 63. 6. Kelas F: diskusi kelompok rutin, kuis singkat rutin — 85. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
 
 A. Semakin rutin diskusi kelompok dan kuis singkat, semakin tinggi nilai rata-rata ujian kelas
 B. Kuis singkat tiap pekan menjadi faktor utama tingginya nilai rata-rata ujian di kelas
 C. Diskusi kelompok rutin berpengaruh lebih besar daripada kuis singkat terhadap nilai rata-rata ujian
-D. Kelas dengan diskusi jarang dan kuis jarang mencatat nilai rata-rata tertinggi di kelas
+D. Semakin rutin diskusi kelompok dan kuis singkat, semakin rendah nilai rata-rata ujian kelas
 E. Nilai rata-rata ujian yang tinggi mendorong kelas mengadakan diskusi kelompok dan kuis singkat
 
-**10.** Enam regu produksi mencatat jumlah produk cacat per 1.000 unit: 1. Regu A: kalibrasi mesin jarang, pemeriksaan bahan baku jarang — 38 cacat. 2. Regu B: kalibrasi mesin rutin, pemeriksaan bahan baku jarang — 27 cacat. 3. Regu C: kalibrasi mesin jarang, pemeriksaan bahan baku rutin — 25 cacat. 4. Regu D: kalibrasi mesin rutin, pemeriksaan bahan baku rutin — 14 cacat. 5. Regu E: kalibrasi mesin jarang, pemeriksaan bahan baku jarang — 40 cacat. 6. Regu F: kalibrasi mesin rutin, pemeriksaan bahan baku rutin — 12 cacat. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+**10.** Enam regu produksi mencatat jumlah produk cacat per 1.000 unit: 1. Regu A: kalibrasi mesin jarang, pemeriksaan bahan baku jarang — 41 cacat. 2. Regu B: kalibrasi mesin rutin, pemeriksaan bahan baku jarang — 28 cacat. 3. Regu C: kalibrasi mesin jarang, pemeriksaan bahan baku rutin — 24 cacat. 4. Regu D: kalibrasi mesin rutin, pemeriksaan bahan baku rutin — 15 cacat. 5. Regu E: kalibrasi mesin jarang, pemeriksaan bahan baku jarang — 36 cacat. 6. Regu F: kalibrasi mesin rutin, pemeriksaan bahan baku rutin — 11 cacat. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
 
-A. Kalibrasi mesin rutin berpengaruh lebih besar daripada pemeriksaan bahan baku terhadap jumlah produk cacat
+A. Kalibrasi mesin berpengaruh lebih besar daripada pemeriksaan bahan baku terhadap jumlah produk cacat
 B. Pemeriksaan bahan baku menjadi penyebab utama rendahnya jumlah produk cacat di regu produksi
-C. Regu dengan pemeriksaan jarang mencatat produk cacat lebih sedikit daripada regu dengan pemeriksaan rutin
-D. Semakin rutin kalibrasi mesin dan pemeriksaan bahan baku, semakin sedikit produk cacat regu
-E. Jumlah produk cacat yang rendah mendorong regu mengkalibrasi mesin dan memeriksa bahan baku
+C. Semakin rutin kalibrasi mesin dan pemeriksaan bahan baku, semakin banyak produk cacat regu
+D. Jumlah produk cacat menyusut seiring banyaknya pemeriksaan rutin yang diterapkan regu
+E. Produk cacat yang rendah mendorong regu untuk mengkalibrasi mesin dan memeriksa bahan baku
 
-**12.** Enam pasar tradisional mencatat jumlah pengunjung harian: 1. Pasar A: los dagang acak, area parkir sempit — 1.200 pengunjung. 2. Pasar B: los dagang tertata, area parkir sempit — 1.800 pengunjung. 3. Pasar C: los dagang acak, area parkir luas — 1.900 pengunjung. 4. Pasar D: los dagang tertata, area parkir luas — 2.700 pengunjung. 5. Pasar E: los dagang acak, area parkir sempit — 1.300 pengunjung. 6. Pasar F: los dagang tertata, area parkir luas — 2.900 pengunjung. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
+**12.** Enam pasar tradisional mencatat jumlah pengunjung harian: 1. Pasar A: los dagang acak, area parkir sempit — 1.100 pengunjung. 2. Pasar B: los dagang tertata, area parkir sempit — 1.700 pengunjung. 3. Pasar C: los dagang acak, area parkir luas — 2.000 pengunjung. 4. Pasar D: los dagang tertata, area parkir luas — 2.600 pengunjung. 5. Pasar E: los dagang acak, area parkir sempit — 1.400 pengunjung. 6. Pasar F: los dagang tertata, area parkir luas — 2.900 pengunjung. Generalisasi yang paling didukung oleh seluruh data di atas adalah…
 
-A. Penataan los dagang berpengaruh lebih besar daripada perluasan parkir terhadap jumlah pengunjung pasar
+A. Semakin tertata los dagang dan semakin luas parkir, semakin sedikit pengunjung harian pasar
 B. Perluasan area parkir menjadi faktor utama banyaknya pengunjung harian di pasar tradisional
 C. Semakin tertata los dagang dan semakin luas parkir, semakin banyak pengunjung harian pasar
 D. Pasar dengan los acak dan parkir sempit mencatat pengunjung lebih banyak daripada pasar lain
@@ -402,34 +402,34 @@ E. Ungu
 **6. A — Kaki : Badan.** (1) A karena relasinya bagian : keseluruhan: jari bagian dari tangan, kaki bagian dari badan; (2) Langkah: 1. Tentukan arahnya: bagian → keseluruhan. 2. Coret bagian:sub-bagian (kuku bagian dari jari), benda:pelindung (sarung tangan), keseluruhan:bagian (jempol), bagian:bagian bersebelahan (bahu); (3) Trik: selalu tandai arah relasi — opsi yang membalik arah (D) adalah jebakan klasik.
 **Jebakan:** Opsi D (Tangan : Jempol) membalik arah relasi; opsi B (Jari : Kuku) turun satu tingkat terlalu dalam.
 
-**11. B — Kain : Baju.** (1) B karena relasinya bahan : produk yang dibuat darinya: benang → kain, kain → baju; (2) Langkah: 1. Tentukan arahnya: bahan → produk. 2. Coret produk:bahan (kapas — arah terbalik), bahan:alat (jarum), bahan:sifat (warna), bahan:tempat jual (toko); (3) Trik: opsi yang membalik arah (B) selalu memakai kata yang sama dengan stem, hanya urutannya dibalik.
+**11. B — Kain : Baju.** (1) B karena relasinya bahan : produk yang dibuat darinya: benang → kain, kain → baju; (2) Langkah: 1. Tentukan arahnya: bahan → produk. 2. Coret produk:bahan (kapas — arah terbalik), bahan:alat (jarum), bahan:sifat (warna), bahan:tempat jual (toko); (3) Trik: opsi yang membalik arah (A) selalu memakai kata yang sama dengan stem, hanya urutannya dibalik.
 **Jebakan:** Opsi A (Kain : Kapas) membalik arah: kapas adalah bahan pembuat kain, bukan produk dari kain.
 
 ### Penalaran Induktif
 
-**5. D — Semakin panjang jam buka dan semakin beragam menu, semakin besar kenaikan jumlah pelanggan.** (1) D karena kedua faktor bergerak searah dengan hasil pada semua gerai: 0 intervensi → 3–4%, 1 intervensi → 8–10%, 2 intervensi → 17–19%. (2) Langkah: 1. Kelompokkan gerai menurut jumlah intervensi: A dan E = 0; B dan C = 1; D dan F = 2. 2. Bandingkan hasil tiap kelompok: 3–4% < 8–10% < 17–19%. 3. Kenaikan mengikuti jumlah intervensi, bukan satu faktor saja. (3) Trik: pada soal induktif, kelompokkan dulu fakta menurut jumlah faktor yang hadir — pola gradasi 0→1→2 adalah tanda generalisasi dua faktor.
+**5. D — Kenaikan jumlah pelanggan mengikuti banyaknya perubahan yang diterapkan di tiap gerai.** (1) D karena kedua faktor bergerak searah dengan hasil pada semua gerai: tanpa perubahan → 2–5%, satu perubahan → 6–9%, dua perubahan → 15–18%. Kenaikan terbesar muncul saat jam diperpanjang dan menu ditambah bersamaan, jadi generalisasi yang paling didukung menyebut banyaknya perubahan, bukan satu faktor saja. (2) Langkah: 1. Kelompokkan gerai menurut jumlah perubahan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Bandingkan hasil tiap kelompok: 2–5% < 6–9% < 15–18%. 3. Pilih generalisasi yang mencakup seluruh kelompok — kenaikan mengikuti jumlah perubahan. (3) Trik: pada soal induktif, kelompokkan dulu fakta menurut jumlah faktor yang hadir — pola gradasi 0→1→2 adalah tanda generalisasi dua faktor.
 
-**Jebakan:** Opsi A hanya melihat gerai C (menu saja 10%) dan mengabaikan gerai B (jam saja 8%) — satu faktor tidak menjelaskan kenaikan terbesar; opsi B dibantah gerai D dan F (17–19% mengalahkan 10% tertinggi gerai standar); opsi C membalik arah sebab-akibat — data tidak menunjukkan pelanggan menyebabkan perubahan jam dan menu; opsi E dibantah pasangan B vs C (menu saja 10% mengalahkan jam saja 8%).
+**Jebakan:** A memakai pola 'semakin … dan semakin …' yang sama dengan kunci, tetapi arahnya terbalik — dua perubahan justru memberi kenaikan terbesar (15–18%), bukan terkecil; B kalah pada pasangan B vs C (menu saja 9% mengalahkan jam saja 6%).
 
-**7. B — Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin tinggi skor kepuasan pelanggan layanan.** (1) B karena gradasi dua faktor utuh: 0 intervensi → 68–70, 1 intervensi → 76–78, 2 intervensi → 86–88. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Skor naik seiring jumlah intervensi pada tiap kelompok. 3. Skor tertinggi hanya muncul saat kedua faktor hadir. (3) Trik: bila dua kelompok faktor-tunggal sama-sama menengah, generalisasi yang benar menyebut kedua faktor — bukan memilih satu sebagai pemenang.
+**7. B — Semakin terlatih petugas dan semakin terpadu basis pengetahuannya, semakin tinggi skor kepuasan pelanggan.** (1) B karena gradasi dua faktor utuh: tanpa perubahan → 66–69, satu perubahan → 74–79, dua perubahan → 85–89. Skor tertinggi muncul saat petugas terlatih dan basis pengetahuan terpadu hadir bersamaan. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Skor naik seiring jumlah perubahan pada tiap kelompok. 3. Skor tertinggi hanya muncul saat kedua faktor hadir. (3) Trik: bila dua kelompok faktor-tunggal sama-sama menengah, generalisasi yang benar menyebut kedua faktor — bukan memilih satu sebagai pemenang.
 
-**Jebakan:** Opsi A dibantah pasangan B vs C (basis saja 78 mengalahkan pelatihan saja 76); opsi C dibantah tim C (78 dengan pelatihan standar); opsi D dibantah tim D dan F (86 dan 88 justru memakai pelatihan khusus dan basis terpadu); opsi E membalik arah sebab-akibat.
+**Jebakan:** D memakai pola 'semakin … dan semakin …' yang sama dengan kunci, tetapi arahnya terbalik — skor justru naik (85–89), bukan turun; A kalah pada pasangan B vs C (basis saja 79 mengalahkan pelatihan saja 74).
 
-**8. E — Semakin jelas label rak dan semakin tertata jalur pengambilan, semakin singkat waktu pencarian barang.** (1) E karena waktu menyusut seiring jumlah intervensi: 0 → 14–15 menit, 1 → 10–11 menit, 2 → 6–7 menit. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Urutkan waktu tiap kelompok: 14–15 > 10–11 > 6–7. 3. Waktu tersingkat hanya muncul saat kedua faktor hadir. (3) Trik: bila hasil yang diinginkan adalah "semakin kecil", balik arah baca gradasi — kelompok 2 intervensi harus memegang nilai terkecil.
+**8. E — Waktu pencarian barang menyusut seiring banyaknya perbaikan yang diterapkan di gudang.** (1) E karena waktu menyusut seiring jumlah perbaikan: tanpa perbaikan → 13–16 menit, satu perbaikan → 9–12 menit, dua perbaikan → 5–8 menit. Waktu tersingkat muncul saat label jelas dan jalur tertata hadir bersamaan. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Urutkan waktu tiap kelompok: 13–16 > 9–12 > 5–8. 3. Waktu tersingkat hanya muncul saat kedua faktor hadir. (3) Trik: bila hasil yang diinginkan adalah 'semakin kecil', balik arah baca gradasi — kelompok 2 perubahan harus memegang nilai terkecil.
 
-**Jebakan:** Opsi A dibantah gudang B (label saja memangkas 14–15 menjadi 11 menit); opsi B dibantah gudang C (10 menit dengan label standar mengalahkan gudang B yang 11 menit dengan label kode warna) — label saja tidak cukup membuat waktu tercepat; waktu tersingkat (6–7 menit) hanya muncul saat kedua faktor hadir; opsi C dibantah gudang A dan E (14–15 menit adalah yang terlambat); opsi D membalik arah sebab-akibat.
+**Jebakan:** A memakai pola 'semakin … dan semakin …' yang sama dengan kunci, tetapi arahnya terbalik — dua perbaikan justru memberi waktu tersingkat (5–8 menit), bukan terlama; B kalah pada gudang C (9 menit dengan label standar mengalahkan gudang B yang 12 menit dengan label kode warna).
 
-**9. A — Semakin rutin diskusi kelompok dan kuis singkat, semakin tinggi nilai rata-rata ujian kelas.** (1) A karena gradasi dua faktor utuh: 0 → 62–64, 1 → 71–73, 2 → 82–84. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Nilai naik seiring jumlah intervensi pada tiap kelompok. 3. Nilai tertinggi hanya muncul saat kedua kegiatan rutin. (3) Trik: dua kelompok faktor-tunggal yang nilainya berdekatan (71 dan 73) menandakan kedua faktor sama-sama berkontribusi — jangan memilih satu sebagai "faktor utama".
+**9. A — Semakin rutin diskusi kelompok dan kuis singkat, semakin tinggi nilai rata-rata ujian kelas.** (1) A karena gradasi dua faktor utuh: tanpa kegiatan rutin → 60–63, satu kegiatan rutin → 70–74, dua kegiatan rutin → 81–85. Nilai tertinggi muncul saat diskusi dan kuis sama-sama rutin. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Nilai naik seiring jumlah kegiatan rutin pada tiap kelompok. 3. Nilai tertinggi hanya muncul saat kedua kegiatan rutin. (3) Trik: dua kelompok faktor-tunggal yang nilainya berdekatan (70 dan 74) menandakan kedua faktor sama-sama berkontribusi — jangan memilih satu sebagai 'faktor utama'.
 
-**Jebakan:** Opsi B dibantah kelas B (diskusi saja menaikkan 62–64 menjadi 71); opsi C dibantah pasangan B vs C (kuis saja 73 mengalahkan diskusi saja 71); opsi D dibantah kelas A dan E (62 dan 64 adalah yang terendah, bukan tertinggi); opsi E membalik arah sebab-akibat.
+**Jebakan:** D memakai pola 'semakin … dan semakin …' yang sama dengan kunci, tetapi arahnya terbalik — nilai justru naik (81–85), bukan turun; C kalah pada pasangan B vs C (kuis saja 74 mengalahkan diskusi saja 70).
 
-**10. D — Semakin rutin kalibrasi mesin dan pemeriksaan bahan baku, semakin sedikit produk cacat regu.** (1) D karena cacat menyusut seiring jumlah intervensi: 0 → 38–40, 1 → 25–27, 2 → 12–14. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Urutkan cacat tiap kelompok: 38–40 > 25–27 > 12–14. 3. Cacat terendah hanya muncul saat kedua pemeriksaan rutin. (3) Trik: bila kedua kelompok faktor-tunggal sama-sama menengah (25 dan 27), generalisasi dua faktor lebih kuat daripada klaim satu faktor — periksa pasangan faktor-tunggal sebelum memilih.
+**10. D — Jumlah produk cacat menyusut seiring banyaknya pemeriksaan rutin yang diterapkan regu.** (1) D karena cacat menyusut seiring jumlah pemeriksaan rutin: tanpa pemeriksaan rutin → 36–41, satu pemeriksaan rutin → 24–28, dua pemeriksaan rutin → 11–15. Cacat terendah muncul saat kalibrasi dan pemeriksaan bahan baku sama-sama rutin. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Urutkan cacat tiap kelompok: 36–41 > 24–28 > 11–15. 3. Cacat terendah hanya muncul saat kedua pemeriksaan rutin. (3) Trik: bila kedua kelompok faktor-tunggal sama-sama menengah (24 dan 28), generalisasi dua faktor lebih kuat daripada klaim satu faktor — periksa pasangan faktor-tunggal sebelum memilih.
 
-**Jebakan:** Opsi A dibantah pasangan B vs C (pemeriksaan saja 25 mengalahkan kalibrasi saja 27); opsi B dibantah regu B (kalibrasi saja memangkas 38–40 menjadi 27); opsi C dibantah regu A dan B (38 dan 27 melebihi 25, 14, dan 12); opsi E membalik arah sebab-akibat.
+**Jebakan:** C memakai pola 'semakin … dan semakin …' yang sama dengan kunci, tetapi arahnya terbalik — dua pemeriksaan rutin justru memberi cacat terendah (11–15), bukan terbanyak; A kalah pada pasangan B vs C (pemeriksaan saja 24 mengalahkan kalibrasi saja 28).
 
-**12. C — Semakin tertata los dagang dan semakin luas parkir, semakin banyak pengunjung harian pasar.** (1) C karena gradasi dua faktor utuh: 0 → 1.200–1.300, 1 → 1.800–1.900, 2 → 2.700–2.900. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Pengunjung naik seiring jumlah intervensi pada tiap kelompok. 3. Pengunjung terbanyak hanya muncul saat kedua faktor hadir. (3) Trik: angka yang berdekatan di kelompok faktor-tunggal (1.800 dan 1.900) adalah sinyal kedua faktor sebanding — generalisasi yang benar memuat keduanya.
+**12. C — Semakin tertata los dagang dan semakin luas parkir, semakin banyak pengunjung harian pasar.** (1) C karena gradasi dua faktor utuh: tanpa penataan → 1.100–1.400, satu penataan → 1.700–2.000, dua penataan → 2.600–2.900. Pengunjung terbanyak muncul saat los tertata dan parkir luas hadir bersamaan. (2) Langkah: 1. Kelompokkan: A dan E = 0; B dan C = 1; D dan F = 2. 2. Pengunjung naik seiring jumlah penataan pada tiap kelompok. 3. Pengunjung terbanyak hanya muncul saat kedua faktor hadir. (3) Trik: angka yang berdekatan di kelompok faktor-tunggal (1.700 dan 2.000) adalah sinyal kedua faktor sebanding — generalisasi yang benar memuat keduanya.
 
-**Jebakan:** Opsi A dibantah pasangan B vs C (parkir saja 1.900 mengalahkan los saja 1.800); opsi B dibantah pasar B (los saja menaikkan 1.200–1.300 menjadi 1.800); opsi D dibantah pasar A dan E (1.200 dan 1.300 adalah yang tersedikit); opsi E membalik arah sebab-akibat.
+**Jebakan:** A memakai pola 'semakin … dan semakin …' yang sama dengan kunci, tetapi arahnya terbalik — dua penataan justru memberi pengunjung terbanyak (2.600–2.900), bukan tersedikit; B kalah pada pasar B (los saja menaikkan 1.100–1.400 menjadi 1.700).
 
 ### Silogisme
 
@@ -449,7 +449,7 @@ E. Ungu
 **Jebakan:** Opsi B adalah konvers (membalik P ⇒ Q); opsi D adalah konvers universalnya. Pola yang sama dengan layang-layang di Hari 11 No. 18.
 
 **18. D — Sebagian penghuni apartemen dikenai denda.** (1) D karena "sebagian tidak" yang rantainya utuh memberi kesimpulan parsial yang sah — Modus Ponens pada subset: ∃x (H(x) ∧ ~B(x)) (P1); (H∩~B) ⇒ D (P2) ⇒ ∃x (H(x) ∧ D(x)); (2) Langkah: 1. Tulis notasi: ∃ H∩~B; (H∩~B) ⊆ D. 2. Subset yang tidak membayar itu semuanya dikenai denda — jadi ada penghuni yang dikenai denda. 3. Tentang Budi sendiri tidak ada info: ia bisa di subset mana pun; (3) Trik: "sebagian tidak" bukan berarti "tidak dapat disimpulkan" — periksa dulu apakah ada aturan universal yang menelan subset itu.
-**Jebakan:** Opsi A dan B sama-sama menebak kelompok Budi tanpa dasar; opsi D menaikkan "sebagian" menjadi "semua".
+**Jebakan:** Opsi A dan B sama-sama menebak kelompok Budi tanpa dasar; opsi C menaikkan "sebagian" menjadi "semua".
 
 **19. D — Andi mendapat jadwal tes.** (1) D karena rantai Modus Ponens: K ⇒ B; B ⇒ J; K(Andi) ∴ B(Andi) ∴ J(Andi); kontraposisi P2: ~J ⇒ ~B — yang tidak mendapat jadwal tidak berhak tes kebugaran; (2) Langkah: 1. Tulis rantainya: lulus tes kesehatan ⇒ berhak tes kebugaran ⇒ mendapat jadwal. 2. Andi memenuhi pangkal rantai, jadi seluruh rantainya berlaku untuknya; (3) Trik: Modus Ponens berjalan maju — jangan berhenti di tengah rantai.
 **Jebakan:** Opsi C menerima langkah pertama tapi menolak langkah kedua tanpa alasan — rantai yang sudah tersambung tidak boleh diputus di tengah.
@@ -463,7 +463,7 @@ E. Ungu
 **22. B — Rudi mengumpulkan tugas akhir.** (1) B karena kontraposisi dari premis negatif: ~T ⇒ ~W; kontraposisinya W ⇒ T; W(Rudi) ∴ T(Rudi); (2) Langkah: 1. Tulis premisnya: tidak mengumpulkan ⇒ tidak wisuda. 2. Balik lewat kontraposisi: wisuda ⇒ mengumpulkan. 3. Rudi wisuda → Rudi mengumpulkan; (3) Trik: kalimat "tidak ada yang tidak … dapat …" adalah implikasi ganda-negasi — terjemahkan dulu ke P ⇒ Q sebelum menyimpulkan.
 **Jebakan:** Opsi C membalik syarat perlu menjadi syarat cukup: mengumpulkan tugas adalah syarat perlu wisuda, bukan jaminan wisuda (bisa ada syarat lain).
 
-**23. B — Sebagian warga kelurahan wajib membayar retribusi.** (1) B karena "sebagian" di awal rantai yang utuh memberi kesimpulan parsial yang sah: ∃x (W(x) ∧ P(x)) (P1); P ⊆ I; I ⊆ R → subset W∩P itu ada di R; kontraposisi P3: ~R ⇒ ~I — yang tidak wajib retribusi tidak memiliki izin; (2) Langkah: 1. Tulis notasi: ∃ W∩P; P ⊆ I ⊆ R. 2. Irisan W∩P mewarisi sifat P sampai ke ujung rantai. 3. Yang dijamin hanya subset itu; (3) Trik: "sebagian" di awal rantai TIDAK memutus apa-apa — yang memutus adalah "sebagian" di tengah yang irisannya tidak dijamin.
+**23. B — Sebagian warga kelurahan wajib membayar retribusi.** (1) B karena "sebagian" di awal rantai yang utuh memberi kesimpulan parsial yang sah — Modus Ponens pada irisan: ∃x (W(x) ∧ P(x)) (P1); P ⇒ I; I ⇒ R ⇒ subset W∩P itu ada di R; kontraposisi P3: ~R ⇒ ~I — yang tidak wajib retribusi tidak memiliki izin; (2) Langkah: 1. Tulis notasi: ∃ W∩P; P ⊆ I ⊆ R. 2. Irisan W∩P mewarisi sifat P sampai ke ujung rantai. 3. Yang dijamin hanya subset itu; (3) Trik: "sebagian" di awal rantai TIDAK memutus apa-apa — yang memutus adalah "sebagian" di tengah yang irisannya tidak dijamin.
 **Jebakan:** Opsi C dan D sama-sama membalik P2 (pedagang pasar tidak berarti warga kelurahan, dan sebaliknya).
 
 **24. E — Dewi mendapat sarapan gratis.** (1) E karena rantainya utuh dalam bentuk narasi — Modus Ponens: D ⇒ S; D(Dewi) ∴ S(Dewi); kontraposisi: ~S ⇒ ~D — yang tidak mendapat sarapan tidak datang sebelum 07.30; (2) Langkah: 1. Terjemahkan narasi ke notasi: D ⇒ S. 2. Dewi memenuhi pangkalnya. 3. Kalimat "sebagian yang mendapat sarapan membawa bekal" adalah pengecoh untuk Dewi — ia tidak memutus rantai sarapan Dewi; (3) Trik: soal narasi sama saja dengan soal premis bernomor — terjemahkan dulu, baru simpulkan.

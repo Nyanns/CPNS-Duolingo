@@ -146,103 +146,6 @@ D. Titik di kiri atas
 
 ## Soal — Bagian B: Serial gambar (Soal 11–18)
 
-**2.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi satu segitiga dan satu lingkaran kecil. Bentuk yang tepat untuk mengisi kotak bertanda ? adalah…
-
-*▲● | ▶● | ▼●
-▶◐ | ▼◐ | ◀◐
-▼○ | ◀○ | ?  (segitiga berputar; lingkaran kecil berubah isi: penuh → setengah → kosong)*
-
-A. ▲ + ● (penuh)
-B. ▲ + ○ (kosong)
-C. ▼ + ○ (kosong)
-D. ◀ + ◐ (setengah)
-
-**3.** Perhatikan matriks 3×3 berikut. Bentuk yang tepat untuk mengisi kotak bertanda ? adalah…
-
-*●● | ▲ | ●●▲
-■■■ | ● | ■■■●
-▲▲ | ◆ | ?*
-
-A. ▲▲◆
-B. ◆▲▲
-C. ▲◆
-D. ▲▲▲◆
-
-**4.** Perhatikan matriks 3×3 berikut. Bangun yang tepat untuk mengisi kotak bertanda ? adalah…
-
-*△(3 sisi) □(4) ⬠(5)
-⬠(5) △(3) □(4)
-⬟(7) ⬢(8) ?*
-
-A. ⬟ (7 sisi)
-B. ⬢ (8 sisi)
-C. ⬡ (6 sisi)
-D. ⬠ (5 sisi)
-
-**5.** Perhatikan matriks 3×3 berikut. Panah yang tepat untuk mengisi kotak bertanda ? adalah…
-
-*↑ ↗ →
-↖ ↑ ↗
-← ↖ ?*
-
-A. ←
-B. ↑
-C. →
-D. ↖
-
-**6.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi satu panah dan sejumlah titik. Isi yang tepat untuk kotak bertanda ? adalah…
-
-*↑• | →•• | ↓•••
-→•• | ↓••• | ←•
-↓••• | ←• | ?*
-
-A. ↑ + 2 titik
-B. ↑ + 1 titik
-C. → + 2 titik
-D. ↑ + 3 titik
-
-**7.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi satu bangun dan sejumlah titik. Isi yang tepat untuk kotak bertanda ? adalah…
-
-*△• | □•• | ⬠•••
-□•• | ⬠••• | ⬡•
-⬠••• | ⬡• | ?*
-
-A. ⬡ + 2 titik
-B. ⬟ + 1 titik
-C. ⬟ + 2 titik
-D. ⬟ + 3 titik
-
-**8.** Perhatikan matriks 3×3 berikut. Bentuk yang tepat untuk mengisi kotak bertanda ? adalah…
-
-*○□ | □▲ | ○▲
-▲○ | ○□ | ▲□
-□▲ | ▲○ | ?*
-
-A. ○▲
-B. ▲□
-C. □○
-D. ○□
-
-**9.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi beberapa bangun yang sama. Isi yang tepat untuk kotak bertanda ? adalah…
-
-*▲ | ●● | ■■■
-●●● | ■ | ▲▲
-■■ | ▲▲▲ | ?*
-
-A. ■ (1 buah)
-B. ▲ (1 buah)
-C. ● (1 buah)
-D. ●● (2 buah)
-
-**10.** Perhatikan matriks 3×3 berikut. Tiap kotak berisi satu persegi dengan satu titik kecil di salah satu sudutnya. Posisi titik yang tepat untuk kotak bertanda ? adalah…
-
-*Persegi dengan titik kecil di: kiri atas, kanan atas, kanan bawah / kanan atas, kanan bawah, kiri bawah / kanan bawah, kiri bawah, ?*
-
-A. Titik di kanan atas
-B. Titik di kanan bawah
-C. Titik di kiri bawah
-D. Titik di kiri atas
-
 **11.** Perhatikan urutan gambar berikut. Gambar berikutnya yang tepat adalah…
 
 *↑ | →• | ↓•• | ←••• | ?*
@@ -251,8 +154,6 @@ A. ↑ + 4 titik
 B. → + 4 titik
 C. ↑ + 3 titik
 D. ↓ + 4 titik
-
-## Soal — Bagian C: Ketidaksamaan (Soal 19–24)
 
 **12.** Perhatikan urutan bangun berikut. Bangun berikutnya yang tepat adalah…
 
@@ -317,6 +218,8 @@ B. → ←
 C. ↑ ↓
 D. ← →
 
+## Soal — Bagian C: Ketidaksamaan (Soal 19–24)
+
 **19.** Empat gambar berikut masing-masing terdiri dari satu bangun dan sejumlah titik. Tiga gambar mengikuti satu aturan yang sama. Gambar mana yang MELANGGAR aturan itu?
 
 *A: △ + 3 titik | B: ⬠ + 6 titik | C: □ + 4 titik | D: ⬡ + 6 titik*
@@ -325,8 +228,6 @@ A. △ + 3 titik
 B. ⬠ + 6 titik
 C. □ + 4 titik
 D. ⬡ + 6 titik
-
-## Soal — Bagian D: Analogi gambar (Soal 25–30)
 
 **20.** Empat gambar berikut masing-masing terdiri dari dua bangun. Tiga gambar mengikuti satu aturan yang sama. Gambar mana yang MELANGGAR aturan itu?
 
@@ -373,6 +274,8 @@ B. □ + 2 titik
 C. △ + 4 titik
 D. ◆ + 6 titik
 
+## Soal — Bagian D: Analogi gambar (Soal 25–30)
+
 **25.** Perhatikan analogi gambar berikut. Gambar yang tepat untuk melengkapi analogi itu adalah…
 
 *▲(penuh) : ▶(kosong)  =  ●(penuh) : ?*
@@ -382,6 +285,50 @@ B. ○
 C. ◐
 D. □
 
+**26.** Perhatikan analogi gambar berikut. Gambar yang tepat untuk melengkapi analogi itu adalah…
+
+*▲ : ▲▼  =  ● : ?*
+
+A. ●
+B. ●●●
+C. ○○
+D. ●●
+
+**27.** Perhatikan analogi gambar berikut. Gambar yang tepat untuk melengkapi analogi itu adalah…
+
+*⬠(penuh) : □(kosong)  =  ⬡(penuh) : ?*
+
+A. ⬠ penuh
+B. ⬡ kosong
+C. ⬠ kosong
+D. □ kosong
+
+**28.** Perhatikan analogi gambar berikut. Gambar yang tepat untuk melengkapi analogi itu adalah…
+
+*↗ : ↗↖  =  ↑ : ?*
+
+A. ↑↑
+B. ↑↓
+C. ↑
+D. ↑↑↑
+
+**29.** Perhatikan analogi gambar berikut. Gambar yang tepat untuk melengkapi analogi itu adalah…
+
+*△↑ : □→  =  ⬠← : ?*
+
+A. ⬡ + ↓
+B. ⬡ + ↑
+C. ⬠ + ↑
+D. ⬡ + →
+
+**30.** Perhatikan analogi gambar berikut. Gambar yang tepat untuk melengkapi analogi itu adalah…
+
+*△(kosong) : □(penuh)  =  ⬠(penuh) : ?*
+
+A. ⬡ kosong
+B. ⬡ penuh
+C. ⬠ kosong
+D. ⬠ penuh
 ---
 
 ## Kunci jawaban + pembahasan
@@ -492,8 +439,7 @@ D. □
 - **Tidak mengulang soal:** dicek terhadap file Hari 1–13 + simulasi + set HOTS — pola XOR, rotasi 45° matriks, jumlah sisi kolom 15, analogi cermin, dan ketidaksamaan genap/ganjil semuanya susunan BARU (aturan yang sama dengan Sim 56/59/62 dipakai sebagai variasi, bukan soal identik).
 - **Semua soal figural memakai figureJson** (diagram SVG di aplikasi): matriks 10, serial 8, ketidaksamaan 6 (groups), analogi 6 — tanpa satu pun soal figural tanpa gambar.
 
-## Anomali arsip (dicatat 25 Nov 2026, Butir 9 — baca ini sebelum memakai arsip sebagai acuan)
+## Anomali arsip — DIPERBAIKI 27 Nov 2026 (dari live, getsession(36))
 
-- **Blok "Bagian B: Serial gambar (Soal 11–18)" berisi duplikat:** entri **2.**–**10.** di blok itu adalah salinan persis soal matriks Bagian A (No. 2–10), bukan soal serial. Soal serial yang benar di blok itu hanya **11.** (dan **12.**–**18.**, yang salah label berada di "Bagian C"). Penomoran bagian arsip ini bergeser: "Bagian C" memuat serial 12–18 + ketidaksamaan 19; "Bagian D" memuat ketidaksamaan 20–24 + analogi 25. Penomoran yang benar menurut aplikasi (live): matriks 1–10, serial 11–18, ketidaksamaan 19–24, analogi 25–30.
-- **Stem soal No. 26–30 (analogi gambar) TIDAK ADA di arsip ini** — hanya kunci + pembahasan No. 26–30 yang tercatat di atas. Stem lengkap hanya ada di aplikasi (live, terverifikasi via getsession 25 Nov 2026).
-- **Kunci No. 8/9 di arsip ini sudah disinkronkan ke live** (opsi D No. 8 = ▲○, No. 9 = A) — salinan duplikat di blok "Bagian B" MASIH memuat versi lama (opsi D No. 8 = ○□, No. 9 = C); abaikan blok duplikat itu.
+- **Duplikat Bagian B sudah dihapus:** entri 2.–10. yang dulu menyalin soal matriks Bagian A sudah tidak ada; Bagian B kini hanya memuat soal serial No. 11–18, Bagian C memuat ketidaksamaan No. 19–24, dan Bagian D memuat analogi gambar No. 25–30 — sesuai penomoran live (matriks 1–10, serial 11–18, ketidaksamaan 19–24, analogi 25–30).
+- **Stem No. 26–30 (analogi gambar) sudah ditambahkan** dari live (getsession(36), 27 Nov 2026); kunci + pembahasan No. 26–30 sudah ada sebelumnya dan terverifikasi cocok dengan live. Salinan duplikat lama No. 8/9 (opsi D No. 8 = ○□, urutan opsi No. 9 lama) sudah tidak ada lagi.

@@ -311,7 +311,7 @@ E. ●●●● (4 penuh)
 A. Anda layani berkas itu dengan lampiran yang ada agar warga cepat selesai dan antrean segera berkurang sebelum loket tutup
 B. Anda arahkan warga kembali besok membawa lampiran yang kurang dan menunggu giliran sesuai antrean yang berlaku pada pagi hari
 C. Anda periksa berkas yang ada lalu buatkan tanda terima dan daftar lampiran yang kurang beserta jadwal prioritas besok
-D. Anda kembalikan berkas itu kepada warga dan arahkan warga mengurus ke loket lain yang berwenang menangani pindah domisili warga
+D. Anda kembalikan berkas itu kepada warga, lalu arahkan warga mengurus ke loket lain yang berwenang menangani pindah domisili warga
 E. Anda jelaskan lampiran yang kurang dengan sabar lalu minta warga melengkapi dan kembali besok pagi sesuai antrean yang berlaku
 
 **Kunci: C (5).** (1) C skor 5 karena aktif memeriksa, konkret dengan tanda terima dan daftar lampiran, prosedural lewat jadwal prioritas, dan memberi warga kepastian tertulis untuk kembali. (2) Skor tiap opsi: A=2 (melayani dengan berkas kurang demi cepat — melanggar prosedur); B=3 (mengarahkan kembali besok, tapi warga pulang tanpa penjelasan rinci dan tanpa kepastian giliran); C=5 (lengkap: periksa, jejak tertulis, prioritas); D=1 (mengembalikan berkas dan memindah beban ke loket lain); E=4 (menjelaskan dan mengarahkan, tapi tanpa jejak tertulis dan tanpa kepastian giliran). (3) Trik: berkas kurang lampiran diselesaikan dengan jejak tertulis dan jadwal pasti, bukan dengan memakai berkas apa adanya atau memindah warga ke loket lain.
@@ -320,7 +320,7 @@ E. Anda jelaskan lampiran yang kurang dengan sabar lalu minta warga melengkapi d
 
 **22.** Anda bertugas di loket pelayanan saat listrik padam dan sistem antrean elektronik mati total. Puluhan warga sudah menunggu sejak pagi dan sebagian datang dari desa yang jauh. Genset kantor hanya cukup untuk satu loket dan pimpinan meminta layanan prioritas tetap berjalan.
 
-A. Anda minta warga pulang dan kembali besok pagi karena sistem antrean elektronik mati total dan loket manual hanya satu
+A. Anda minta warga pulang, lalu kembali besok pagi karena sistem antrean elektronik mati total dan loket manual hanya satu
 B. Anda layani warga yang datang belakangan lebih dulu karena mereka membawa berkas lengkap dan antrean cepat berkurang sebelum listrik menyala
 C. Anda biarkan warga menunggu di ruang tunggu hingga listrik menyala dan sistem antrean elektronik kembali berfungsi seperti semula
 D. Anda jelaskan kondisi listrik dengan sopan lalu minta warga menunggu giliran manual sesuai urutan kedatangan mereka di ruang tunggu
@@ -345,10 +345,10 @@ E. Anda tolak tugas itu karena proyek itu milik rekan dan Anda baru bergabung se
 **24.** Anda menjadi staf pendukung untuk dua tim yang sama-sama harus mempresentasikan proposal kepada klien pada hari yang sama. Hanya tersedia satu ruang rapat dengan proyektor dan kedua tim sudah mengundang kliennya masing-masing. Jadwal ruangan menunjukkan kedua tim mendaftar pada jam yang sama.
 
 A. Anda beri ruangan kepada tim yang pimpinannya lebih tinggi karena jabatannya dianggap lebih menentukan daripada jadwal resmi yang sudah disepakati bersama
-B. Anda cek jadwal ruangan lalu beri tahu tim yang mendaftar lebih dulu bahwa merekalah yang berhak memakai ruangan
+B. Anda cek jadwal ruangan dan beri tahu tim yang mendaftar lebih dulu bahwa merekalah yang berhak memakai ruangan
 C. Anda biarkan kedua tim menyelesaikan sendiri dengan cara mereka agar Anda dipandang netral oleh kedua tim yang bertikai
 D. Anda cek jadwal resmi lalu ajak kedua tim berunding dan susun pembagian waktu lalu catat kesepakatan di jadwal resmi
-E. Anda putuskan sendiri tim mana yang memakai ruangan hari itu berdasarkan penilaian Anda atas kebutuhan kedua tim yang sama mendesak
+E. Anda putuskan sendiri tim mana yang memakai ruangan hari itu berdasarkan penilaian Anda, lalu sampaikan putusan Anda kepada kedua tim
 
 **Kunci: D (5).** (1) D skor 5 karena aktif memeriksa jadwal resmi, konkret dengan pembagian waktu hasil runding, dan sistemik lewat kesepakatan yang dicatat di jadwal resmi. (2) Skor tiap opsi: A=1 (memutuskan berdasarkan jabatan — melanggar jadwal resmi); B=4 (menerapkan aturan siapa cepat dia dapat, tapi tanpa solusi berbagi); C=3 (pasif membiarkan kedua tim menyelesaikan sendiri); D=5 (lengkap: cek, runding, bagi waktu, catat); E=2 (memutuskan sepihak berdasarkan penilaian sendiri). (3) Trik: bentrok jadwal diselesaikan dengan mediasi dan pembagian waktu yang dicatat, bukan dengan aturan kaku siapa cepat atau siapa atasannya lebih tinggi.
 
@@ -357,8 +357,8 @@ E. Anda putuskan sendiri tim mana yang memakai ruangan hari itu berdasarkan peni
 **25.** Anda memoderatori forum warga di kelurahan yang dihadiri warga lama dan warga pendatang dari berbagai daerah. Seorang tokoh adat menyampaikan pendapat dengan istilah adatnya sehingga sebagian peserta pendatang tampak kebingungan. Forum itu membahas pembagian jadwal ronda malam yang harus disepakati hari ini juga.
 
 A. Anda minta tokoh adat menjelaskan maksudnya dengan bahasa yang dipahami semua lalu tawarkan bantuan merangkai kalimatnya selama forum berlangsung
-B. Anda potong pembicaraan tokoh adat lalu ganti topik forum agar peserta pendatang segera memahami arah pembahasan forum
-C. Anda tunggu forum selesai lalu ingatkan tokoh adat secara pribadi agar memakai bahasa yang dipahami semua peserta pada forum berikutnya
+B. Anda potong pembicaraan tokoh adat lalu ganti topik forum, agar peserta pendatang segera memahami arah pembahasan forum
+C. Anda tunggu forum selesai dan ingatkan tokoh adat secara pribadi agar memakai bahasa yang dipahami semua peserta pada forum berikutnya
 D. Anda ikut memakai istilah adat itu agar terlihat akrab dengan tokoh adat dan peserta forum yang hadir
 E. Anda biarkan saja karena tokoh adat lebih nyaman memakai istilahnya dan sebagian peserta masih memahami maksudnya secara umum
 
@@ -371,7 +371,7 @@ E. Anda biarkan saja karena tokoh adat lebih nyaman memakai istilahnya dan sebag
 A. Anda layani warga itu sepenuhnya dengan membuka loket tambahan atas inisiatif Anda karena urusannya memang mendesak dan ia sudah datang jauh
 B. Anda jelaskan layanan tetap berjalan hari ini lalu arahkan warga ke layanan daring untuk mengurus keperluannya yang mendesak itu
 C. Anda dengarkan keperluannya dengan saksama, hubungi petugas piket, dan bantu sesuai prosedur yang berlaku sambil mencatat permohonannya
-D. Anda minta warga kembali besok saat kantor buka penuh dan sampaikan layanan baru tersedia setelah hari ini
+D. Anda minta warga kembali besok saat kantor buka penuh, lalu sampaikan layanan baru tersedia setelah hari ini
 E. Anda tolak keperluan warga itu karena hari besarnya hanya dirayakan sebagian warga saja di kelurahan ini dan loket sudah sibuk
 
 **Kunci: C (5).** (1) C skor 5 karena aktif mendengarkan, konkret dengan menghubungi petugas piket, prosedural lewat bantuan sesuai prosedur, dan sistemik lewat pencatatan permohonan. (2) Skor tiap opsi: A=2 (membuka loket tambahan atas inisiatif sendiri — melanggar prosedur); B=4 (mengarahkan ke layanan daring, tapi tanpa mendengarkan keperluan mendesaknya); C=5 (lengkap: dengarkan, hubungi piket, bantu, catat); D=3 (menunda ke besok); E=1 (menolak berdasarkan hari besar yang hanya dirayakan sebagian warga — diskriminatif). (3) Trik: keperluan mendesak terkait keyakinan dilayani dengan mendengarkan dan jalur prosedural, bukan dengan menunda atau membuka loket di luar prosedur.
@@ -381,10 +381,10 @@ E. Anda tolak keperluan warga itu karena hari besarnya hanya dirayakan sebagian 
 **27.** Anda mengelola akun media sosial resmi instansi saat seorang warga mengirim foto KTP dan kartu keluarganya lewat pesan pribadi. Warga itu meminta layanannya dipercepat dan bersedia mengirim semua dokumen lewat pesan yang sama. Seorang rekan menyarankan Anda membalas lewat pesan pribadi saja agar warga itu cepat selesai.
 
 A. Anda abaikan pesan itu karena akun media sosial hanya untuk informasi dan dokumen warga diurus loket resmi pada jam layanan
-B. Anda sebarkan tangkapan layar pesan itu ke grup warga agar warga lain waspada terhadap pengiriman data pribadi lewat media sosial resmi
+B. Anda sebarkan tangkapan layar pesan itu ke grup warga, agar warga lain waspada terhadap pengiriman data pribadi lewat media sosial resmi
 C. Anda beri tahu rekan-rekan Anda agar mereka waspada terhadap pesan berisi data pribadi warga yang masuk lewat media sosial
 D. Anda balas pesan warga itu dari akun pribadi Anda untuk menjelaskan prosedur layanan resmi kepada warga itu malam ini
-E. Anda arahkan warga ke kanal layanan resmi lalu hapus pesan berisi data pribadi dan laporkan ke tim keamanan data
+E. Anda arahkan warga ke kanal layanan resmi serta hapus pesan berisi data pribadi dan laporkan ke tim keamanan data
 
 **Kunci: E (5).** (1) E skor 5 karena aktif mengarahkan ke kanal resmi, konkret dengan menghapus pesan berisi data pribadi, dan sistemik lewat laporan ke tim keamanan data. (2) Skor tiap opsi: A=3 (pasif mengabaikan pesan berisi data pribadi); B=1 (menyebarkan tangkapan layar berisi data pribadi ke grup warga); C=4 (memperingatkan rekan, tapi tanpa mengarahkan warga dan tanpa menghapus datanya); D=2 (membalas dari akun pribadi — memakai kanal pribadi untuk urusan dinas); E=5 (lengkap: arahkan, hapus, laporkan). (3) Trik: data pribadi warga yang masuk lewat kanal yang salah harus diarahkan ke kanal resmi, dihapus dari kanal yang salah, dan dilaporkan — bukan disebarkan atau dibalas dari akun pribadi.
 
@@ -394,7 +394,7 @@ E. Anda arahkan warga ke kanal layanan resmi lalu hapus pesan berisi data pribad
 
 A. Anda balik dokumen itu agar isinya tertutup lalu beri tahu rekan Anda saat ia kembali ke meja layanan
 B. Anda amankan dokumen itu dari pandangan warga lalu beri tahu rekan Anda dan laporkan ke atasan bila data sempat terlihat
-C. Anda biarkan dokumen itu tetap terbuka begitu saja karena dokumen itu milik rekan Anda dan tanggung jawabnya sebagai pemilik dokumen cetak itu
+C. Anda biarkan dokumen itu tetap terbuka begitu saja, karena dokumen itu milik rekan Anda dan tanggung jawabnya sebagai pemilik dokumen cetak itu
 D. Anda baca dokumen itu untuk memastikan data warga yang tercetak lalu kembalikan ke tempatnya begitu saja di meja layanan
 E. Anda pindahkan dokumen itu ke laci meja yang terkunci lalu biarkan rekan Anda mencarinya sendiri nanti saat kembali
 
@@ -419,7 +419,7 @@ E. Anda verifikasi berkas keponakan atasan itu seperti pendaftar lain dan sampai
 A. Anda laporkan tautan itu ke atasan dan pengelola grup lalu buat klarifikasi dan catat temuan Anda secara tertulis
 B. Anda biarkan tautan itu karena sudah lama beredar di grup dan sebagian rekan hanya membacanya sekilas di sela pekerjaan
 C. Anda hapus tautan itu dari grup diam-diam agar rekan lain berhenti meneruskan ceramah tersebut ke grup lain
-D. Anda beri tahu rekan-rekan di grup agar mereka waspada terhadap tautan itu dan ingatkan bahaya paham tersebut bagi persatuan bangsa
+D. Anda beri tahu rekan-rekan di grup agar mereka waspada terhadap tautan itu, lalu ingatkan bahaya paham tersebut bagi persatuan bangsa
 E. Anda teruskan tautan itu ke grup lain agar rekan lain tahu isinya dan simpan tautan itu untuk Anda tonton
 
 **Kunci: A (5).** (1) A skor 5 karena aktif melaporkan, konkret dengan klarifikasi, dan sistemik lewat pencatatan temuan secara tertulis. (2) Skor tiap opsi: A=5 (lengkap: laporkan, klarifikasi, catat); B=3 (pasif membiarkan tautan beredar); C=2 (menghapus diam-diam — masalah tidak ditangani); D=4 (memperingatkan rekan di grup, tapi tanpa laporan ke pimpinan dan tanpa klarifikasi resmi); E=1 (meneruskan tautan radikal ke grup lain). (3) Trik: konten yang menolak Pancasila ditangani lewat jalur resmi — laporkan, klarifikasi, catat — bukan dengan menghapus diam-diam atau membiarkannya beredar.

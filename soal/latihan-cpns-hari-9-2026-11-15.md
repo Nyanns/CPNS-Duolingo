@@ -97,11 +97,11 @@ B. Tidak ada anggota panitia pengadaan yang boleh menerima hadiah dari kontrakto
 C. Semua kontraktor adalah anggota dewan
 D. Tidak dapat disimpulkan
 
-**6. (TIU numerik — deret dua operasi)** 4, 9, 19, 39, 79, …
-A. 149
-B. 169
-C. 159
-D. 158
+**6. (TIU numerik — deret dua operasi)** 2, 5, 14, 41, 122, …
+A. 245
+B. 364
+C. 365
+D. 366
 
 **7. (TIU numerik — analisis tabel)** Penjualan (dalam unit) empat toko selama tiga bulan:
 
@@ -176,19 +176,19 @@ D. 12
 
 *Soal 16–17 mengulang pola salah Hari 7 (TKP ketegasan prosedural). Soal 18–21 mengulang pola salah Hari 6 (deret kuadrat−1, soal cerita pekerja-hari, rata-rata gabungan, jumlah–selisih). Skenario dan angkanya BARU — yang diuji polanya, bukan hafalan jawabannya.*
 
-**16. (Ulangan buku kesalahan — TKP integritas)** Anda duduk di panitia seleksi beasiswa pelatihan yang akan mengumumkan hasilnya besok pagi. Seorang rekan panitia berbisik meminta Anda memberitahukan skor seorang kandidat yang dikenalnya, dengan alasan ia hanya ingin tahu peluangnya. Sikap terbaik Anda adalah…
+**16. (Ulangan buku kesalahan — TKP integritas)** Anda duduk di panitia seleksi beasiswa pelatihan yang akan mengumumkan hasilnya besok pagi. Seorang rekan dekat meminta Anda memberitahukan skor wawancara seorang kandidat lain agar ia bisa memperkirakan peluangnya, dan ia berjanji merahasiakan informasi itu. Anda memegang daftar skor yang belum boleh disebarkan. Sikap Anda adalah…
 A. Memberitahukan skor kandidat itu secara lisan, karena informasi lisan lebih sulit dilacak daripada dokumen tertulis.
 B. Menolak memberitahukan skor itu dan mengarahkan rekan itu menunggu pengumuman resmi besok pagi di kantor.
-C. Memberitahukan kisaran skor kandidat itu secara umum, agar rekan itu mendapat gambaran peluangnya sambil tetap menjaga kerahasiaan angka pastinya.
-D. Menolak memberitahukan skor itu, menjelaskan bahwa hasil seleksi bersifat rahasia sampai diumumkan, dan menegaskan pengumuman resmi besok pagi.
-E. Menunda menjawab permintaan itu dengan mengatakan Anda akan memeriksa dulu, sambil berharap rekan itu lupa dan tidak bertanya lagi.
+C. Memberitahukan kisaran skor kandidat itu secara umum, agar rekan itu mendapat gambaran peluangnya sebelum pengumuman.
+D. Menolak memberitahukan skor itu dan mengarahkan rekan menunggu pengumuman serta mencatat permintaan itu untuk panitia.
+E. Mengalihkan rekan itu dengan menjelaskan kriteria penilaian secara umum yang sudah dipublikasikan panitia secara resmi.
 
-**17. (Ulangan buku kesalahan — TKP profesionalisme)** Anda menjadi panitia upacara bendera Hari Kemerdekaan yang akan digelar besok pagi di kantor. Seorang rekan panitia memberi tahu Anda bahwa pengeras suara utama rusak dan suaranya tidak terdengar jelas. Petugas sound system sedang berada di luar kota dan baru kembali sore ini. Sikap terbaik Anda adalah…
-A. Segera memperbaiki sendiri pengeras suara itu dan memastikan suara terdengar jelas saat upacara dimulai.
-B. Meminta petugas sound system untuk memperbaikinya dan menunggu di samping panggung sampai selesai.
-C. Memakai pengeras suara cadangan yang suaranya lebih kecil sambil menunggu petugas datang.
-D. Meminta MC untuk berbicara lebih keras agar suaranya tetap terdengar oleh peserta upacara.
-E. Membiarkan pengeras suara itu rusak dan berharap tidak ada peserta yang memperhatikan.
+**17. (Ulangan buku kesalahan — TKP profesionalisme)** Anda menjadi panitia upacara bendera Hari Kemerdekaan yang akan digelar besok pagi di kantor. Seorang rekan menyatakan ia enggan ikut serta dan mengajak rekan lain absen dari upacara itu, dengan alasan upacara bukan pekerjaan yang sesungguhnya. Sikap Anda adalah…
+A. Menjelaskan kewajiban upacara bendera bagi ASN dan mengajak rekan hadir serta melaporkan ajakannya bila berlanjut.
+B. Menjelaskan bahwa upacara bendera adalah kewajiban ASN dan mengajak rekan itu hadir bersama seluruh tim besok pagi.
+C. Membiarkan rekan itu absen dari upacara karena keikutsertaan upacara adalah pilihan pribadi setiap pegawai di kantor.
+D. Mengajak rekan itu berdiskusi panjang tentang makna upacara bendera agar ia memahami nilai kebangsaan di baliknya.
+E. Mengabaikan ajakan rekan itu dan berharap rekan lain tetap hadir besok atas kemauan mereka sendiri di kantor.
 
 **18. (Ulangan Hari 6 No. 15 — deret)** 3, 8, 15, 24, 35, …
 A. 46
@@ -230,7 +230,7 @@ D. 50
 
 **5. B.** "Tidak ada anggota dewan yang boleh menerima hadiah" + "semua panitia adalah anggota dewan" → tidak ada anggota panitia yang boleh menerima hadiah. Kuantor "tidak ada" merambat ke bawah lewat "semua". A dan C membalik arah rantai; D salah karena kesimpulan valid tersedia.
 
-**6. C — 159.** Pola ×2+1: 4×2+1=9, 9×2+1=19, 19×2+1=39, 39×2+1=79, 79×2+1=**159**. Jebakan: A (149) dan B (169) adalah hasil kalau kamu salah menghitung satu langkah di tengah — hitung sampai ujung sebelum memilih.
+**6. C — 365.** Pola ×3−1: 2×3−1=5, 5×3−1=14, 14×3−1=41, 41×3−1=122, 122×3−1=**365**. Selisihnya (+3, +9, +27, +81) dikali 3 tiap langkah — tanda pola perkalian, bukan penjumlahan tetap. Jebakan: B (364) muncul bila menghitung 122×3−2; D (366) bila lupa mengurangi 1; A (245) memakai pola ×2+1 yang hanya cocok di suku pertama (2×2+1=5) tetapi gagal di suku kedua (5×2+1=11, bukan 14) — selalu uji pola ke SEMUA suku sebelum memilih.
 
 **7. A — 20.** Total B = 150+130+170 = 450. Total D = 90+200+140 = 430. Selisih = 450−430 = **20**. Jebakan: tergoda membandingkan satu bulan saja (Feb: D 200 vs B 130) — soal meminta total tiga bulan.
 
@@ -254,11 +254,11 @@ D. 50
 
 ### Bagian C — Ulangan buku kesalahan
 
-**16. D (5) — A (1), B (4), C (2), E (3).** Hasil seleksi yang belum diumumkan adalah informasi rahasia panitia; membocorkannya — lisan maupun tertulis — melanggar integritas dan kepercayaan publik. D paling tepat (skor 5): menolak membocorkan, menjelaskan alasan kerahasiaan, dan memberi kepastian waktu pengumuman resmi. B baik tetapi hanya mengarahkan menunggu tanpa menjelaskan alasan (skor 4). E menunda tanpa kejelasan dan membiarkan rekan menggantung (skor 3). C membocorkan kisaran — tetap membocorkan (skor 2). A paling buruk (skor 1): membocorkan secara lisan justru menambah pelanggaran karena sulit dilacak.
-**Jebakan:** A terdengar aman karena "lisan lebih sulit dilacak" — padahal justru itulah yang membuatnya paling buruk.
+**16. D (5) — A (1), B (4), C (2), E (3).** Skor wawancara yang belum diumumkan adalah informasi rahasia panitia; janji rekan untuk merahasiakannya tidak mengubah sifat informasi itu. D paling tepat (skor 5): menolak memberitahukan, mengarahkan menunggu pengumuman resmi, dan mencatat permintaan itu untuk panitia — meninggalkan jejak atas upaya kebocoran. B baik tetapi permintaan itu tidak dicatat, sehingga panitia tidak tahu kerahasiaan seleksi sudah diuji (skor 4). E hanya mengalihkan ke kriteria umum tanpa penolakan tegas dan tanpa pencatatan (skor 3). C membocorkan kisaran — tetap membocorkan (skor 2). A paling buruk (skor 1): membocorkan secara lisan justru agar sulit dilacak.
+**Jebakan:** B terdengar sempurna karena penolakan dan arahannya benar — padahal permintaan kebocoran yang tidak dicatat membuat panitia tidak tahu bahwa kerahasiaan seleksi sudah diuji.
 
-**17. A (5) — B (4), C (3), D (2), E (1).** Masalah teknis upacara harus diselesaikan sebelum acara, bukan dibiarkan atau dipindah bebannya. A paling tepat (skor 5): segera memperbaiki sendiri pengeras suara itu dan memastikan suara terdengar jelas saat upacara dimulai. B baik tetapi menunda penyelesaian ke petugas dan berisiko tidak selesai tepat waktu (skor 4). C hanya solusi sementara tanpa memperbaiki sumber masalah (skor 3). D memindah beban ke MC tanpa menyelesaikan kerusakan (skor 2). E paling buruk (skor 1): membiarkan kerusakan dan berharap tidak ada yang memperhatikan.
-**Jebakan:** B terdengar profesional karena melibatkan petugas — padahal menunda perbaikan justru berisiko upacara terganggu.
+**17. A (5) — B (4), C (2), D (3), E (1).** Upacara bendera adalah kewajiban ASN; rekan yang enggan hadir dan mengajak rekan lain absen harus ditegakkan kewajibannya, bukan dibiarkan. A paling tepat (skor 5): menjelaskan kewajiban, mengajak hadir, dan melaporkan ajakannya bila berlanjut. B baik tetapi ajakan rekan kepada rekan lain tidak ditindaklanjuti (skor 4). D hanya berdiskusi tentang makna upacara tanpa menegakkan kewajiban dan membiarkan ajakan itu (skor 3). C membiarkan pelanggaran dengan dalih pilihan pribadi (skor 2). E paling buruk (skor 1): pasif, menyerahkan kehadiran rekan lain kepada kemauan mereka sendiri.
+**Jebakan:** B terdengar lengkap karena penjelasan dan ajakannya benar — padahal rekan yang terus mengajak rekan lain absen membuat upacara besok tetap terancam sepi.
 
 **18. D — 48.** Pola n²−1: 2²−1=3, 3²−1=8, 4²−1=15, 5²−1=24, 6²−1=35, 7²−1=**48**. Ini pola Hari 6 No. 15 (deret yang sama, angka lanjutannya berbeda). Jebakan: C (49) adalah 7² tanpa dikurangi 1.
 
